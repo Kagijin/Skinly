@@ -1,7 +1,3 @@
-Aqui está um README básico para o seu projeto com base na licença Skinly Custom License (SCL) que você enviou. O README apresenta o projeto, explica a licença e dá instruções básicas para uso.
-
----
-
 # Skinly Skins Repository
 
 Bem-vindo ao repositório oficial da **Skinly** — coleção de skins personalizadas para uso pessoal, modificáveis e compartilháveis, com foco na comunidade e respeito aos autores originais.
