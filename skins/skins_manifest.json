@@ -1,5 +1,5 @@
 {
-    "aatrox": [
+    "Aatrox": [
         {
             "name": "Aatrox"
         },
@@ -40,7 +40,7 @@
             "name": "Victorious Aatrox"
         }
     ],
-    "ahri": [
+    "Ahri": [
         {
             "name": "Academy Ahri"
         },
@@ -99,7 +99,7 @@
             "name": "Star Guardian Ahri"
         }
     ],
-    "akali": [
+    "Akali": [
         {
             "name": "Akali"
         },
@@ -167,7 +167,7 @@
             "name": "True Damage Akali"
         }
     ],
-    "akshan": [
+    "Akshan": [
         {
             "name": "Akshan"
         },
@@ -181,7 +181,7 @@
             "name": "Three Honors Akshan"
         }
     ],
-    "alistar": [
+    "Alistar": [
         {
             "name": "Alistar"
         },
@@ -228,7 +228,7 @@
             "name": "Unchained Alistar"
         }
     ],
-    "ambessa": [
+    "Ambessa": [
         {
             "name": "Ambessa"
         },
@@ -236,7 +236,7 @@
             "name": "Chosen of the Wolf Ambessa"
         }
     ],
-    "amumu": [
+    "Amumu": [
         {
             "name": "Almost-Prom King Amumu"
         },
@@ -280,7 +280,7 @@
             "name": "Vancouver Amumu"
         }
     ],
-    "anivia": [
+    "Anivia": [
         {
             "name": "Anivia"
         },
@@ -318,7 +318,7 @@
             "name": "Victorious Anivia"
         }
     ],
-    "annie": [
+    "Annie": [
         {
             "name": "Annie"
         },
@@ -374,7 +374,7 @@
             "name": "Winterblessed Annie"
         }
     ],
-    "aphelios": [
+    "Aphelios": [
         {
             "name": "Aphelios"
         },
@@ -394,7 +394,7 @@
             "name": "Spirit Blossom Aphelios"
         }
     ],
-    "ashe": [
+    "Ashe": [
         {
             "name": "Amethyst Ashe"
         },
@@ -477,7 +477,7 @@
             "name": "Worlds 2017 Ashe"
         }
     ],
-    "aurelionsol": [
+    "AurelionSol": [
         {
             "name": "Aurelion Sol"
         },
@@ -494,7 +494,7 @@
             "name": "Storm Dragon Aurelion Sol"
         }
     ],
-    "aurora": [
+    "Aurora": [
         {
             "name": "Aurora"
         },
@@ -502,7 +502,7 @@
             "name": "Battle Bunny Aurora"
         }
     ],
-    "azir": [
+    "Azir": [
         {
             "name": "Attorney Azir"
         },
@@ -528,7 +528,7 @@
             "name": "Worlds 2022 Azir"
         }
     ],
-    "bard": [
+    "Bard": [
         {
             "name": "Astronaut Bard"
         },
@@ -557,7 +557,7 @@
             "name": "T1 Bard"
         }
     ],
-    "belveth": [
+    "Belveth": [
         {
             "name": "Battle Boss Bel'Veth"
         },
@@ -571,7 +571,7 @@
             "name": "Primordian Bel'Veth"
         }
     ],
-    "blitzcrank": [
+    "Blitzcrank": [
         {
             "name": "Battle Boss Blitzcrank"
         },
@@ -615,7 +615,7 @@
             "name": "iBlitzcrank"
         }
     ],
-    "brand": [
+    "Brand": [
         {
             "name": "Apocalyptic Brand"
         },
@@ -656,7 +656,7 @@
             "name": "Zombie Brand"
         }
     ],
-    "braum": [
+    "Braum": [
         {
             "name": "Braum"
         },
@@ -685,7 +685,7 @@
             "name": "Sugar Rush Braum"
         }
     ],
-    "briar": [
+    "Briar": [
         {
             "name": "Briar"
         },
@@ -696,7 +696,7 @@
             "name": "Street Demons Briar"
         }
     ],
-    "caitlyn": [
+    "Caitlyn": [
         {
             "name": "Arcade Caitlyn"
         },
@@ -758,7 +758,7 @@
             "name": "Snow Moon Caitlyn"
         }
     ],
-    "camille": [
+    "Camille": [
         {
             "name": "Arcana Camille"
         },
@@ -784,7 +784,7 @@
             "name": "iG Camille"
         }
     ],
-    "cassiopeia": [
+    "Cassiopeia": [
         {
             "name": "Bewitching Cassiopeia"
         },
@@ -816,7 +816,7 @@
             "name": "Spirit Blossom Cassiopeia"
         }
     ],
-    "chogath": [
+    "Chogath": [
         {
             "name": "Battlecast Prime Cho'Gath"
         },
@@ -851,7 +851,7 @@
             "name": "Toy Terror Cho'Gath"
         }
     ],
-    "corki": [
+    "Corki": [
         {
             "name": "Arcade Corki"
         },
@@ -886,7 +886,7 @@
             "name": "Urfrider Corki"
         }
     ],
-    "darius": [
+    "Darius": [
         {
             "name": "Academy Darius"
         },
@@ -933,7 +933,7 @@
             "name": "Woad King Darius"
         }
     ],
-    "diana": [
+    "Diana": [
         {
             "name": "Battle Queen Diana"
         },
@@ -980,7 +980,7 @@
             "name": "Winterblessed Diana"
         }
     ],
-    "draven": [
+    "Draven": [
         {
             "name": "Beast Hunter Draven"
         },
@@ -1024,7 +1024,7 @@
             "name": "Soul Reaver Draven"
         }
     ],
-    "ekko": [
+    "Ekko": [
         {
             "name": "Academy Ekko"
         },
@@ -1065,7 +1065,7 @@
             "name": "True Damage Ekko"
         }
     ],
-    "elise": [
+    "Elise": [
         {
             "name": "Bewitching Elise"
         },
@@ -1097,7 +1097,7 @@
             "name": "Withered Rose Elise"
         }
     ],
-    "evelynn": [
+    "Evelynn": [
         {
             "name": "Blood Moon Evelynn"
         },
@@ -1150,7 +1150,7 @@
             "name": "Tango Evelynn"
         }
     ],
-    "ezreal": [
+    "Ezreal": [
         {
             "name": "Ace of Spades Ezreal"
         },
@@ -1218,7 +1218,7 @@
             "name": "TPA Ezreal"
         }
     ],
-    "fiddlesticks": [
+    "Fiddlesticks": [
         {
             "name": "Bandito Fiddlesticks"
         },
@@ -1253,7 +1253,7 @@
             "name": "Union Jack Fiddlesticks"
         }
     ],
-    "fiora": [
+    "Fiora": [
         {
             "name": "Battle Queen Fiora"
         },
@@ -1303,7 +1303,7 @@
             "name": "iG Fiora"
         }
     ],
-    "fizz": [
+    "Fizz": [
         {
             "name": "Astronaut Fizz"
         },
@@ -1347,7 +1347,7 @@
             "name": "Void Fizz"
         }
     ],
-    "galio": [
+    "Galio": [
         {
             "name": "Commando Galio"
         },
@@ -1376,7 +1376,7 @@
             "name": "Mythmaker Galio"
         }
     ],
-    "gangplank": [
+    "Gangplank": [
         {
             "name": "Captain Gangplank"
         },
@@ -1417,7 +1417,7 @@
             "name": "Toy Soldier Gangplank"
         }
     ],
-    "garen": [
+    "Garen": [
         {
             "name": "Battle Academia Garen"
         },
@@ -1467,7 +1467,7 @@
             "name": "Warring Kingdoms Garen"
         }
     ],
-    "gnar": [
+    "Gnar": [
         {
             "name": "Astronaut Gnar"
         },
@@ -1499,7 +1499,7 @@
             "name": "Super Galaxy Gnar"
         }
     ],
-    "gragas": [
+    "Gragas": [
         {
             "name": "Arctic Ops Gragas"
         },
@@ -1546,7 +1546,7 @@
             "name": "Warden Gragas"
         }
     ],
-    "graves": [
+    "Graves": [
         {
             "name": "Battle Professor Graves"
         },
@@ -1590,7 +1590,7 @@
             "name": "Victorious Graves"
         }
     ],
-    "gwen": [
+    "Gwen": [
         {
             "name": "Battle Queen Gwen"
         },
@@ -1607,7 +1607,7 @@
             "name": "Space Groove Gwen"
         }
     ],
-    "hecarim": [
+    "Hecarim": [
         {
             "name": "Arcade Hecarim"
         },
@@ -1648,7 +1648,7 @@
             "name": "Worldbreaker Hecarim"
         }
     ],
-    "heimerdinger": [
+    "Heimerdinger": [
         {
             "name": "Alien Invader Heimerdinger"
         },
@@ -1674,7 +1674,7 @@
             "name": "Pool Party Heimerdinger"
         }
     ],
-    "hwei": [
+    "Hwei": [
         {
             "name": "Hwei"
         },
@@ -1685,7 +1685,7 @@
             "name": "Winterblessed Hwei"
         }
     ],
-    "illaoi": [
+    "Illaoi": [
         {
             "name": "Battle Bear Illaoi"
         },
@@ -1705,7 +1705,7 @@
             "name": "Void Bringer Illaoi"
         }
     ],
-    "irelia": [
+    "Irelia": [
         {
             "name": "Aviator Irelia"
         },
@@ -1755,7 +1755,7 @@
             "name": "iG Irelia"
         }
     ],
-    "ivern": [
+    "Ivern": [
         {
             "name": "Astronaut Ivern"
         },
@@ -1775,7 +1775,7 @@
             "name": "Spirit Blossom Ivern"
         }
     ],
-    "janna": [
+    "Janna": [
         {
             "name": "Battle Queen Janna"
         },
@@ -1828,7 +1828,7 @@
             "name": "Victorious Janna"
         }
     ],
-    "jarvaniv": [
+    "JarvanIV": [
         {
             "name": "Commando Jarvan IV"
         },
@@ -1875,7 +1875,7 @@
             "name": "Worlds 2021 Jarvan IV"
         }
     ],
-    "jax": [
+    "Jax": [
         {
             "name": "Angler Jax"
         },
@@ -1928,7 +1928,7 @@
             "name": "Warden Jax"
         }
     ],
-    "jayce": [
+    "Jayce": [
         {
             "name": "Arcane Inventor Jayce"
         },
@@ -1966,7 +1966,7 @@
             "name": "Zenith Games Jayce"
         }
     ],
-    "jhin": [
+    "Jhin": [
         {
             "name": "Blood Moon Jhin"
         },
@@ -2004,7 +2004,7 @@
             "name": "Soul Fighter Jhin"
         }
     ],
-    "jinx": [
+    "Jinx": [
         {
             "name": "Ambitious Elf Jinx"
         },
@@ -2051,7 +2051,7 @@
             "name": "Zombie Slayer Jinx"
         }
     ],
-    "kaisa": [
+    "Kaisa": [
         {
             "name": "Arcade Kai'Sa"
         },
@@ -2098,7 +2098,7 @@
             "name": "iG Kai'Sa"
         }
     ],
-    "kalista": [
+    "Kalista": [
         {
             "name": "Blood Moon Kalista"
         },
@@ -2121,7 +2121,7 @@
             "name": "Worlds 2015 Kalista"
         }
     ],
-    "karma": [
+    "Karma": [
         {
             "name": "Conqueror Karma"
         },
@@ -2171,7 +2171,7 @@
             "name": "Winter Wonder Karma"
         }
     ],
-    "karthus": [
+    "Karthus": [
         {
             "name": "Elderwood Karthus"
         },
@@ -2203,7 +2203,7 @@
             "name": "Statue of Karthus"
         }
     ],
-    "kassadin": [
+    "Kassadin": [
         {
             "name": "Cosmic Reaver Kassadin"
         },
@@ -2235,7 +2235,7 @@
             "name": "Shockblade Kassadin"
         }
     ],
-    "katarina": [
+    "Katarina": [
         {
             "name": "Battle Academia Katarina"
         },
@@ -2294,7 +2294,7 @@
             "name": "Warring Kingdoms Katarina"
         }
     ],
-    "kayle": [
+    "Kayle": [
         {
             "name": "Aether Wing Kayle"
         },
@@ -2350,7 +2350,7 @@
             "name": "Viridian Kayle"
         }
     ],
-    "kayn": [
+    "Kayn": [
         {
             "name": "Battle Academia Kayn"
         },
@@ -2376,7 +2376,7 @@
             "name": "Soulhunter Kayn"
         }
     ],
-    "kennen": [
+    "Kennen": [
         {
             "name": "Arctic Ops Kennen"
         },
@@ -2411,7 +2411,7 @@
             "name": "Swamp Master Kennen"
         }
     ],
-    "khazix": [
+    "Khazix": [
         {
             "name": "Crystalis Indomitus Kha'Zix"
         },
@@ -2440,7 +2440,7 @@
             "name": "Worlds 2018 Kha'Zix"
         }
     ],
-    "kindred": [
+    "Kindred": [
         {
             "name": "Chosen of the Wolf Kindred"
         },
@@ -2469,7 +2469,7 @@
             "name": "Woof and Lamb Kindred"
         }
     ],
-    "kled": [
+    "Kled": [
         {
             "name": "Count Kledula"
         },
@@ -2486,7 +2486,7 @@
             "name": "Sir Kled"
         }
     ],
-    "kogmaw": [
+    "KogMaw": [
         {
             "name": "Arcanist Kog'Maw"
         },
@@ -2527,7 +2527,7 @@
             "name": "Victorious Kog'Maw"
         }
     ],
-    "ksante": [
+    "KSante": [
         {
             "name": "Empyrean K'Sante"
         },
@@ -2541,7 +2541,7 @@
             "name": "Prestige Empyrean K'Sante"
         }
     ],
-    "leblanc": [
+    "Leblanc": [
         {
             "name": "Bewitching LeBlanc"
         },
@@ -2585,7 +2585,7 @@
             "name": "iG LeBlanc"
         }
     ],
-    "leesin": [
+    "LeeSin": [
         {
             "name": "Acolyte Lee Sin"
         },
@@ -2647,7 +2647,7 @@
             "name": "Zenith Games Lee Sin"
         }
     ],
-    "leona": [
+    "Leona": [
         {
             "name": "Barbecue Leona"
         },
@@ -2703,7 +2703,7 @@
             "name": "Valkyrie Leona"
         }
     ],
-    "lillia": [
+    "Lillia": [
         {
             "name": "Faerie Court Lillia"
         },
@@ -2720,7 +2720,7 @@
             "name": "Spirit Blossom Lillia"
         }
     ],
-    "lissandra": [
+    "Lissandra": [
         {
             "name": "Blade Queen Lissandra"
         },
@@ -2749,7 +2749,7 @@
             "name": "Space Groove Lissandra"
         }
     ],
-    "lucian": [
+    "Lucian": [
         {
             "name": "Arcana Lucian"
         },
@@ -2793,7 +2793,7 @@
             "name": "Winterblessed Lucian"
         }
     ],
-    "lulu": [
+    "Lulu": [
         {
             "name": "Bittersweet Lulu"
         },
@@ -2834,7 +2834,7 @@
             "name": "Winter Wonder Lulu"
         }
     ],
-    "lux": [
+    "Lux": [
         {
             "name": "Battle Academia Lux"
         },
@@ -2902,7 +2902,7 @@
             "name": "Steel Legion Lux"
         }
     ],
-    "malphite": [
+    "Malphite": [
         {
             "name": "Coral Reef Malphite"
         },
@@ -2949,7 +2949,7 @@
             "name": "Shamrock Malphite"
         }
     ],
-    "malzahar": [
+    "Malzahar": [
         {
             "name": "Battle Boss Malzahar"
         },
@@ -2990,7 +2990,7 @@
             "name": "Worldbreaker Malzahar"
         }
     ],
-    "maokai": [
+    "Maokai": [
         {
             "name": "Astronaut Maokai"
         },
@@ -3022,7 +3022,7 @@
             "name": "Worldbreaker Maokai"
         }
     ],
-    "masteryi": [
+    "MasterYi": [
         {
             "name": "Assassin Master Yi"
         },
@@ -3066,7 +3066,7 @@
             "name": "Victorious Master Yi"
         }
     ],
-    "mel": [
+    "Mel": [
         {
             "name": "Arcane Councilor Mel"
         },
@@ -3074,7 +3074,7 @@
             "name": "Mel"
         }
     ],
-    "milio": [
+    "Milio": [
         {
             "name": "Faerie Court Milio"
         },
@@ -3085,7 +3085,7 @@
             "name": "Rain Shepherd Milio"
         }
     ],
-    "missfortune": [
+    "MissFortune": [
         {
             "name": "Admiral Battle Bunny Miss Fortune"
         },
@@ -3153,7 +3153,7 @@
             "name": "Waterloo Miss Fortune"
         }
     ],
-    "mordekaiser": [
+    "Mordekaiser": [
         {
             "name": "Dark Star Mordekaiser"
         },
@@ -3191,7 +3191,7 @@
             "name": "Sahn-Uzal Mordekaiser"
         }
     ],
-    "morgana": [
+    "Morgana": [
         {
             "name": "Bewitching Morgana"
         },
@@ -3244,7 +3244,7 @@
             "name": "Victorious Morgana"
         }
     ],
-    "naafiri": [
+    "Naafiri": [
         {
             "name": "Glizzy Naafiri"
         },
@@ -3258,7 +3258,7 @@
             "name": "Soul Fighter Naafiri"
         }
     ],
-    "nami": [
+    "Nami": [
         {
             "name": "Bewitching Nami"
         },
@@ -3302,7 +3302,7 @@
             "name": "Urf the Nami-tee"
         }
     ],
-    "nasus": [
+    "Nasus": [
         {
             "name": "Archduke Nasus"
         },
@@ -3346,7 +3346,7 @@
             "name": "Worldbreaker Nasus"
         }
     ],
-    "nautilus": [
+    "Nautilus": [
         {
             "name": "Abyssal Nautilus"
         },
@@ -3381,7 +3381,7 @@
             "name": "Worldbreaker Nautilus"
         }
     ],
-    "neeko": [
+    "Neeko": [
         {
             "name": "Bewitching Neeko"
         },
@@ -3410,7 +3410,7 @@
             "name": "Winter Wonder Neeko"
         }
     ],
-    "nidalee": [
+    "Nidalee": [
         {
             "name": "Bewitching Nidalee"
         },
@@ -3460,7 +3460,7 @@
             "name": "Warring Kingdoms Nidalee"
         }
     ],
-    "nilah": [
+    "Nilah": [
         {
             "name": "Coven Nilah"
         },
@@ -3474,7 +3474,7 @@
             "name": "Star Guardian Nilah"
         }
     ],
-    "nocturne": [
+    "Nocturne": [
         {
             "name": "Broken Covenant Nocturne"
         },
@@ -3509,7 +3509,7 @@
             "name": "Void Nocturne"
         }
     ],
-    "nunu": [
+    "NunuWillump": [
         {
             "name": "Cosmic Paladins Nunu & Willump"
         },
@@ -3550,7 +3550,7 @@
             "name": "Zombie Nunu & Willump"
         }
     ],
-    "olaf": [
+    "Olaf": [
         {
             "name": "Brolaf"
         },
@@ -3588,7 +3588,7 @@
             "name": "Sentinel Olaf"
         }
     ],
-    "orianna": [
+    "Orianna": [
         {
             "name": "Bladecraft Orianna"
         },
@@ -3626,7 +3626,7 @@
             "name": "Winter Wonder Orianna"
         }
     ],
-    "ornn": [
+    "Ornn": [
         {
             "name": "Choo-Choo Ornn"
         },
@@ -3643,7 +3643,7 @@
             "name": "Thunder Lord Ornn"
         }
     ],
-    "pantheon": [
+    "Pantheon": [
         {
             "name": "Baker Pantheon"
         },
@@ -3684,7 +3684,7 @@
             "name": "Zombie Slayer Pantheon"
         }
     ],
-    "poppy": [
+    "Poppy": [
         {
             "name": "Astronaut Poppy"
         },
@@ -3725,7 +3725,7 @@
             "name": "Star Guardian Poppy"
         }
     ],
-    "pyke": [
+    "Pyke": [
         {
             "name": "Blood Moon Pyke"
         },
@@ -3760,7 +3760,7 @@
             "name": "Soul Fighter Pyke"
         }
     ],
-    "qiyana": [
+    "Qiyana": [
         {
             "name": "Battle Boss Qiyana"
         },
@@ -3792,7 +3792,7 @@
             "name": "True Damage Qiyana"
         }
     ],
-    "quinn": [
+    "Quinn": [
         {
             "name": "Corsair Quinn"
         },
@@ -3815,7 +3815,7 @@
             "name": "Woad Scout Quinn"
         }
     ],
-    "rakan": [
+    "Rakan": [
         {
             "name": "Arcana Rakan"
         },
@@ -3856,7 +3856,7 @@
             "name": "iG Rakan"
         }
     ],
-    "rammus": [
+    "Rammus": [
         {
             "name": "Astronaut Rammus"
         },
@@ -3894,7 +3894,7 @@
             "name": "Sweeper Rammus"
         }
     ],
-    "reksai": [
+    "RekSai": [
         {
             "name": "Blackfrost Rek'Sai"
         },
@@ -3914,7 +3914,7 @@
             "name": "Rek'Sai"
         }
     ],
-    "rell": [
+    "Rell": [
         {
             "name": "Battle Queen Rell"
         },
@@ -3931,7 +3931,7 @@
             "name": "Star Guardian Rell"
         }
     ],
-    "renata": [
+    "Renata": [
         {
             "name": "Fright Night Renata Glasc"
         },
@@ -3948,7 +3948,7 @@
             "name": "Renata Glasc"
         }
     ],
-    "renekton": [
+    "Renekton": [
         {
             "name": "Blackfrost Renekton"
         },
@@ -3995,7 +3995,7 @@
             "name": "Worlds 2023 Renekton"
         }
     ],
-    "rengar": [
+    "Rengar": [
         {
             "name": "Guardian of the Sands Rengar"
         },
@@ -4024,7 +4024,7 @@
             "name": "Street Demons Rengar"
         }
     ],
-    "riven": [
+    "Riven": [
         {
             "name": "Arcade Riven"
         },
@@ -4080,7 +4080,7 @@
             "name": "Worlds 2012 Riven"
         }
     ],
-    "rumble": [
+    "Rumble": [
         {
             "name": "Badlands Baron Rumble"
         },
@@ -4103,7 +4103,7 @@
             "name": "Super Galaxy Rumble"
         }
     ],
-    "ryze": [
+    "Ryze": [
         {
             "name": "Arcana Ryze"
         },
@@ -4150,7 +4150,7 @@
             "name": "Zombie Ryze"
         }
     ],
-    "samira": [
+    "Samira": [
         {
             "name": "High Noon Samira"
         },
@@ -4170,7 +4170,7 @@
             "name": "Space Groove Samira"
         }
     ],
-    "sejuani": [
+    "Sejuani": [
         {
             "name": "Bear Cavalry Sejuani"
         },
@@ -4211,7 +4211,7 @@
             "name": "Victorious Sejuani"
         }
     ],
-    "senna": [
+    "Senna": [
         {
             "name": "Bewitching Senna"
         },
@@ -4246,7 +4246,7 @@
             "name": "Winterblessed Senna"
         }
     ],
-    "seraphine": [
+    "Seraphine": [
         {
             "name": "Battle Dove Seraphine"
         },
@@ -4275,7 +4275,7 @@
             "name": "Star Guardian Seraphine"
         }
     ],
-    "sett": [
+    "Sett": [
         {
             "name": "Firecracker Sett"
         },
@@ -4307,7 +4307,7 @@
             "name": "Spirit Blossom Sett"
         }
     ],
-    "shaco": [
+    "Shaco": [
         {
             "name": "Arcanist Shaco"
         },
@@ -4354,7 +4354,7 @@
             "name": "Workshop Shaco"
         }
     ],
-    "shen": [
+    "Shen": [
         {
             "name": "Blood Moon Shen"
         },
@@ -4389,7 +4389,7 @@
             "name": "Yellow Jacket Shen"
         }
     ],
-    "shyvana": [
+    "Shyvana": [
         {
             "name": "Boneclaw Shyvana"
         },
@@ -4418,7 +4418,7 @@
             "name": "Worlds 2014 Shyvana"
         }
     ],
-    "singed": [
+    "Singed": [
         {
             "name": "Arcane Shimmer Lab Singed"
         },
@@ -4459,7 +4459,7 @@
             "name": "Surfer Singed"
         }
     ],
-    "sion": [
+    "Sion": [
         {
             "name": "Barbarian Sion"
         },
@@ -4494,7 +4494,7 @@
             "name": "Worldbreaker Sion"
         }
     ],
-    "sivir": [
+    "Sivir": [
         {
             "name": "Ann-Sivir-sary"
         },
@@ -4553,7 +4553,7 @@
             "name": "Warrior Princess Sivir"
         }
     ],
-    "skarner": [
+    "Skarner": [
         {
             "name": "Battlecast Alpha Skarner"
         },
@@ -4573,7 +4573,7 @@
             "name": "Skarner"
         }
     ],
-    "smolder": [
+    "Smolder": [
         {
             "name": "Heavenscale Smolder"
         },
@@ -4581,7 +4581,7 @@
             "name": "Smolder"
         }
     ],
-    "sona": [
+    "Sona": [
         {
             "name": "Arcade Sona"
         },
@@ -4631,7 +4631,7 @@
             "name": "Victorious Sona"
         }
     ],
-    "soraka": [
+    "Soraka": [
         {
             "name": "Cafe Cuties Soraka"
         },
@@ -4684,7 +4684,7 @@
             "name": "Winter Wonder Soraka"
         }
     ],
-    "swain": [
+    "Swain": [
         {
             "name": "Bilgewater Swain"
         },
@@ -4716,7 +4716,7 @@
             "name": "Winterblessed Swain"
         }
     ],
-    "sylas": [
+    "Sylas": [
         {
             "name": "Battle Wolf Sylas"
         },
@@ -4742,7 +4742,7 @@
             "name": "Winterblessed Sylas"
         }
     ],
-    "syndra": [
+    "Syndra": [
         {
             "name": "Atlantean Syndra"
         },
@@ -4786,7 +4786,7 @@
             "name": "Withered Rose Syndra"
         }
     ],
-    "tahmkench": [
+    "TahmKench": [
         {
             "name": "Arcana Tahm Kench"
         },
@@ -4806,7 +4806,7 @@
             "name": "Tahm Kench"
         }
     ],
-    "taliyah": [
+    "Taliyah": [
         {
             "name": "Crystalis Motus Taliyah"
         },
@@ -4826,7 +4826,7 @@
             "name": "Taliyah"
         }
     ],
-    "talon": [
+    "Talon": [
         {
             "name": "Blood Moon Talon"
         },
@@ -4867,7 +4867,7 @@
             "name": "Withered Rose Talon"
         }
     ],
-    "taric": [
+    "Taric": [
         {
             "name": "Armor of the Fifth Age Taric"
         },
@@ -4893,7 +4893,7 @@
             "name": "Taric Luminshield"
         }
     ],
-    "teemo": [
+    "Teemo": [
         {
             "name": "Astronaut Teemo"
         },
