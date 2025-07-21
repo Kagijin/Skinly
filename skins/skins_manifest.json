@@ -202,11 +202,7 @@
     { "name": "T1 Bard"},
     { "name": "Shan Hai Scrolls Bard" }
   ],
-  "belveth": [
-    { "name": "Bel'Veth" },
-    { "name": "Battle Boss Bel'Veth" },
-    { "name": "Primordian Bel'Veth" },
-    { "name": "Cosmic Empress Bel'Veth" }
+  "Belveth": [{"name": "Battle Boss Bel'Veth"}, {"name": "Bel'Veth"}, {"name": "Cosmic Matriarch Bel'Veth"}, {"name": "Primordian Bel'Veth"}
   ],
   "Blitzcrank": [
     { "name": "Blitzcrank" },
