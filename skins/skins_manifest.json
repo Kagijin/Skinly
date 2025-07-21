@@ -202,7 +202,7 @@
     { "name": "T1 Bard"},
     { "name": "Shan Hai Scrolls Bard" }
   ],
-  "Belveth": [
+  "belveth": [
     { "name": "Bel'Veth" },
     { "name": "Battle Boss Bel'Veth" },
     { "name": "Primordian Bel'Veth" },
