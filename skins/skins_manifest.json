@@ -465,7 +465,7 @@
       "name": "Worlds 2017 Ashe"
     }
   ],
-  "Aurelion Sol": [
+  "AurelionSol": [
     {
       "name": "Aurelion Sol"
     },
@@ -548,7 +548,7 @@
       "name": "T1 Bard"
     }
   ],
-  "Bel'Veth": [
+  "BelVeth": [
     {
       "name": "Bel'Veth"
     },
@@ -813,7 +813,7 @@
       "name": "Spirit Blossom Cassiopeia"
     }
   ],
-  "Cho'Gath": [
+  "ChoGath": [
     {
       "name": "Cho'Gath"
     },
@@ -977,7 +977,7 @@
       "name": "Winterblessed Diana"
     }
   ],
-  "Dr. Mundo": [
+  "DrMundo": [
     {
       "name": "Dr. Mundo"
     },
@@ -1875,7 +1875,7 @@
       "name": "Victorious Janna"
     }
   ],
-  "Jarvan IV": [
+  "JarvanIV": [
     {
       "name": "Jarvan IV"
     },
@@ -2098,7 +2098,7 @@
       "name": "Zombie Slayer Jinx"
     }
   ],
-  "K'Sante": [
+  "KSante": [
     {
       "name": "K'Sante"
     },
@@ -2112,7 +2112,7 @@
       "name": "Prestige Empyrean K'Sante"
     }
   ],
-  "Kai'Sa": [
+  "KaiSa": [
     {
       "name": "Kai'Sa"
     },
@@ -2475,7 +2475,7 @@
       "name": "Swamp Master Kennen"
     }
   ],
-  "Kha'Zix": [
+  "KhaZix": [
     {
       "name": "Kha'Zix"
     },
@@ -2550,7 +2550,7 @@
       "name": "Sir Kled"
     }
   ],
-  "Kog'Maw": [
+  "KogMaw": [
     {
       "name": "Kog'Maw"
     },
@@ -2600,7 +2600,7 @@
       "name": "Zap'Maw"
     }
   ],
-  "LeBlanc": [
+  "Leblanc": [
     {
       "name": "LeBlanc"
     },
@@ -2644,7 +2644,7 @@
       "name": "iG LeBlanc"
     }
   ],
-  "Lee Sin": [
+  "LeeSin": [
     {
       "name": "Lee Sin"
     },
@@ -3087,7 +3087,7 @@
       "name": "Worldbreaker Maokai"
     }
   ],
-  "Master Yi": [
+  "MasterYi": [
     {
       "name": "Master Yi"
     },
@@ -3162,7 +3162,7 @@
       "name": "Rain Shepherd Milio"
     }
   ],
-  "Miss Fortune": [
+  "MissFortune": [
     {
       "name": "Miss Fortune"
     },
@@ -3589,7 +3589,7 @@
       "name": "Void Nocturne"
     }
   ],
-  "Nunu & Willump": [
+  "Nunu": [
     {
       "name": "Nunu & Willump"
     },
@@ -3983,7 +3983,7 @@
       "name": "Sweeper Rammus"
     }
   ],
-  "Rek'Sai": [
+  "RekSai": [
     {
       "name": "Rek'Sai"
     },
@@ -4020,7 +4020,7 @@
       "name": "Star Guardian Rell"
     }
   ],
-  "Renata Glasc": [
+  "RenataGlasc": [
     {
       "name": "Renata Glasc"
     },
@@ -4893,7 +4893,7 @@
       "name": "Withered Rose Syndra"
     }
   ],
-  "Tahm Kench": [
+  "TahmKench": [
     {
       "name": "Tahm Kench"
     },
@@ -5223,7 +5223,7 @@
       "name": "Warring Kingdoms Tryndamere"
     }
   ],
-  "Twisted Fate": [
+  "TwistedFate": [
     {
       "name": "Twisted Fate"
     },
@@ -5528,7 +5528,7 @@
       "name": "White Mage Veigar"
     }
   ],
-  "Vel'Koz": [
+  "VelKoz": [
     {
       "name": "Vel'Koz"
     },
@@ -5880,7 +5880,7 @@
       "name": "Scorched Earth Xerath"
     }
   ],
-  "Xin Zhao": [
+  "XinZhao": [
     {
       "name": "Xin Zhao"
     },
