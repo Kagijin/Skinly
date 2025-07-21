@@ -1,274 +1,2039 @@
 {
-  "Aatrox": [{"name": "Aatrox"},{"name": "Blood Moon Aatrox"},{"name": "DRX Aatrox"},{"name": "Justicar Aatrox"},{"name": "Lunar Eclipse Aatrox"},{"name": "Mecha Aatrox"},{"name": "Odyssey Aatrox"},{"name": "Prestige Blood Moon Aatrox"},{"name": "Prestige Blood Moon Aatrox (2022)"},{"name": "Prestige DRX Aatrox"},{"name": "Primordian Aatrox"},{"name": "Sea Hunter Aatrox"},{"name": "Victorious Aatrox"}
-  ],
-  "Ahri": [{"name": "Academy Ahri"},{"name": "Ahri"},{"name": "Arcade Ahri"},{"name": "Arcana Ahri"},{"name": "Challenger Ahri"},{"name": "Coven Ahri"},{"name": "Dynasty Ahri"},{"name": "Elderwood Ahri"},{"name": "Foxfire Ahri"},{"name": "K/DA ALL OUT Ahri"},{"name": "K/DA Ahri"},{"name": "Midnight Ahri"},{"name": "Popstar Ahri"},{"name": "Prestige K/DA Ahri"},{"name": "Prestige K/DA Ahri (2022)"},{"name": "Risen Legend Ahri"},{"name": "Snow Moon Ahri"},{"name": "Spirit Blossom Ahri"},{"name": "Star Guardian Ahri"}
-  ],
-  "Akali": [{"name": "Akali"},{"name": "All-star Akali"},{"name": "Blood Moon Akali"},{"name": "Coven Akali"},{"name": "Crime City Nightmare Akali"},{"name": "DRX Akali"},{"name": "Empyrean Akali"},{"name": "Headhunter Akali"},{"name": "Infernal Akali"},{"name": "K/DA ALL OUT Akali"},{"name": "K/DA Akali"},{"name": "Nurse Akali"},{"name": "PROJECT: Akali"},{"name": "Prestige Coven Akali"},{"name": "Prestige K/DA Akali"},{"name": "Prestige K/DA Akali (2022)"},{"name": "Sashimi Akali"},{"name": "Silverfang Akali"},{"name": "Spirit Blossom Akali"},{"name": "Star Guardian Akali"},{"name": "Stinger Akali"},{"name": "True Damage Akali"}
-  ],
-  "Akshan": [{"name": "Akshan"},{"name": "Crystal Rose Akshan"},{"name": "Cyber Pop Akshan"},{"name": "Three Honors Akshan"}
-  ],
-  "Alistar": [{"name": "Alistar"},{"name": "Black Alistar"},{"name": "Blackfrost Alistar"},{"name": "Conqueror Alistar"},{"name": "Golden Alistar"},{"name": "Hextech Alistar"},{"name": "Infernal Alistar"},{"name": "Longhorn Alistar"},{"name": "Lunar Beast Alistar"},{"name": "Marauder Alistar"},{"name": "Matador Alistar"},{"name": "Moo Cow Alistar"},{"name": "SKT T1 Alistar"},{"name": "Sweeper Alistar"},{"name": "Unchained Alistar"}
-  ],
-  "Ambessa": [{"name": "Ambessa"},{"name": "Chosen of the Wolf Ambessa"}
-  ],
-  "Amumu": [{"name": "Almost-Prom King Amumu"},{"name": "Amumu"},{"name": "Dumpling Darlings Amumu"},{"name": "Heartache Amumu"},{"name": "Hextech Amumu"},{"name": "Infernal Amumu"},{"name": "Little Knight Amumu"},{"name": "Pharaoh Amumu"},{"name": "Porcelain Amumu"},{"name": "Pumpkin Prince Amumu"},{"name": "Re-Gifted Amumu"},{"name": "Sad Robot Amumu"},{"name": "Surprise Party Amumu"},{"name": "Vancouver Amumu"}
-  ],
-  "Anivia": [{"name": "Anivia"},{"name": "Bird of Prey Anivia"},{"name": "Blackfrost Anivia"},{"name": "Cosmic Flight Anivia"},{"name": "Divine Phoenix Anivia"},{"name": "Festival Queen Anivia"},{"name": "Hextech Anivia"},{"name": "Noxus Hunter Anivia"},{"name": "Papercraft Anivia"},{"name": "Prehistoric Anivia"},{"name": "Team Spirit Anivia"},{"name": "Victorious Anivia"}
-  ],
-  "Annie": [{"name": "Annie"},{"name": "Annie in Wonderland"},{"name": "Annie-Versary"},{"name": "Battle Princess Annie"},{"name": "Cafe Cuties Annie"},{"name": "FrankenTibbers Annie"},{"name": "Fright Night Annie"},{"name": "Frostfire Annie"},{"name": "Goth Annie"},{"name": "Hextech Annie"},{"name": "Lunar Beast Annie"},{"name": "Panda Annie"},{"name": "Prom Queen Annie"},{"name": "Red Riding Annie"},{"name": "Reverse Annie"},{"name": "Super Galaxy Annie"},{"name": "Sweetheart Annie"},{"name": "Winterblessed Annie"}
-  ],
-  "Aphelios": [{"name": "Aphelios"},{"name": "EDG Aphelios"},{"name": "HEARTSTEEL Aphelios"},{"name": "Lunar Beast Aphelios"},{"name": "Nightbringer Aphelios"},{"name": "Spirit Blossom Aphelios"}
-  ],
-  "Ashe": [{"name": "Amethyst Ashe"},{"name": "Ashe"},{"name": "Cosmic Queen Ashe"},{"name": "Coven Ashe"},{"name": "Crystalis Motus Ashe"},{"name": "DRX Ashe"},{"name": "Fae Dragon Ashe"},{"name": "Freljord Ashe"},{"name": "Heartseeker Ashe"},{"name": "High Noon Ashe"},{"name": "Infernal Ashe"},{"name": "Lunar Empress Ashe"},{"name": "Marauder Ashe"},{"name": "Ocean Song Ashe"},{"name": "PROJECT: Ashe"},{"name": "Queen Ashe"},{"name": "Sherwood Forest Ashe"},{"name": "Spirit Blossom Ashe"},{"name": "Woad Ashe"},{"name": "Worlds 2017 Ashe"}
-  ],
-  "AurelionSol": [{"name": "Aurelion Sol"},{"name": "Inkshadow Aurelion Sol"},{"name": "Mecha Aurelion Sol"},{"name": "Porcelain Protector Aurelion Sol"},{"name": "Storm Dragon Aurelion Sol"}
-  ],
-  "Aurora": [{"name": "Aurora"},{"name": "Battle Bunny Aurora"}
-  ],
-  "Azir": [{"name": "Attorney Azir"},{"name": "Azir"},{"name": "Elderwood Azir"},{"name": "Galactic Azir"},{"name": "Gravelord Azir"},{"name": "SKT T1 Azir"},{"name": "Warring Kingdoms Azir"},{"name": "Worlds 2022 Azir"}
-  ],
-  "Bard": [{"name": "Astronaut Bard"},{"name": "Bard"},{"name": "Bard Bard"},{"name": "Cafe Cuties Bard"},{"name": "Elderwood Bard"},{"name": "Shan Hai Scrolls Bard"},{"name": "Snow Day Bard"},{"name": "Spirit Blossom Bard"},{"name": "T1 Bard"}
-  ],
-  "Belveth": [{"name": "Battle Boss Bel'Veth"},{"name": "Bel'Veth"},{"name": "Cosmic Matriarch Bel'Veth"},{"name": "Primordian Bel'Veth"}
-  ],
-  "Blitzcrank": [{"name": "Battle Boss Blitzcrank"},{"name": "Blitzcrank"},{"name": "Boom Boom Blitzcrank"},{"name": "Definitely Not Blitzcrank"},{"name": "Goalkeeper Blitzcrank"},{"name": "Lancer Paragon Blitzcrank"},{"name": "Lancer Rogue Blitzcrank"},{"name": "Piltover Customs Blitzcrank"},{"name": "Riot Blitzcrank"},{"name": "Rusty Blitzcrank"},{"name": "Victorious Blitzcrank"},{"name": "Witch's Brew Blitzcrank"},{"name": "Zenith Games Blitzcrank"},{"name": "iBlitzcrank"}
-  ],
-  "Brand": [{"name": "Apocalyptic Brand"},{"name": "Arclight Brand"},{"name": "Battle Boss Brand"},{"name": "Brand"},{"name": "Cryocore Brand"},{"name": "Debonair Brand"},{"name": "Empyrean Brand"},{"name": "Eternal Dragon Brand"},{"name": "Prestige Debonair Brand"},{"name": "Spirit Fire Brand"},{"name": "Street Demons Brand"},{"name": "Vandal Brand"},{"name": "Zombie Brand"}
-  ],
-  "Braum": [{"name": "Braum"},{"name": "Braum Lionheart"},{"name": "Crime City Braum"},{"name": "Dragonslayer Braum"},{"name": "El Tigre Braum"},{"name": "Grill Master Braum"},{"name": "Pool Party Braum"},{"name": "Santa Braum"},{"name": "Sugar Rush Braum"}
-  ],
-  "Briar": [{"name": "Briar"},{"name": "Primordian Briar"},{"name": "Street Demons Briar"}
-  ],
-  "Caitlyn": [{"name": "Arcade Caitlyn"},{"name": "Arcane Commander Caitlyn"},{"name": "Arcane Enforcer Caitlyn"},{"name": "Arctic Warfare Caitlyn"},{"name": "Battle Academia Caitlyn"},{"name": "Caitlyn"},{"name": "DRX Caitlyn"},{"name": "Headhunter Caitlyn"},{"name": "Heartthrob Caitlyn"},{"name": "Lunar Wraith Caitlyn"},{"name": "Officer Caitlyn"},{"name": "Pool Party Caitlyn"},{"name": "Prestige Arcade Caitlyn"},{"name": "Prestige Arcade Caitlyn (2022)"},{"name": "Prestige Arcane Commander Caitlyn"},{"name": "Pulsefire Caitlyn"},{"name": "Resistance Caitlyn"},{"name": "Safari Caitlyn"},{"name": "Sheriff Caitlyn"},{"name": "Snow Moon Caitlyn"}
-  ],
-  "Camille": [{"name": "Arcana Camille"},{"name": "Camille"},{"name": "Coven Camille"},{"name": "Prestige Winterblessed Camille"},{"name": "Program Camille"},{"name": "Strike Commander Camille"},{"name": "Winterblessed Camille"},{"name": "iG Camille"}
-  ],
-  "Cassiopeia": [{"name": "Bewitching Cassiopeia"},{"name": "Cassiopeia"},{"name": "Coven Cassiopeia"},{"name": "Desperada Cassiopeia"},{"name": "Eternum Cassiopeia"},{"name": "Jade Fang Cassiopeia"},{"name": "Mythic Cassiopeia"},{"name": "Prestige Mythmaker Cassiopeia"},{"name": "Siren Cassiopeia"},{"name": "Spirit Blossom Cassiopeia"}
-  ],
-  "Chogath": [{"name": "Battlecast Prime Cho'Gath"},{"name": "Broken Covenant Cho'Gath"},{"name": "Cho'Gath"},{"name": "Dark Star Cho'Gath"},{"name": "Gentleman Cho'Gath"},{"name": "Jurassic Cho'Gath"},{"name": "Loch Ness Cho'Gath"},{"name": "Nightmare Cho'Gath"},{"name": "Prehistoric Cho'Gath"},{"name": "Shan Hai Scrolls Cho'Gath"},{"name": "Toy Terror Cho'Gath"}
-  ],
-  "Corki": [{"name": "Arcade Corki"},{"name": "Astronaut Corki"},{"name": "Corgi Corki"},{"name": "Corki"},{"name": "Dragonwing Corki"},{"name": "Fnatic Corki"},{"name": "Hot Rod Corki"},{"name": "Ice Toboggan Corki"},{"name": "Red Baron Corki"},{"name": "UFO Corki"},{"name": "Urfrider Corki"}
-  ],
-  "Darius": [{"name": "Academy Darius"},{"name": "Bioforge Darius"},{"name": "Crime City Nightmare Darius"},{"name": "Darius"},{"name": "Divine God-King Darius"},{"name": "Dreadnova Darius"},{"name": "Dunkmaster Darius"},{"name": "God-King Darius"},{"name": "High Noon Darius"},{"name": "Lord Darius"},{"name": "Lunar Beast Darius"},{"name": "Porcelain Darius"},{"name": "Prestige Triumphant General Darius"},{"name": "Spirit Blossom Darius"},{"name": "Woad King Darius"}
-  ],
-  "Dr. Mundo": [{"name": "Corporate Mundo"},{"name": "El Macho Mundo"},{"name": "Executioner Mundo"},{"name": "Frozen Prince Mundo"},{"name": "Mr. Mundoverse"},{"name": "Mundo Mundo"},{"name": "Pool Party Mundo"},{"name": "Rageborn Mundo"},{"name": "Street Demons Dr. Mundo"},{"name": "Toxic Dr. Mundo"},{"name": "TPA Mundo"},{"name": "Dr. Mundo"}
-  ],
-  "Diana": [{"name": "Battle Queen Diana"},{"name": "Blood Moon Diana"},{"name": "Dark Cosmic Diana"},{"name": "Dark Valkyrie Diana"},{"name": "Dark Waters Diana"},{"name": "Diana"},{"name": "Dragonslayer Diana"},{"name": "Firecracker Diana"},{"name": "Heavenscale Diana"},{"name": "Infernal Diana"},{"name": "Lunar Goddess Diana"},{"name": "Prestige Battle Queen Diana"},{"name": "Prestige Dark Cosmic Diana"},{"name": "Sentinel Diana"},{"name": "Winterblessed Diana"}
-  ],
-  "Draven": [{"name": "Beast Hunter Draven"},{"name": "Debonair Draven"},{"name": "Draven"},{"name": "Draven Draven"},{"name": "Fright Night Draven"},{"name": "Gladiator Draven"},{"name": "Grand Reckoning Draven"},{"name": "La Ilusión Draven"},{"name": "Mecha Kingdoms Draven"},{"name": "Pool Party Draven"},{"name": "Primetime Draven"},{"name": "Ruined Draven"},{"name": "Santa Draven"},{"name": "Soul Reaver Draven"}
-  ],
-  "Ekko": [{"name": "Academy Ekko"},{"name": "Arcane Firelight Ekko"},{"name": "Arcane Last Stand Ekko"},{"name": "Breakout True Damage Ekko"},{"name": "Ekko"},{"name": "PROJECT: Ekko"},{"name": "Prestige Star Guardian Ekko"},{"name": "Pulsefire Ekko"},{"name": "SKT T1 Ekko"},{"name": "Sandstorm Ekko"},{"name": "Star Guardian Ekko"},{"name": "Trick or Treat Ekko"},{"name": "True Damage Ekko"}
-  ],
-  "Elise": [{"name": "Bewitching Elise"},{"name": "Blood Moon Elise"},{"name": "Coven Elise"},{"name": "Death Blossom Elise"},{"name": "Elise"},{"name": "Masque of the Black Rose Elise"},{"name": "SKT T1 Elise"},{"name": "Super Galaxy Elise"},{"name": "Victorious Elise"},{"name": "Withered Rose Elise"}
-  ],
-  "Evelynn": [{"name": "Blood Moon Evelynn"},{"name": "Coven Evelynn"},{"name": "Evelynn"},{"name": "High Noon Evelynn"},{"name": "K/DA ALL OUT Evelynn"},{"name": "K/DA Evelynn"},{"name": "Masquerade Evelynn"},{"name": "Nightbringer Evelynn"},{"name": "Prestige High Noon Evelynn"},{"name": "Prestige K/DA Evelynn"},{"name": "Prestige K/DA Evelynn (2022)"},{"name": "Safecracker Evelynn"},{"name": "Shadow Evelynn"},{"name": "Soul Fighter Evelynn"},{"name": "Spirit Blossom Evelynn"},{"name": "Sugar Rush Evelynn"},{"name": "Tango Evelynn"}
-  ],
-  "Ezreal": [{"name": "Ace of Spades Ezreal"},{"name": "Arcade Ezreal"},{"name": "Battle Academia Ezreal"},{"name": "Debonair Ezreal"},{"name": "Explorer Ezreal"},{"name": "Ezreal"},{"name": "Faerie Court Ezreal"},{"name": "Frosted Ezreal"},{"name": "HEARTSTEEL Ezreal"},{"name": "Heavenscale Ezreal"},{"name": "Masque of the Black Rose Ezreal"},{"name": "Nottingham Ezreal"},{"name": "Pajama Guardian Ezreal"},{"name": "Porcelain Protector Ezreal"},{"name": "Prestige Heavenscale Ezreal"},{"name": "Prestige PsyOps Ezreal"},{"name": "PsyOps Ezreal"},{"name": "Pulsefire Ezreal"},{"name": "SSG Ezreal"},{"name": "Star Guardian Ezreal"},{"name": "Striker Ezreal"},{"name": "TPA Ezreal"}
-  ],
-  "Fiddlesticks": [{"name": "Bandito Fiddlesticks"},{"name": "Blood Moon Fiddlesticks"},{"name": "Dark Candy Fiddlesticks"},{"name": "Fiddlesticks"},{"name": "Praetorian Fiddlesticks"},{"name": "Pumpkinhead Fiddlesticks"},{"name": "Risen Fiddlesticks"},{"name": "Spectral Fiddlesticks"},{"name": "Star Nemesis Fiddlesticks"},{"name": "Surprise Party Fiddlesticks"},{"name": "Union Jack Fiddlesticks"}
-  ],
-  "Fiora": [{"name": "Battle Queen Fiora"},{"name": "Bewitching Fiora"},{"name": "Dragonmancer Fiora"},{"name": "Faerie Court Fiora"},{"name": "Fiora"},{"name": "Headmistress Fiora"},{"name": "Heartpiercer Fiora"},{"name": "Lunar Beast Fiora"},{"name": "Nightraven Fiora"},{"name": "PROJECT: Fiora"},{"name": "Pool Party Fiora"},{"name": "Prestige Lunar Beast Fiora"},{"name": "Pulsefire Fiora"},{"name": "Royal Guard Fiora"},{"name": "Soaring Sword Fiora"},{"name": "iG Fiora"}
-  ],
-  "Fizz": [{"name": "Astronaut Fizz"},{"name": "Atlantean Fizz"},{"name": "Cottontail Fizz"},{"name": "Fisherman Fizz"},{"name": "Fizz"},{"name": "Fuzz Fizz"},{"name": "Little Devil Fizz"},{"name": "Omega Squad Fizz"},{"name": "Prestige Fuzz Fizz"},{"name": "Prestige Fuzz Fizz (2022)"},{"name": "Rain Shepherd Fizz"},{"name": "Super Galaxy Fizz"},{"name": "Tundra Fizz"},{"name": "Void Fizz"}
-  ],
-  "Galio": [{"name": "Commando Galio"},{"name": "Debonair Galio"},{"name": "Dragon Guardian Galio"},{"name": "Enchanted Galio"},{"name": "Galio"},{"name": "Gatekeeper Galio"},{"name": "Hextech Galio"},{"name": "Infernal Galio"},{"name": "Mythmaker Galio"}
-  ],
-  "Gangplank": [{"name": "Captain Gangplank"},{"name": "Dreadnova Gangplank"},{"name": "FPX Gangplank"},{"name": "Gangplank"},{"name": "Gangplank the Betrayer"},{"name": "Minuteman Gangplank"},{"name": "PROJECT: Gangplank"},{"name": "Pool Party Gangplank"},{"name": "Sailor Gangplank"},{"name": "Special Forces Gangplank"},{"name": "Spooky Gangplank"},{"name": "Sultan Gangplank"},{"name": "Toy Soldier Gangplank"}
-  ],
-  "Garen": [{"name": "Battle Academia Garen"},{"name": "Commando Garen"},{"name": "Demacia Vice Garen"},{"name": "Desert Trooper Garen"},{"name": "Dreadknight Garen"},{"name": "Fallen God-King Garen"},{"name": "Garen"},{"name": "God-King Garen"},{"name": "Mecha Kingdoms Garen"},{"name": "Mythmaker Garen"},{"name": "Prestige Mecha Kingdoms Garen"},{"name": "Rogue Admiral Garen"},{"name": "Rugged Garen"},{"name": "Sanguine Garen"},{"name": "Steel Legion Garen"},{"name": "Warring Kingdoms Garen"}
-  ],
-  "Gnar": [{"name": "Astronaut Gnar"},{"name": "Dino Gnar"},{"name": "El León Gnar"},{"name": "Elderwood Gnar"},{"name": "Gentleman Gnar"},{"name": "Gnar"    },{"name": "La Ilusión Gnar"    },{"name": "SSG Gnar"    },{"name": "Snow Day Gnar"    },{"name": "Super Galaxy Gnar"    }
-  ],
-  "Gragas": [{"name": "Arctic Ops Gragas"},{"name": "Fnatic Gragas"},{"name": "Gragas"},{"name": "Gragas Caskbreaker"},{"name": "Gragas, Esq."},{"name": "High Noon Gragas"},{"name": "Hillbilly Gragas"},{"name": "Music Fan Gragas"},{"name": "Oktoberfest Gragas"},{"name": "Santa Gragas"},{"name": "Scuba Gragas"},{"name": "Space Groove Gragas"},{"name": "Superfan Gragas"},{"name": "Vandal Gragas"},{"name": "Warden Gragas"}
-  ],
-  "Graves": [{"name": "Battle Professor Graves"},{"name": "Crime City Graves"},{"name": "Cutthroat Graves"},{"name": "EDG Graves"},{"name": "Graves"},{"name": "Hired Gun Graves"},{"name": "Jailbreak Graves"},{"name": "Pool Party Graves"},{"name": "Porcelain Graves"},{"name": "Praetorian Graves"},{"name": "Riot Graves"},{"name": "Sentinel Graves"},{"name": "Snow Day Graves"},{"name": "Victorious Graves"}
-  ],
-  "Gwen": [{"name": "Battle Queen Gwen"},{"name": "Cafe Cuties Gwen"},{"name": "Gwen"},{"name": "Soul Fighter Gwen"},{"name": "Space Groove Gwen"}
-  ],
-  "Hecarim": [{"name": "Arcade Hecarim"},{"name": "Arcana Hecarim"},{"name": "Blood Knight Hecarim"},{"name": "Cosmic Charger Hecarim"},{"name": "Elderwood Hecarim"},{"name": "Headless Hecarim"},{"name": "Hecarim"},{"name": "High Noon Hecarim"},{"name": "Lancer Zero Hecarim"},{"name": "Nightbringer Hecarim"},{"name": "Reaper Hecarim"},{"name": "Winterblessed Hecarim"},{"name": "Worldbreaker Hecarim"}
-  ],
-  "Heimerdinger": [{"name": "Alien Invader Heimerdinger"},{"name": "Arcane Professor Heimerdinger"},{"name": "Blast Zone Heimerdinger"},{"name": "Dragon Trainer Heimerdinger"},{"name": "Hazmat Heimerdinger"},{"name": "Heimerdinger"},{"name": "Piltover Customs Heimerdinger"},{"name": "Pool Party Heimerdinger"}
-  ],
-  "Hwei": [{"name": "Hwei"},{"name": "Spirit Blossom Hwei"},{"name": "Winterblessed Hwei"}
-  ],
-  "Illaoi": [{"name": "Battle Bear Illaoi"},{"name": "Cosmic Invoker Illaoi"},{"name": "Illaoi"},{"name": "Resistance Illaoi"},{"name": "Snow Moon Illaoi"},{"name": "Void Bringer Illaoi"}
-  ],
-  "Irelia": [{"name": "Aviator Irelia"},{"name": "Divine Sword Irelia"},{"name": "Frostblade Irelia"},{"name": "High Noon Irelia"},{"name": "Infiltrator Irelia"},{"name": "Irelia"},{"name": "Mythmaker Irelia"},{"name": "Nightblade Irelia"},{"name": "Order of the Lotus Irelia"},{"name": "PROJECT: Irelia"},{"name": "Porcelain Irelia"},{"name": "Prestige PROJECT: Irelia"},{"name": "Prestige PROJECT: Irelia (2022)"},{"name": "Sentinel Irelia"},{"name": "Spirit Blossom Irelia"},{"name": "iG Irelia"}
-  ],
-  "Ivern": [{"name": "Astronaut Ivern"},{"name": "Candy King Ivern"},{"name": "Dunkmaster Ivern"},{"name": "Ivern"},{"name": "Old God Ivern"},{"name": "Spirit Blossom Ivern"}
-  ],
-  "Janna": [{"name": "Battle Queen Janna"},{"name": "Bewitching Janna"},{"name": "Crystal Rose Janna"},{"name": "Cyber Halo Janna"},{"name": "Dawnbringer Janna"},{"name": "Fnatic Janna"},{"name": "Forecast Janna"},{"name": "Frost Queen Janna"},{"name": "Guardian of the Sands Janna"},{"name": "Heavenscale Janna"},{"name": "Hextech Janna"},{"name": "Janna"},{"name": "Prestige Cyber Halo Janna"},{"name": "Sacred Sword Janna"},{"name": "Star Guardian Janna"},{"name": "Tempest Janna"},{"name": "Victorious Janna"}
-  ],
-  "JarvanIV": [{"name": "Commando Jarvan IV"},{"name": "Dark Star Jarvan IV"},{"name": "Darkforge Jarvan IV"},{"name": "Dragonslayer Jarvan IV"},{"name": "Fnatic Jarvan IV"},{"name": "Hextech Jarvan IV"},{"name": "Jarvan IV"},{"name": "Lunar Beast Jarvan IV"},{"name": "Mythmaker Jarvan IV"},{"name": "Nightbringer Jarvan IV"},{"name": "Pool Party Jarvan IV"},{"name": "SSG Jarvan IV"},{"name": "Victorious Jarvan IV"},{"name": "Warring Kingdoms Jarvan IV"},{"name": "Worlds 2021 Jarvan IV"}
-  ],
-  "Jax": [{"name": "Angler Jax"},{"name": "Conqueror Jax"},{"name": "Empyrean Jax"},{"name": "God Staff Jax"},{"name": "Jax"},{"name": "Jaximus"},{"name": "Mecha Kingdoms Jax"},{"name": "Nemesis Jax"},{"name": "Neo PAX Jax"},{"name": "PAX Jax"},{"name": "PROJECT: Jax"},{"name": "Prestige Conqueror Jax"},{"name": "SKT T1 Jax"},{"name": "Temple Jax"},{"name": "The Mighty Jax"},{"name": "Vandal Jax"},{"name": "Warden Jax"}
-  ],
-  "Jayce": [{"name": "Arcane Inventor Jayce"},{"name": "Arcane Survivor Jayce"},{"name": "Battle Academia Jayce"},{"name": "Debonair Jayce"},{"name": "Forsaken Jayce"},{"name": "Full Metal Jayce"},{"name": "Jayce"},{"name": "Jayce Brighthammer"},{"name": "Prestige T1 Jayce"},{"name": "Resistance Jayce"},{"name": "T1 Jayce"},{"name": "Zenith Games Jayce"}
-  ],
-  "Jhin": [{"name": "Blood Moon Jhin"},{"name": "DWG Jhin"},{"name": "Dark Cosmic Erasure Jhin"},{"name": "Dark Cosmic Jhin"},{"name": "Empyrean Jhin"},{"name": "High Noon Jhin"},{"name": "Jhin"},{"name": "Mythmaker Jhin"},{"name": "PROJECT: Jhin"},{"name": "SKT T1 Jhin"},{"name": "Shan Hai Scrolls Jhin"},{"name": "Soul Fighter Jhin"}
-  ],
-  "Jinx": [{"name": "Ambitious Elf Jinx"},{"name": "Arcane Enemy Jinx"},{"name": "Arcane Fractured Jinx"},{"name": "Battle Cat Jinx"},{"name": "Cafe Cuties Jinx"},{"name": "Crime City Jinx"},{"name": "Firecracker Jinx"},{"name": "Heartseeker Jinx"},{"name": "Jinx"},{"name": "Odyssey Jinx"},{"name": "PROJECT: Jinx"},{"name": "Prestige Battle Cat Jinx"},{"name": "Star Guardian Jinx"},{"name": "T1 Jinx"},{"name": "Zombie Slayer Jinx"}
-  ],
-  "Kaisa": [{"name": "Arcade Kai'Sa"},{"name": "Bullet Angel Kai'Sa"},{"name": "Dark Star Kai'Sa"},{"name": "Heavenscale Kai'Sa"},{"name": "Inkshadow Kai'Sa"},{"name": "K/DA ALL OUT Kai'Sa"},{"name": "K/DA Kai'Sa"},{"name": "Kai'Sa"},{"name": "Lagoon Dragon Kai'Sa"},{"name": "Prestige K/DA ALL OUT Kai'Sa"},{"name": "Prestige K/DA Kai'Sa"},{"name": "Prestige K/DA Kai'Sa (2022)"},{"name": "Risen Legend Kai'Sa"},{"name": "Star Guardian Kai'Sa"},{"name": "iG Kai'Sa"}
-  ],
-  "Kalista": [{"name": "Blood Moon Kalista"},{"name": "Dawnbringer Kalista"},{"name": "Faerie Court Kalista"},{"name": "Kalista"},{"name": "Marauder Kalista"},{"name": "SKT T1 Kalista"},{"name": "Worlds 2015 Kalista"}
-  ],
-  "Karma": [{"name": "Conqueror Karma"},{"name": "Dark Star Karma"},{"name": "Dawnbringer Karma"},{"name": "Faerie Queen Karma"},{"name": "Infernal Karma"},{"name": "Karma"},{"name": "Odyssey Karma"},{"name": "Order of the Lotus Karma"},{"name": "Ruined Karma"},{"name": "Sakura Karma"},{"name": "Spirit Blossom Karma"},{"name": "Sun Goddess Karma"},{"name": "Traditional Karma"},{"name": "Tranquility Dragon Karma"},{"name": "Warden Karma"},{"name": "Winter Wonder Karma"}
-  ],
-  "Karthus": [{"name": "Elderwood Karthus"},{"name": "Fnatic Karthus"},{"name": "Grim Reaper Karthus"},{"name": "Infernal Karthus"},{"name": "Karthus"},{"name": "Karthus Lightsbane"},{"name": "Pentakill III: Lost Chapter Karthus"},{"name": "Pentakill Karthus"},{"name": "Phantom Karthus"},{"name": "Statue of Karthus"}
-  ],
-  "Kassadin": [{"name": "Cosmic Reaver Kassadin"},{"name": "Count Kassadin"},{"name": "Deep One Kassadin"},{"name": "Dragonmancer Kassadin"},{"name": "Festival Kassadin"},{"name": "Harbinger Kassadin"},{"name": "Hextech Kassadin"},{"name": "Kassadin"},{"name": "Pre-Void Kassadin"},{"name": "Shockblade Kassadin"}
-  ],
-  "Katarina": [{"name": "Battle Academia Katarina"},{"name": "Battle Queen Katarina"},{"name": "Bilgewater Katarina"},{"name": "Blood Moon Katarina"},{"name": "Chosen of the Wolf Katarina"},{"name": "Death Sworn Katarina"},{"name": "Faerie Court Katarina"},{"name": "High Command Katarina"},{"name": "High Noon Katarina"},{"name": "Katarina"},{"name": "Kitty Cat Katarina"},{"name": "Mercenary Katarina"},{"name": "PROJECT: Katarina"},{"name": "Prestige Faerie Court Katarina"},{"name": "Prestige Masque of the Black Rose Katarina"},{"name": "Red Card Katarina"},{"name": "Sandstorm Katarina"},{"name": "Slay Belle Katarina"},{"name": "Warring Kingdoms Katarina"}
-  ],
-  "Kayle": [{"name": "Aether Wing Kayle"},{"name": "Battleborn Kayle"},{"name": "Dragonslayer Kayle"},{"name": "Empyrean Kayle"},{"name": "Immortal Journey Kayle"},{"name": "Iron Inquisitor Kayle"},{"name": "Judgment Kayle"},{"name": "Kayle"},{"name": "Pentakill III: Lost Chapter Kayle"},{"name": "Pentakill Kayle"},{"name": "Prestige Empyrean Kayle"},{"name": "PsyOps Kayle"},{"name": "Riot Kayle"},{"name": "Silver Kayle"},{"name": "Spirit Blossom Kayle"},{"name": "Sun-Eater Kayle"},{"name": "Transcended Kayle"},{"name": "Viridian Kayle"}
-  ],
-  "Kayn": [{"name": "Battle Academia Kayn"},{"name": "HEARTSTEEL Kayn"},{"name": "Kayn"},{"name": "Nightbringer Kayn"},{"name": "Odyssey Kayn"},{"name": "Prestige Nightbringer Kayn"},{"name": "Snow Moon Kayn"},{"name": "Soulhunter Kayn"}
-  ],
-  "Kennen": [{"name": "Arctic Ops Kennen"},{"name": "Astronaut Kennen"},{"name": "Blood Moon Kennen"},{"name": "DWG Kennen"},{"name": "Deadly Kennen"},{"name": "Infernal Kennen"},{"name": "Karate Kennen"},{"name": "Kennen"},{"name": "Kennen M.D."},{"name": "Super Kennen"},{"name": "Swamp Master Kennen"}
-  ],
-  "Khazix": [{"name": "Crystalis Indomitus Kha'Zix"},{"name": "Dark Star Kha'Zix"},{"name": "Death Blossom Kha'Zix"},{"name": "Guardian of the Sands Kha'Zix"},{"name": "Kha'Zix"},{"name": "Lunar Guardian Kha'Zix"},{"name": "Mecha Kha'Zix"},{"name": "Odyssey Kha'Zix"},{"name": "Worlds 2018 Kha'Zix"}
-  ],
-  "Kindred": [{"name": "Chosen of the Wolf Kindred"},{"name": "DRX Kindred"},{"name": "Kindred"},{"name": "Porcelain Kindred"},{"name": "Prestige Porcelain Kindred"},{"name": "Shadowfire Kindred"},{"name": "Spirit Blossom Kindred"},{"name": "Super Galaxy Kindred"},{"name": "Woof and Lamb Kindred"}
-  ],
-  "Kled": [{"name": "Count Kledula"},{"name": "Kibble-Head Kled"},{"name": "Kled"},{"name": "Marauder Kled"},{"name": "Sir Kled"}
-  ],
-  "KogMaw": [{"name": "Arcanist Kog'Maw"},{"name": "Battlecast Kog'Maw"},{"name": "Caterpillar Kog'Maw"},{"name": "Deep Sea Kog'Maw"},{"name": "Hextech Kog'Maw"},{"name": "Jurassic Kog'Maw"},{"name": "Kog'Maw"},{"name": "Lion Dance Kog'Maw"},{"name": "Monarch Kog'Maw"},{"name": "Reindeer Kog'Maw"},{"name": "Shan Hai Scrolls Kog'Maw"},{"name": "Sonoran Kog'Maw"},{"name": "Victorious Kog'Maw"}
-  ],
-  "KSante": [{"name": "Empyrean K'Sante"},{"name": "HEARTSTEEL K'Sante"},{"name": "K'Sante"},{"name": "Prestige Empyrean K'Sante"}
-  ],
-  "Leblanc": [{"name": "Bewitching LeBlanc"},{"name": "Coven LeBlanc"},{"name": "Debonair LeBlanc"},{"name": "Elderwood LeBlanc"},{"name": "LeBlanc"},{"name": "Mistletoe LeBlanc"},{"name": "Prestige Coven LeBlanc"},{"name": "Prestigious LeBlanc"},{"name": "Program LeBlanc"},{"name": "Ravenborn LeBlanc"},{"name": "Risen Legend LeBlanc"},{"name": "Wicked LeBlanc"},{"name": "Worlds 2020 LeBlanc"},{"name": "iG LeBlanc"}
-  ],
-  "LeeSin": [{"name": "Acolyte Lee Sin"},{"name": "Divine Heavenscale Lee Sin"},{"name": "Dragon Fist Lee Sin"},{"name": "FPX Lee Sin"},{"name": "God Fist Lee Sin"},{"name": "Heavenscale Lee Sin"},{"name": "Inkshadow Lee Sin"},{"name": "Knockout Lee Sin"},{"name": "Lee Sin"},{"name": "Muay Thai Lee Sin"},{"name": "Nightbringer Lee Sin"},{"name": "Playmaker Lee Sin"},{"name": "Pool Party Lee Sin"},{"name": "Prestige Nightbringer Lee Sin"},{"name": "Prestige Nightbringer Lee Sin (2022)"},{"name": "SKT T1 Lee Sin"},{"name": "Storm Dragon Lee Sin"},{"name": "T1 Lee Sin"},{"name": "Traditional Lee Sin"},{"name": "Zenith Games Lee Sin"}
-  ],
-  "Leona": [{"name": "Barbecue Leona"},{"name": "Battle Academia Leona"},{"name": "Battle Lion Leona"},{"name": "Crystalis Motus Leona"},{"name": "DWG Leona"},{"name": "Debonair Leona"},{"name": "Defender Leona"},{"name": "High Noon Leona"},{"name": "Iron Solari Leona"},{"name": "Leona"},{"name": "Lunar Eclipse Leona"},{"name": "Mecha Kingdoms Leona"},{"name": "PROJECT: Leona"},{"name": "Pool Party Leona"},{"name": "Prestige Battle Academia Leona"},{"name": "Prestige Battle Lion Leona"},{"name": "Solar Eclipse Leona"},{"name": "Valkyrie Leona"}
-  ],
-  "Lillia": [{"name": "Faerie Court Lillia"},{"name": "Lillia"},{"name": "Nightbringer Lillia"},{"name": "Shan Hai Scrolls Lillia"},{"name": "Spirit Blossom Lillia"}
-  ],
-  "Lissandra": [{"name": "Blade Queen Lissandra"},{"name": "Bloodstone Lissandra"},{"name": "Coven Lissandra"},{"name": "Dark Cosmic Lissandra"},{"name": "Lissandra"},{"name": "Porcelain Lissandra"},{"name": "Prestige Porcelain Lissandra"},{"name": "Program Lissandra"},{"name": "Space Groove Lissandra"}
-  ],
-  "Lucian": [{"name": "Arcana Lucian"},{"name": "Demacia Vice Lucian"},{"name": "Heartseeker Lucian"},{"name": "High Noon Lucian"},{"name": "Hired Gun Lucian"},{"name": "Lucian"},{"name": "Masked Justice Lucian"},{"name": "PROJECT: Lucian"},{"name": "Prestige Pulsefire Lucian"},{"name": "Pulsefire Lucian"},{"name": "Strike Paladin Lucian"},{"name": "Striker Lucian"},{"name": "Victorious Lucian"},{"name": "Winterblessed Lucian"}
-  ],
-  "Lulu": [{"name": "Bittersweet Lulu"},{"name": "Cafe Cuties Lulu"},{"name": "Cosmic Enchantress Lulu"},{"name": "Dragon Trainer Lulu"},{"name": "Lulu"},{"name": "Monster Tamer Lulu"},{"name": "Pajama Guardian Lulu"},{"name": "Pool Party Lulu"},{"name": "Prestige Space Groove Lulu"},{"name": "Space Groove Lulu"},{"name": "Star Guardian Lulu"},{"name": "Wicked Lulu"},{"name": "Winter Wonder Lulu"}
-  ],
-  "Lux": [{"name": "Battle Academia Lux"},{"name": "Commando Lux"},{"name": "Cosmic Lux"},{"name": "Dark Cosmic Lux"},{"name": "Elementalist Lux"},{"name": "Empyrean Lux"},{"name": "Faerie Court Lux"},{"name": "Imperial Lux"},{"name": "Lunar Empress Lux"},{"name": "Lux"},{"name": "Pajama Guardian Lux"},{"name": "Porcelain Lux"},{"name": "Prestige Battle Academia Lux"},{"name": "Prestige Battle Academia Lux (2022)"},{"name": "Prestige Porcelain Lux"},{"name": "Prestige Spirit Blossom Lux"},{"name": "Sorceress Lux"},{"name": "Soul Fighter Lux"},{"name": "Space Groove Lux"},{"name": "Spellthief Lux"},{"name": "Star Guardian Lux"},{"name": "Steel Legion Lux"}
-  ],
-  "Malphite": [{"name": "Coral Reef Malphite"},{"name": "Dark Star Malphite"},{"name": "FPX Malphite"},{"name": "Glacial Malphite"},{"name": "Ironside Malphite"},{"name": "Lunar Guardian Malphite"},{"name": "Malphite"},{"name": "Marble Malphite"},{"name": "Mecha Malphite"},{"name": "Obsidian Malphite"},{"name": "Odyssey Malphite"},{"name": "Old God Malphite"},{"name": "Pool Party Malphite"},{"name": "Prestige Dark Star Malphite"},{"name": "Shamrock Malphite"}
-  ],
-  "Malzahar": [{"name": "Battle Boss Malzahar"},{"name": "Debonair Malzahar"},{"name": "Djinn Malzahar"},{"name": "Empyrean Malzahar"},{"name": "Fatebreaker Malzahar"},{"name": "Hextech Malzahar"},{"name": "Malzahar"},{"name": "Overlord Malzahar"},{"name": "Shadow Prince Malzahar"},{"name": "Snow Day Malzahar"},{"name": "Three Honors Malzahar"},{"name": "Vizier Malzahar"},{"name": "Worldbreaker Malzahar"}
-  ],
-  "Maokai": [{"name": "Astronaut Maokai"},{"name": "Charred Maokai"},{"name": "DRX Maokai"},{"name": "Festive Maokai"},{"name": "Goalkeeper Maokai"},{"name": "Haunted Maokai"},{"name": "Maokai"},{"name": "Totemic Maokai"},{"name": "Victorious Maokai"},{"name": "Worldbreaker Maokai"}
-  ],
-  "MasterYi": [{"name": "Assassin Master Yi"},{"name": "Blood Moon Master Yi"},{"name": "Chosen Master Yi"},{"name": "Cosmic Blade Master Yi"},{"name": "Debonair Master Yi"},{"name": "Headhunter Master Yi"},{"name": "Heavenscale Master Yi"},{"name": "Inkshadow Master Yi"},{"name": "Ionia Master Yi"},{"name": "Master Yi"},{"name": "Prestige Spirit Blossom Master Yi"},{"name": "PsyOps Master Yi"},{"name": "Spirit Blossom Master Yi"},{"name": "Victorious Master Yi"}
-  ],
-  "Mel": [{"name": "Arcane Councilor Mel"},{"name": "Mel"}
-  ],
-  "Milio": [{"name": "Faerie Court Milio"},{"name": "Milio"},{"name": "Rain Shepherd Milio"}
-  ],
-  "MissFortune": [{"name": "Admiral Battle Bunny Miss Fortune"},{"name": "Arcade Miss Fortune"},{"name": "Battle Bunny Miss Fortune"},{"name": "Battle Queen Miss Fortune"},{"name": "Bewitching Miss Fortune"},{"name": "Broken Covenant Miss Fortune"},{"name": "Candy Cane Miss Fortune"},{"name": "Cowgirl Miss Fortune"},{"name": "Crime City Miss Fortune"},{"name": "Gun Goddess Miss Fortune"},{"name": "Miss Fortune"},{"name": "Pajama Guardian Miss Fortune"},{"name": "Pool Party Miss Fortune"},{"name": "Porcelain Miss Fortune"},{"name": "Prestige Bewitching Miss Fortune"},{"name": "Prestige Bewitching Miss Fortune (2022)"},{"name": "Prestige Broken Covenant Miss Fortune"},{"name": "Road Warrior Miss Fortune"},{"name": "Ruined Miss Fortune"},{"name": "Secret Agent Miss Fortune"},{"name": "Star Guardian Miss Fortune"},{"name": "Waterloo Miss Fortune"}
-  ],
-  "Mordekaiser": [{"name": "Dark Star Mordekaiser"},{"name": "Dragon Knight Mordekaiser"},{"name": "High Noon Mordekaiser"},{"name": "Infernal Mordekaiser"},{"name": "King of Clubs Mordekaiser"},{"name": "Lord Mordekaiser"},{"name": "Mordekaiser"},{"name": "Old God Mordekaiser"},{"name": "PROJECT: Mordekaiser"},{"name": "Pentakill III: Lost Chapter Mordekaiser"},{"name": "Pentakill Mordekaiser"},{"name": "Sahn-Uzal Mordekaiser"}
-  ],
-  "Morgana": [{"name": "Bewitching Morgana"},{"name": "Blackthorn Morgana"},{"name": "Blade Mistress Morgana"},{"name": "Coven Morgana"},{"name": "Dawnbringer Morgana"},{"name": "Exiled Morgana"},{"name": "Ghost Bride Morgana"},{"name": "Lunar Wraith Morgana"},{"name": "Majestic Empress Morgana"},{"name": "Morgana"},{"name": "Porcelain Morgana"},{"name": "Prestige Bewitching Morgana"},{"name": "Sinful Succulence Morgana"},{"name": "Snow Moon Morgana"},{"name": "Spirit Blossom Morgana"},{"name": "Star Nemesis Morgana"},{"name": "Victorious Morgana"}
-  ],
-  "Naafiri": [{"name": "Glizzy Naafiri"},{"name": "Naafiri"},{"name": "PROJECT: Naafiri"},{"name": "Soul Fighter Naafiri"}
-  ],
-  "Nami": [{"name": "Bewitching Nami"},{"name": "Cosmic Destiny Nami"},{"name": "Coven Nami"},{"name": "Deep Sea Nami"},{"name": "Koi Nami"},{"name": "Mythmaker Nami"},{"name": "Nami"},{"name": "Prestige Space Groove Nami"},{"name": "Program Nami"},{"name": "River Spirit Nami"},{"name": "SKT T1 Nami"},{"name": "Space Groove Nami"},{"name": "Splendid Staff Nami"},{"name": "Urf the Nami-tee"}
-  ],
-  "Nasus": [{"name": "Archduke Nasus"},{"name": "Armored Titan Nasus"},{"name": "Battlecast Nasus"},{"name": "Dreadknight Nasus"},{"name": "Fatemaker Nasus"},{"name": "Galactic Nasus"},{"name": "Infernal Nasus"},{"name": "Lunar Guardian Nasus"},{"name": "Nasus"},{"name": "Nightbringer Nasus"},{"name": "Pharaoh Nasus"},{"name": "Riot K-9 Nasus"},{"name": "Space Groove Nasus"},{"name": "Worldbreaker Nasus"}
-  ],
-  "Nautilus": [{"name": "Abyssal Nautilus"},{"name": "AstroNautilus"},{"name": "Conqueror Nautilus"},{"name": "Cosmic Paladin Nautilus"},{"name": "Crystalis Indomitus Nautilus"},{"name": "Fright Night Nautilus"},{"name": "Nautilus"},{"name": "Shan Hai Scrolls Nautilus"},{"name": "Subterranean Nautilus"},{"name": "Warden Nautilus"},{"name": "Worldbreaker Nautilus"}
-  ],
-  "Neeko": [{"name": "Bewitching Neeko"},{"name": "Cosplayer Neeko"},{"name": "Neeko"},{"name": "Prestige Star Guardian Neeko"},{"name": "Prestige Star Guardian Neeko (2022)"},{"name": "Shan Hai Scrolls Neeko"},{"name": "Star Guardian Neeko"},{"name": "Street Demons Neeko"},{"name": "Winter Wonder Neeko"}
-  ],
-  "Nidalee": [{"name": "Bewitching Nidalee"},{"name": "Challenger Nidalee"},{"name": "Cosmic Huntress Nidalee"},{"name": "DWG Nidalee"},{"name": "Dawnbringer Nidalee"},{"name": "French Maid Nidalee"},{"name": "Headhunter Nidalee"},{"name": "La Ilusión Nidalee"},{"name": "Leopard Nidalee"},{"name": "Nidalee"},{"name": "Ocean Song Nidalee"},{"name": "Pharaoh Nidalee"},{"name": "Snow Bunny Nidalee"},{"name": "Spirit Blossom Nidalee"},{"name": "Super Galaxy Nidalee"},{"name": "Warring Kingdoms Nidalee"}
-  ],
-  "Nilah": [{"name": "Coven Nilah"},{"name": "Inkshadow Nilah"},{"name": "Nilah"},{"name": "Star Guardian Nilah"}
-  ],
-  "Nocturne": [{"name": "Broken Covenant Nocturne"},{"name": "Cursed Revenant Nocturne"},{"name": "Empyrean Nocturne"},{"name": "Eternum Nocturne"},{"name": "Frozen Terror Nocturne"},{"name": "Haunting Nocturne"},{"name": "Hextech Nocturne"},{"name": "Nocturne"},{"name": "Old God Nocturne"},{"name": "Ravager Nocturne"},{"name": "Void Nocturne"}
-  ],
-  "NunuWillump": [{"name": "Cosmic Paladins Nunu & Willump"},{"name": "Demolisher Nunu & Willump"},{"name": "Fright Night Nunu & Willump"},{"name": "Grungy Nunu & Willump"},{"name": "Nunu & Beelump"},{"name": "Nunu & Willump"},{"name": "Nunu & Willump Bot"},{"name": "Papercraft Nunu & Willump"},{"name": "Sasquatch Nunu & Willump"},{"name": "Space Groove Nunu & Willump"},{"name": "TPA Nunu & Willump"},{"name": "Workshop Nunu & Willump"},{"name": "Zombie Nunu & Willump"}
-  ],
-  "Olaf": [{"name": "Brolaf"},{"name": "Butcher Olaf"},{"name": "Dragonslayer Olaf"},{"name": "Forsaken Olaf"},{"name": "Glacial Olaf"},{"name": "Infernal Olaf"},{"name": "Marauder Olaf"},{"name": "Olaf"},{"name": "Pentakill III: Lost Chapter Olaf"},{"name": "Pentakill Olaf"},{"name": "SKT T1 Olaf"},{"name": "Sentinel Olaf"}
-  ],
-  "Orianna": [{"name": "Bladecraft Orianna"},{"name": "Dark Star Orianna"},{"name": "Gothic Orianna"},{"name": "Heartseeker Orianna"},{"name": "Orianna"},{"name": "Pool Party Orianna"},{"name": "Sewn Chaos Orianna"},{"name": "Star Guardian Orianna"},{"name": "T1 Orianna"},{"name": "TPA Orianna"},{"name": "Victorious Orianna"},{"name": "Winter Wonder Orianna"}
-  ],
-  "Ornn": [{"name": "Choo-Choo Ornn"},{"name": "Elderwood Ornn"},{"name": "Ornn"},{"name": "Space Groove Ornn"},{"name": "Thunder Lord Ornn"}
-  ],
-  "Pantheon": [{"name": "Baker Pantheon"},{"name": "Chosen of the Wolf Pantheon"},{"name": "Dragonslayer Pantheon"},{"name": "Full Metal Pantheon"},{"name": "Glaive Warrior Pantheon"},{"name": "Myrmidon Pantheon"},{"name": "Pantheon"},{"name": "Perseus Pantheon"},{"name": "Prestige Ascended Pantheon"},{"name": "Pulsefire Pantheon"},{"name": "Ruined Pantheon"},{"name": "Ruthless Pantheon"},{"name": "Zombie Slayer Pantheon"}
-  ],
-  "Poppy": [{"name": "Astronaut Poppy"},{"name": "Battle Regalia Poppy"},{"name": "Bewitching Poppy"},{"name": "Blacksmith Poppy"},{"name": "Cafe Cuties Poppy"},{"name": "Hextech Poppy"},{"name": "Lollipoppy"},{"name": "Noxus Poppy"},{"name": "Poppy"},{"name": "Ragdoll Poppy"},{"name": "Scarlet Hammer Poppy"},{"name": "Snow Fawn Poppy"},{"name": "Star Guardian Poppy"}
-  ],
-  "Pyke": [{"name": "Blood Moon Pyke"},{"name": "Empyrean Pyke"},{"name": "Fright Night Pyke"},{"name": "Inkshadow Pyke"},{"name": "PROJECT: Pyke"},{"name": "Prestige Soul Fighter Pyke"},{"name": "PsyOps Pyke"},{"name": "Pyke"},{"name": "Sand Wraith Pyke"},{"name": "Sentinel Pyke"},{"name": "Soul Fighter Pyke"}
-  ],
-  "Qiyana": [{"name": "Battle Boss Qiyana"},{"name": "Battle Queen Qiyana"},{"name": "La Ilusión Qiyana"},{"name": "Lunar Empress Qiyana"},{"name": "Prestige Battle Academia Qiyana"},{"name": "Prestige True Damage Qiyana"},{"name": "Prestige True Damage Qiyana (2022)"},{"name": "Qiyana"},{"name": "Shockblade Qiyana"},{"name": "True Damage Qiyana"}
-  ],
-  "Quinn": [{"name": "Corsair Quinn"},{"name": "Heartseeker Quinn"},{"name": "Phoenix Quinn"},{"name": "Quinn"},{"name": "Star Guardian Quinn"},{"name": "Warden Quinn"},{"name": "Woad Scout Quinn"}
-  ],
-  "Rakan": [{"name": "Arcana Rakan"},{"name": "Battle Academia Rakan"},{"name": "Broken Covenant Rakan"},{"name": "Cosmic Dawn Rakan"},{"name": "Dragonmancer Rakan"},{"name": "Elderwood Rakan"},{"name": "Prestige Dragonmancer Rakan"},{"name": "Rakan"},{"name": "Redeemed Star Guardian Rakan"},{"name": "SSG Rakan"},{"name": "Star Guardian Rakan"},{"name": "Sweetheart Rakan"},{"name": "iG Rakan"}
-  ],
-  "Rammus": [{"name": "Astronaut Rammus"},{"name": "Chrome Rammus"},{"name": "Durian Defender Rammus"},{"name": "Freljord Rammus"},{"name": "Full Metal Rammus"},{"name": "Guardian of the Sands Rammus"},{"name": "Hextech Rammus"},{"name": "King Rammus"},{"name": "Molten Rammus"},{"name": "Ninja Rammus"},{"name": "Rammus"},{"name": "Sweeper Rammus"}
-  ],
-  "RekSai": [{"name": "Blackfrost Rek'Sai"},{"name": "Elderwood Rek'Sai"},{"name": "Eternum Rek'Sai"},{"name": "Pool Party Rek'Sai"},{"name": "Primordian Rek'Sai"},{"name": "Rek'Sai"}
-  ],
-  "Rell": [{"name": "Battle Queen Rell"},{"name": "Grand Reckoning Rell"},{"name": "High Noon Rell"},{"name": "Rell"},{"name": "Star Guardian Rell"}
-  ],
-  "Renata": [{"name": "Fright Night Renata Glasc"},{"name": "La Ilusión Renata Glasc"},{"name": "Masque of the Black Rose Renata Glasc"},{"name": "Prestige La Ilusión Renata Glasc"},{"name": "Renata Glasc"}
-  ],
-  "Renekton": [{"name": "Blackfrost Renekton"},{"name": "Bloodfury Renekton"},{"name": "Dawnbringer Renekton"},{"name": "Galactic Renekton"},{"name": "Hextech Renekton"},{"name": "Inkshadow Renekton"},{"name": "Outback Renekton"},{"name": "PROJECT: Renekton"},{"name": "Pool Party Renekton"},{"name": "Prehistoric Renekton"},{"name": "Renekton"},{"name": "Rune Wars Renekton"},{"name": "SKT T1 Renekton"},{"name": "Scorched Earth Renekton"},{"name": "Worlds 2023 Renekton"}
-  ],
-  "Rengar": [{"name": "Guardian of the Sands Rengar"},{"name": "Headhunter Rengar"},{"name": "Mecha Rengar"},{"name": "Night Hunter Rengar"},{"name": "Pretty Kitty Rengar"},{"name": "Rengar"},{"name": "SSW Rengar"},{"name": "Sentinel Rengar"},{"name": "Street Demons Rengar"}
-  ],
-  "Riven": [{"name": "Arcade Riven"},{"name": "Battle Bunny Prime Riven"},{"name": "Battle Bunny Riven"},{"name": "Broken Covenant Riven"},{"name": "Crimson Elite Riven"},{"name": "Dawnbringer Riven"},{"name": "Dragonblade Riven"},{"name": "Prestige Valiant Sword Riven"},{"name": "Prestige Valiant Sword Riven (2022)"},{"name": "Primal Ambush Riven"},{"name": "Pulsefire Riven"},{"name": "Redeemed Riven"},{"name": "Reignited Worlds 2012 Riven"},{"name": "Riven"},{"name": "Sentinel Riven"},{"name": "Spirit Blossom Riven"},{"name": "Valiant Sword Riven"},{"name": "Worlds 2012 Riven"}
-  ],
-  "Rumble": [{"name": "Badlands Baron Rumble"},{"name": "Bilgerat Rumble"},{"name": "Cafe Cuties Rumble"},{"name": "Rumble"},{"name": "Rumble in the Jungle"},{"name": "Space Groove Rumble"},{"name": "Super Galaxy Rumble"}
-  ],
-  "Ryze": [{"name": "Arcana Ryze"},{"name": "Blood Moon Ryze"},{"name": "Dark Crystal Ryze"},{"name": "Guardian of the Sands Ryze"},{"name": "Pirate Ryze"},{"name": "Professor Ryze"},{"name": "Ryze"},{"name": "Ryze Whitebeard"},{"name": "SKT T1 Ryze"},{"name": "Tribal Ryze"},{"name": "Triumphant Ryze"},{"name": "Uncle Ryze"},{"name": "Worlds 2019 Ryze"},{"name": "Young Ryze"},{"name": "Zombie Ryze"}
-  ],
-  "Samira": [{"name": "High Noon Samira"},{"name": "Masque of the Black Rose Samira"},{"name": "PsyOps Samira"},{"name": "Samira"},{"name": "Soul Fighter Samira"},{"name": "Space Groove Samira"}
-  ],
-  "Sejuani": [{"name": "Bear Cavalry Sejuani"},{"name": "Beast Hunter Sejuani"},{"name": "Darkrider Sejuani"},{"name": "Firecracker Sejuani"},{"name": "Hextech Sejuani"},{"name": "PROJECT: Sejuani"},{"name": "Poro Rider Sejuani"},{"name": "Sabretusk Sejuani"},{"name": "Sejuani"},{"name": "Sejuani Dawnchaser"},{"name": "Solar Eclipse Sejuani"},{"name": "Traditional Sejuani"},{"name": "Victorious Sejuani"}
-  ],
-  "Senna": [{"name": "Bewitching Senna"},{"name": "High Noon Senna"},{"name": "Lunar Eclipse Senna"},{"name": "Masked Justice Senna"},{"name": "PROJECT: Senna"},{"name": "Prestige Lunar Eclipse Senna"},{"name": "Prestige True Damage Senna"},{"name": "Senna"},{"name": "Star Guardian Senna"},{"name": "True Damage Senna"},{"name": "Winterblessed Senna"}
-  ],
-  "Seraphine": [{"name": "Battle Dove Seraphine"},{"name": "Dumpling Darlings Seraphine"},{"name": "Faerie Court Seraphine"},{"name": "Graceful Phoenix Seraphine"},{"name": "K/DA ALL OUT Seraphine Indie"},{"name": "Ocean Song Seraphine"},{"name": "Prestige Ocean Song Seraphine"},{"name": "Seraphine"},{"name": "Star Guardian Seraphine"}
-  ],
-  "Sett": [{"name": "Firecracker Sett"},{"name": "HEARTSTEEL Sett"},{"name": "Mecha Kingdoms Sett"},{"name": "Obsidian Dragon Sett"},{"name": "Pool Party Sett"},{"name": "Prestige Obsidian Dragon Sett"},{"name": "Radiant Serpent Sett"},{"name": "Sett"},{"name": "Soul Fighter Sett"},{"name": "Spirit Blossom Sett"}
-  ],
-  "Shaco": [{"name": "Arcanist Shaco"},{"name": "Asylum Shaco"},{"name": "Cat-in-the-Box Shaco"},{"name": "Crime City Nightmare Shaco"},{"name": "Dark Star Shaco"},{"name": "Fright Night Shaco"},{"name": "Mad Hatter Shaco"},{"name": "Masked Shaco"},{"name": "Prestige Soul Fighter Shaco"},{"name": "Royal Shaco"},{"name": "Shaco"},{"name": "Soul Fighter Shaco"},{"name": "Wild Card Shaco"},{"name": "Winterblessed Shaco"},{"name": "Workshop Shaco"}
-  ],
-  "Shen": [{"name": "Blood Moon Shen"},{"name": "Frozen Shen"},{"name": "Infernal Shen"},{"name": "PsyOps Shen"},{"name": "Pulsefire Shen"},{"name": "Shen"},{"name": "Shockblade Shen"},{"name": "Surgeon Shen"},{"name": "Three Honors Shen"},{"name": "Warlord Shen"},{"name": "Yellow Jacket Shen"}
-  ],
-  "Shyvana": [{"name": "Boneclaw Shyvana"},{"name": "Darkflame Shyvana"},{"name": "Ice Drake Shyvana"},{"name": "Immortal Journey Shyvana"},{"name": "Ironscale Shyvana"},{"name": "Ruined Shyvana"},{"name": "Shyvana"},{"name": "Super Galaxy Shyvana"},{"name": "Worlds 2014 Shyvana"}
-  ],
-  "Singed": [{"name": "Arcane Shimmer Lab Singed"},{"name": "Astronaut Singed"},{"name": "Augmented Singed"},{"name": "Beekeeper Singed"},{"name": "Black Scourge Singed"},{"name": "Hextech Singed"},{"name": "Mad Scientist Singed"},{"name": "Resistance Singed"},{"name": "Riot Squad Singed"},{"name": "SSW Singed"},{"name": "Singed"},{"name": "Snow Day Singed"},{"name": "Surfer Singed"}
-  ],
-  "Sion": [{"name": "Barbarian Sion"},{"name": "Blackfrost Sion"},{"name": "Cosmic Paladin Sion"},{"name": "Grand Reckoning Sion"},{"name": "Hextech Sion"},{"name": "High Noon Sion"},{"name": "Lumberjack Sion"},{"name": "Mecha Zero Sion"},{"name": "Sion"},{"name": "Warmonger Sion"},{"name": "Worldbreaker Sion"}
-  ],
-  "Sivir": [{"name": "Ann-Sivir-sary"},{"name": "Bandit Sivir"},{"name": "Blood Moon Sivir"},{"name": "Cafe Cuties Sivir"},{"name": "Huntress Sivir"},{"name": "Mythmaker Sivir"},{"name": "Neo PAX Sivir"},{"name": "Odyssey Sivir"},{"name": "PAX Sivir"},{"name": "Pizza Delivery Sivir"},{"name": "Prestige Mythmaker Sivir"},{"name": "Primal Ambush Sivir"},{"name": "Sivir"},{"name": "Snowstorm Sivir"},{"name": "Solar Eclipse Sivir"},{"name": "Spectacular Sivir"},{"name": "Victorious Sivir"},{"name": "Warden Sivir"},{"name": "Warrior Princess Sivir"}
-  ],
-  "Skarner": [{"name": "Battlecast Alpha Skarner"},{"name": "Cosmic Sting Skarner"},{"name": "Earthrune Skarner"},{"name": "Guardian of the Sands Skarner"},{"name": "Sandscourge Skarner"},{"name": "Skarner"}
-  ],
-  "Smolder": [{"name": "Heavenscale Smolder"},{"name": "Smolder"}
-  ],
-  "Sona": [{"name": "Arcade Sona"},{"name": "DJ Sona"},{"name": "Dissonance of Pentakill Viego"},{"name": "Guqin Sona"},{"name": "Immortal Journey Sona"},{"name": "Muse Sona"},{"name": "Odyssey Sona"},{"name": "Pentakill III: Lost Chapter Sona"},{"name": "Pentakill Sona"},{"name": "Prestige Immortal Journey Sona"},{"name": "PsyOps Sona"},{"name": "Silent Night Sona"},{"name": "Sona"},{"name": "Star Guardian Sona"},{"name": "Sweetheart Sona"},{"name": "Victorious Sona"}
-  ],
-  "Soraka": [{"name": "Cafe Cuties Soraka"},{"name": "Celestine Soraka"},{"name": "Dawnbringer Soraka"},{"name": "Divine Soraka"},{"name": "Dryad Soraka"},{"name": "Faerie Court Soraka"},{"name": "Immortal Journey Soraka"},{"name": "Nightbringer Soraka"},{"name": "Order of the Banana Soraka"},{"name": "Pajama Guardian Soraka"},{"name": "Prestige Star Guardian Soraka"},{"name": "Program Soraka"},{"name": "Reaper Soraka"},{"name": "Soraka"},{"name": "Spirit Blossom Soraka"},{"name": "Star Guardian Soraka"},{"name": "Winter Wonder Soraka"}
-  ],
-  "Swain": [{"name": "Bilgewater Swain"},{"name": "Chosen of the Wolf Swain"},{"name": "Crystal Rose Swain"},{"name": "Dragon Master Swain"},{"name": "Hextech Swain"},{"name": "Northern Front Swain"},{"name": "Prestige Chosen of the Wolf Swain"},{"name": "Swain"},{"name": "Tyrant Swain"},{"name": "Winterblessed Swain"}
-  ],
-  "Sylas": [{"name": "Battle Wolf Sylas"},{"name": "Dark Star Sylas"},{"name": "Freljord Sylas"},{"name": "Lunar Wraith Sylas"},{"name": "PROJECT: Sylas"},{"name": "Prestige PROJECT: Sylas"},{"name": "Sylas"},{"name": "Winterblessed Sylas"}
-  ],
-  "Syndra": [{"name": "Atlantean Syndra"},{"name": "Bewitching Syndra"},{"name": "Coven Syndra"},{"name": "Dumpling Darlings Syndra"},{"name": "Justicar Syndra"},{"name": "Pool Party Syndra"},{"name": "Prestige Star Guardian Syndra"},{"name": "Queen of Diamonds Syndra"},{"name": "SKT T1 Syndra"},{"name": "Snow Day Syndra"},{"name": "Spirit Blossom Syndra"},{"name": "Star Guardian Syndra"},{"name": "Syndra"},{"name": "Withered Rose Syndra"}
-  ],
-  "TahmKench": [{"name": "Arcana Tahm Kench"},{"name": "Coin Emperor Tahm Kench"},{"name": "High Noon Tahm Kench"},{"name": "Master Chef Tahm Kench"},{"name": "Shan Hai Scrolls Tahm Kench"},{"name": "Tahm Kench"}
-  ],
-  "Taliyah": [{"name": "Crystalis Motus Taliyah"},{"name": "Freljord Taliyah"},{"name": "Pool Party Taliyah"},{"name": "SSG Taliyah"},{"name": "Star Guardian Taliyah"},{"name": "Taliyah"}
-  ],
-  "Talon": [{"name": "Blood Moon Talon"},{"name": "Crimson Elite Talon"},{"name": "Dragonblade Talon"},{"name": "Enduring Sword Talon"},{"name": "Grand Reckoning Talon"},{"name": "High Noon Talon"},{"name": "Prestige High Noon Talon"},{"name": "Primal Ambush Talon"},{"name": "Renegade Talon"},{"name": "SSW Talon"},{"name": "Talon"},{"name": "Talon Blackwood"},{"name": "Withered Rose Talon"}
-  ],
-  "Taric": [{"name": "Armor of the Fifth Age Taric"},{"name": "Bloodstone Taric"},{"name": "Emerald Taric"},{"name": "Fatebreaker Taric"},{"name": "Pool Party Taric"},{"name": "Space Groove Taric"},{"name": "Taric"},{"name": "Taric Luminshield"}
-  ],
-  "Teemo": [{"name": "Astronaut Teemo"},{"name": "Badger Teemo"},{"name": "Cottontail Teemo"},{"name": "Firecracker Teemo"},{"name": "Happy Elf Teemo"},{"name": "Little Devil Teemo"},{"name": "Omega Squad Teemo"},{"name": "Panda Teemo"},{"name": "Prestige Spirit Blossom Teemo"},{"name": "Recon Teemo"},{"name": "Space Groove Teemo"},{"name": "Spirit Blossom Teemo"},{"name": "Super Teemo"},{"name": "Teemo"}
+  "Aatrox": [
+    { "name": "Aatrox" },
+    { "name": "Justicar Aatrox" },
+    { "name": "Mecha Aatrox" },
+    { "name": "Blood Moon Aatrox" },
+    { "name": "Prestige Blood Moon Aatrox" },
+    { "name": "Prestige Blood Moon Aatrox (2022)" },
+    { "name": "Victorious Aatrox" },
+    { "name": "Odyssey Aatrox" },
+    { "name": "Sea Hunter Aatrox" },
+    { "name": "Lunar Eclipse Aatrox" },
+    { "name": "DRX Aatrox" },
+    { "name": "Prestige DRX Aatrox" },
+    { "name": "Primordian Aatrox" }
+  ],
+  "Ahri": [
+    { "name": "Ahri" },
+    { "name": "Dynasty Ahri" },
+    { "name": "Midnight Ahri" },
+    { "name": "Foxfire Ahri" },
+    { "name": "Popstar Ahri" },
+    { "name": "Challenger Ahri" },
+    { "name": "Academy Ahri" },
+    { "name": "Arcade Ahri" },
+    { "name": "K/DA Ahri" },
+    { "name": "Prestige K/DA Ahri" },
+    { "name": "Prestige K/DA Ahri (2022)" },
+    { "name": "Elderwood Ahri" },
+    { "name": "Spirit Blossom Ahri" },
+    { "name": "K/DA ALL OUT Ahri" },
+    { "name": "Coven Ahri" },
+    { "name": "Arcana Ahri" },
+    { "name": "Star Guardian Ahri" },
+    { "name": "Snow Moon Ahri" }
+  ],
+  "Akali": [
+    { "name": "Akali" },
+    { "name": "Stinger Akali" },
+    { "name": "Silverfang Akali" },
+    { "name": "Nurse Akali" },
+    { "name": "Blood Moon Akali" },
+    { "name": "All-star Akali" },
+    { "name": "Headhunter Akali" },
+    { "name": "Sashimi Akali" },
+    { "name": "K/DA Akali" },
+    { "name": "PROJECT: Akali" },
+    { "name": "K/DA ALL OUT Akali" },
+    { "name": "Prestige K/DA Akali" },
+    { "name": "Prestige K/DA Akali (2022)" },
+    { "name": "True Damage Akali" },
+    { "name": "Spirit Blossom Akali" },
+    { "name": "Coven Akali" },
+    { "name": "Crime City Nightmare Akali" },
+    { "name": "Star Guardian Akali" },
+    { "name": "DRX Akali" },
+    { "name": "Empyrean Akali" },
+    { "name": "Prestige Coven Akali" },
+    { "name": "Infernal Akali" }
+  ],
+  "Akshan": [
+    { "name": "Akshan" },
+    { "name": "Cyber Pop Akshan" },
+    { "name": "Crystal Rose Akshan" }
+  ],
+  "Alistar": [
+    { "name": "Alistar" },
+    { "name": "Black Alistar" },
+    { "name": "Golden Alistar" },
+    { "name": "Matador Alistar" },
+    { "name": "Longhorn Alistar" },
+    { "name": "Unchained Alistar" },
+    { "name": "Infernal Alistar" },
+    { "name": "Freljord Alistar" },
+    { "name": "Sweeper Alistar" },
+    { "name": "Moo Cow Alistar" },
+    { "name": "SKT T1 Alistar" },
+    { "name": "Conqueror Alistar" },
+    { "name": "Hextech Alistar" },
+    { "name": "Worldbreaker Alistar" },
+    { "name": "DRX Alistar" },
+    { "name": "Papercraft Alistar" }
+  ],
+  "Amumu": [
+    { "name": "Amumu" },
+    { "name": "Pharaoh Amumu" },
+    { "name": "Vancouver Amumu" },
+    { "name": "Emumu" },
+    { "name": "Re-Gifted Amumu" },
+    { "name": "Almost-Prom King Amumu" },
+    { "name": "Little Knight Amumu" },
+    { "name": "Sad Robot Amumu" },
+    { "name": "Surprise Party Amumu" },
+    { "name": "Infernal Amumu" },
+    { "name": "Hextech Amumu" },
+    { "name": "Pumpkin Prince Amumu" },
+    { "name": "Porcelain Amumu" },
+    { "name": "Cafe Cuties Amumu" },
+    { "name": "Spirit Blossom Amumu" }
+  ],
+  "Anivia": [
+    { "name": "Anivia" },
+    { "name": "Team Spirit Anivia" },
+    { "name": "Bird of Prey Anivia" },
+    { "name": "Noxus Hunter Anivia" },
+    { "name": "Hextech Anivia" },
+    { "name": "Blackfrost Anivia" },
+    { "name": "Prehistoric Anivia" },
+    { "name": "Papercraft Anivia" },
+    { "name": "Cosmic Flight Anivia" },
+    { "name": "Divine Phoenix Anivia" }
+  ],
+  "Annie": [
+    { "name": "Annie" },
+    { "name": "Goth Annie" },
+    { "name": "Red Riding Annie" },
+    { "name": "Annie in Wonderland" },
+    { "name": "Prom Queen Annie" },
+    { "name": "Frostfire Annie" },
+    { "name": "Reverse Annie" },
+    { "name": "FrankenTibbers Annie" },
+    { "name": "Panda Annie" },
+    { "name": "Sweetheart Annie" },
+    { "name": "Hextech Annie" },
+    { "name": "Superfan Annie" },
+    { "name": "Cafe Cuties Annie" },
+    { "name": "Fright Night Annie" },
+    { "name": "DRX Annie" }
+  ],
+  "Aphelios": [
+    { "name": "Aphelios" },
+    { "name": "Nightbringer Aphelios" },
+    { "name": "Spirit Blossom Aphelios" },
+    { "name": "Faerie Court Aphelios" },
+    { "name": "Heartsteel Aphelios" }
+  ],
+  "Ashe": [
+    { "name": "Ashe" },
+    { "name": "Freljord Ashe" },
+    { "name": "Sherwood Forest Ashe" },
+    { "name": "Woad Ashe" },
+    { "name": "Queen Ashe" },
+    { "name": "Amethyst Ashe" },
+    { "name": "Heartseeker Ashe" },
+    { "name": "PROJECT: Ashe" },
+    { "name": "Championship Ashe" },
+    { "name": "Cosmic Queen Ashe" },
+    { "name": "High Noon Ashe" },
+    { "name": "Coven Ashe" },
+    { "name": "Faerie Court Ashe" },
+    { "name": "Inkshadow Ashe" },
+    { "name": "DRX Ashe" }
+  ],
+  "AurelionSol": [
+    { "name": "Aurelion Sol" },
+    { "name": "Ashen Lord Aurelion Sol" },
+    { "name": "Mecha Aurelion Sol" },
+    { "name": "Storm Dragon Aurelion Sol" },
+    { "name": "Cosmic Creator Aurelion Sol" }
+  ],
+  "Azir": [
+    { "name": "Azir" },
+    { "name": "Galactic Azir" },
+    { "name": "Gravelord Azir" },
+    { "name": "SKT T1 Azir" },
+    { "name": "Elderwood Azir" },
+    { "name": "Warring Kingdoms Azir" },
+    { "name": "Worlds 2023 Azir" }
+  ],
+  "Bard": [
+    { "name": "Bard" },
+    { "name": "Elderwood Bard" },
+    { "name": "Snow Day Bard" },
+    { "name": "Bard Bard" },
+    { "name": "Cafe Cuties Bard" },
+    { "name": "Astronaut Bard" }
+  ],
+  "BelVeth": [
+    { "name": "Bel'Veth" },
+    { "name": "Battle Boss Bel'Veth" },
+    { "name": "Cosmic Empress Bel'Veth" }
+  ],
+  "Blitzcrank": [
+    { "name": "Blitzcrank" },
+    { "name": "Boom Boom Blitzcrank" },
+    { "name": "Definitely Not Blitzcrank" },
+    { "name": "Piltover Customs Blitzcrank" },
+    { "name": "iBlitzcrank" },
+    { "name": "Riot Blitzcrank" },
+    { "name": "Battle Boss Blitzcrank" },
+    { "name": "Lancer Paragon Blitzcrank" },
+    { "name": "Lancer Rogue Blitzcrank" },
+    { "name": "Space Groove Blitzcrank" },
+    { "name": "Victorious Blitzcrank" },
+    { "name": "Spirit Blossom Blitzcrank" },
+    { "name": "Cafe Cuties Blitzcrank" }
+  ],
+  "Brand": [
+    { "name": "Brand" },
+    { "name": "Apocalyptic Brand" },
+    { "name": "Vandal Brand" },
+    { "name": "Cryocore Brand" },
+    { "name": "Zombie Brand" },
+    { "name": "Spirit Fire Brand" },
+    { "name": "Arcanist Brand" },
+    { "name": "Battle Boss Brand" },
+    { "name": "Debonair Brand" },
+    { "name": "Eternal Dragon Brand" }
+  ],
+  "Braum": [
+    { "name": "Braum" },
+    { "name": "El Leon Braum" },
+    { "name": "Dragon Slayer Braum" },
+    { "name": "Santa Braum" },
+    { "name": "Crime City Braum" },
+    { "name": "Sugar Rush Braum" },
+    { "name": "Pool Party Braum" },
+    { "name": "Battle Academia Braum" },
+    { "name": "DRX Braum" }
+  ],
+  "Caitlyn": [
+    { "name": "Caitlyn" },
+    { "name": "Resistance Caitlyn" },
+    { "name": "Sheriff Caitlyn" },
+    { "name": "Safari Caitlyn" },
+    { "name": "Arctic Warfare Caitlyn" },
+    { "name": "Officer Caitlyn" },
+    { "name": "Headhunter Caitlyn" },
+    { "name": "Pool Party Caitlyn" },
+    { "name": "Lunar Wraith Caitlyn" },
+    { "name": "Pulsefire Caitlyn" },
+    { "name": "Arcade Caitlyn" },
+    { "name": "Battle Academia Caitlyn" },
+    { "name": "Prestige Battle Academia Caitlyn" },
+    { "name": "Prestige Battle Academia Caitlyn (2022)" },
+    { "name": "Caitlyn" },
+    { "name": "Shockwave Caitlyn" },
+    { "name": "Snow Moon Caitlyn" },
+    { "name": "Cafe Cuties Caitlyn" },
+    { "name": "Prestige Pulsefire Caitlyn" },
+    { "name": "Prestige Pulsefire Caitlyn (2022)" }
+  ],
+  "Camille": [
+    { "name": "Camille" },
+    { "name": "Program Camille" },
+    { "name": "Coven Camille" },
+    { "name": "Arcana Camille" },
+    { "name": "Immortal Journey Camille" }
+  ],
+  "Cassiopeia": [
+    { "name": "Cassiopeia" },
+    { "name": "Desperada Cassiopeia" },
+    { "name": "Mythic Cassiopeia" },
+    { "name": "Siren Cassiopeia" },
+    { "name": "Jade Fang Cassiopeia" },
+    { "name": "Eternum Cassiopeia" },
+    { "name": "Spirit Blossom Cassiopeia" },
+    { "name": "Coven Cassiopeia" }
+  ],
+  "Chogath": [
+    { "name": "Cho'Gath" },
+    { "name": "Nightmare Cho'Gath" },
+    { "name": "Gentleman Cho'Gath" },
+    { "name": "Loch Ness Cho'Gath" },
+    { "name": "Jurassic Cho'Gath" },
+    { "name": "Battlecast Prime Cho'Gath" },
+    { "name": "Dark Star Cho'Gath" },
+    { "name": "Prehistoric Cho'Gath" },
+    { "name": "Shan Hai Scrolls Cho'Gath" },
+    { "name": "Cosmic Cho'Gath" }
+  ],
+  "Corki": [
+    { "name": "Corki" },
+    { "name": "UFO Corki" },
+    { "name": "Red Baron Corki" },
+    { "name": "Hot Rod Corki" },
+    { "name": "Urfrider Corki" },
+    { "name": "Dragonwing Corki" },
+    { "name": "Arcade Corki" },
+    { "name": "Fnatic Corki" },
+    { "name": "Corgi Corki" },
+    { "name": "Ice Toboggan Corki" },
+    { "name": "Astronaut Corki" }
+  ],
+  "Darius": [
+    { "name": "Darius" },
+    { "name": "Lord Darius" },
+    { "name": "Bioforge Darius" },
+    { "name": "Woad King Darius" },
+    { "name": "Dunkmaster Darius" },
+    { "name": "Academy Darius" },
+    { "name": "High Noon Darius" },
+    { "name": "Dreadnova Darius" },
+    { "name": "Lunar Beast Darius" },
+    { "name": "God-King Darius" },
+    { "name": "Crime City Nightmare Darius" },
+    { "name": "Prestige Lunar Beast Darius" },
+    { "name": "Prestige Lunar Beast Darius (2022)" }
+  ],
+  "Diana": [
+    { "name": "Diana" },
+    { "name": "Dark Valkyrie Diana" },
+    { "name": "Lunar Goddess Diana" },
+    { "name": "Infernal Diana" },
+    { "name": "Blood Moon Diana" },
+    { "name": "Dragonblade Diana" },
+    { "name": "Battle Queen Diana" },
+    { "name": "Prestige Battle Queen Diana" },
+    { "name": "Prestige Battle Queen Diana (2022)" },
+    { "name": "Firecracker Diana" },
+    { "name": "Sentinel Diana" },
+    { "name": "Winterblessed Diana" },
+    { "name": "Prestige Winterblessed Diana" },
+    { "name": "Prestige Winterblessed Diana (2023)" },
+    { "name": "Prestige Winterblessed Diana (2024)" }
+  ],
+  "Draven": [
+    { "name": "Draven" },
+    { "name": "Soul Reaver Draven" },
+    { "name": "Gladiator Draven" },
+    { "name": "Primetime Draven" },
+    { "name": "Pool Party Draven" },
+    { "name": "Beast Hunter Draven" },
+    { "name": "Draven Draven" },
+    { "name": "Mecha Kingdoms Draven" },
+    { "name": "Fright Night Draven" },
+    { "name": "Debonair Draven" }
+  ],
+  "DrMundo": [
+    { "name": "Dr. Mundo" },
+    { "name": "Toxic Dr. Mundo" },
+    { "name": "Mundo Mundo" },
+    { "name": "Corporate Mundo" },
+    { "name": "Mundo Mundo" },
+    { "name": "Executioner Mundo" },
+    { "name": "Rageborn Mundo" },
+    { "name": "TPA Mundo" },
+    { "name": "El Macho Mundo" },
+    { "name": "Frozen Prince Mundo" },
+    { "name": "Pool Party Mundo" },
+    { "name": "Mundo" }
+  ],
+  "Ekko": [
+    { "name": "Ekko" },
+    { "name": "Sandstorm Ekko" },
+    { "name": "Academy Ekko" },
+    { "name": "PROJECT: Ekko" },
+    { "name": "Trick or Treat Ekko" },
+    { "name": "SKT T1 Ekko" },
+    { "name": "True Damage Ekko" },
+    { "name": "Prestige True Damage Ekko" },
+    { "name": "Prestige True Damage Ekko (2022)" },
+    { "name": "Firelight Ekko" },
+    { "name": "Star Guardian Ekko" },
+    { "name": "Pulsefire Ekko" },
+    { "name": "Prestige Star Guardian Ekko" },
+    { "name": "Prestige Star Guardian Ekko (2022)" }
+  ],
+  "Elise": [
+    { "name": "Elise" },
+    { "name": "Death Blossom Elise" },
+    { "name": "Victorious Elise" },
+    { "name": "SKT T1 Elise" },
+    { "name": "Blood Moon Elise" },
+    { "name": "Super Galaxy Elise" },
+    { "name": "Bewitching Elise" },
+    { "name": "Spirit Blossom Elise" }
+  ],
+  "Evelynn": [
+    { "name": "Evelynn" },
+    { "name": "Shadow Evelynn" },
+    { "name": "Masquerade Evelynn" },
+    { "name": "Tango Evelynn" },
+    { "name": "Safecracker Evelynn" },
+    { "name": "Blood Moon Evelynn" },
+    { "name": "K/DA Evelynn" },
+    { "name": "K/DA ALL OUT Evelynn" },
+    { "name": "Coven Evelynn" },
+    { "name": "Spirit Blossom Evelynn" },
+    { "name": "Ocean Song Evelynn" }
+  ],
+  "Ezreal": [
+    { "name": "Ezreal" },
+    { "name": "Nottingham Ezreal" },
+    { "name": "Striker Ezreal" },
+    { "name": "Frosted Ezreal" },
+    { "name": "Explorer Ezreal" },
+    { "name": "Pulsefire Ezreal" },
+    { "name": "TPA Ezreal" },
+    { "name": "Debonair Ezreal" },
+    { "name": "Ace of Spades Ezreal" },
+    { "name": "Arcade Ezreal" },
+    { "name": "Star Guardian Ezreal" },
+    { "name": "Pajama Guardian Ezreal" },
+    { "name": "Battle Academia Ezreal" },
+    { "name": "PsyOps Ezreal" },
+    { "name": "Prestige PsyOps Ezreal" },
+    { "name": "Prestige PsyOps Ezreal (2022)" },
+    { "name": "Faerie Court Ezreal" },
+    { "name": "Heartsteel Ezreal" }
+  ],
+  "Fiddlesticks": [
+    { "name": "Fiddlesticks" },
+    { "name": "Spectral Fiddlesticks" },
+    { "name": "Union Jack Fiddlesticks" },
+    { "name": "Bandito Fiddlesticks" },
+    { "name": "Pumpkinhead Fiddlesticks" },
+    { "name": "Fiddle Me Timbers" },
+    { "name": "Surprise Party Fiddlesticks" },
+    { "name": "Dark Candy Fiddlesticks" },
+    { "name": "Risen Fiddlesticks" },
+    { "name": "Praetorian Fiddlesticks" },
+    { "name": "Star Guardian Fiddlesticks" },
+    { "name": "Fright Night Fiddlesticks" }
+  ],
+  "Fiora": [
+    { "name": "Fiora" },
+    { "name": "Nightraven Fiora" },
+    { "name": "Royal Guard Fiora" },
+    { "name": "Headmistress Fiora" },
+    { "name": "PROJECT: Fiora" },
+    { "name": "Pool Party Fiora" },
+    { "name": "Soaring Sword Fiora" },
+    { "name": "Pulsefire Fiora" },
+    { "name": "IG Fiora" },
+    { "name": "Lunar Beast Fiora" },
+    { "name": "Spirit Blossom Fiora" },
+    { "name": "DRX Fiora" },
+    { "name": "Heartpiercer Fiora" }
+  ],
+  "Fizz": [
+    { "name": "Fizz" },
+    { "name": "Atlantean Fizz" },
+    { "name": "Tundra Fizz" },
+    { "name": "Fisherman Fizz" },
+    { "name": "Void Fizz" },
+    { "name": "Cottontail Fizz" },
+    { "name": "Super Galaxy Fizz" },
+    { "name": "Omega Squad Fizz" },
+    { "name": "Fuzz Fizz" },
+    { "name": "Little Devil Fizz" },
+    { "name": "Astronaut Fizz" }
+  ],
+  "Galio": [
+    { "name": "Galio" },
+    { "name": "Commando Galio" },
+    { "name": "Hextech Galio" },
+    { "name": "Gatekeeper Galio" },
+    { "name": "Debonair Galio" },
+    { "name": "Birdio" },
+    { "name": "Infernal Galio" },
+    { "name": "DRX Galio" },
+    { "name": "Mythmaker Galio" }
+  ],
+  "Gangplank": [
+    { "name": "Gangplank" },
+    { "name": "Spooky Gangplank" },
+    { "name": "Minuteman Gangplank" },
+    { "name": "Sailor Gangplank" },
+    { "name": "Toy Soldier Gangplank" },
+    { "name": "Special Forces Gangplank" },
+    { "name": "Sultan Gangplank" },
+    { "name": "Captain Gangplank" },
+    { "name": "Dreadnova Gangplank" },
+    { "name": "Pool Party Gangplank" },
+    { "name": "FPX Gangplank" },
+    { "name": "Spirit Blossom Gangplank" }
+  ],
+  "Garen": [
+    { "name": "Garen" },
+    { "name": "Sanguine Garen" },
+    { "name": "Desert Trooper Garen" },
+    { "name": "Commando Garen" },
+    { "name": "Dreadknight Garen" },
+    { "name": "Rugged Garen" },
+    { "name": "Steel Legion Garen" },
+    { "name": "Demacia Vice Garen" },
+    { "name": "God-King Garen" },
+    { "name": "Mecha Kingdoms Garen" },
+    { "name": "Warring Kingdoms Garen" },
+    { "name": "Mythmaker Garen" },
+    { "name": "DRX Garen" },
+    { "name": "Prestige Mecha Kingdoms Garen" },
+    { "name": "Prestige Mecha Kingdoms Garen (2022)" }
+  ],
+  "Gnar": [
+    { "name": "Gnar" },
+    { "name": "Dino Gnar" },
+    { "name": "Snow Day Gnar" },
+    { "name": "Gentleman Gnar" },
+    { "name": "El Leon Gnar" },
+    { "name": "Super Galaxy Gnar" },
+    { "name": "SSG Gnar" },
+    { "name": "Astronaut Gnar" },
+    { "name": "Elderwood Gnar" },
+    { "name": "Cafe Cuties Gnar" }
+  ],
+  "Gragas": [
+    { "name": "Gragas" },
+    { "name": "Scuba Gragas" },
+    { "name": "Hillbilly Gragas" },
+    { "name": "Santa Gragas" },
+    { "name": "Gragas Esq." },
+    { "name": "Vandal Gragas" },
+    { "name": "Oktoberfest Gragas" },
+    { "name": "Superfan Gragas" },
+    { "name": "Arctic Ops Gragas" },
+    { "name": "Caskbreaker Gragas" },
+    { "name": "Space Groove Gragas" },
+    { "name": "Fnatic Gragas" }
+  ],
+  "Graves": [
+    { "name": "Graves" },
+    { "name": "Hired Gun Graves" },
+    { "name": "Jailbreak Graves" },
+    { "name": "Mafia Graves" },
+    { "name": "Riot Graves" },
+    { "name": "Pool Party Graves" },
+    { "name": "Cutthroat Graves" },
+    { "name": "Snow Day Graves" },
+    { "name": "Praetorian Graves" },
+    { "name": "Battle Professor Graves" },
+    { "name": "Sentinel Graves" },
+    { "name": "Debonair Graves" },
+    { "name": "Crime City Nightmare Graves" },
+    { "name": "Prestige Crime City Nightmare Graves" },
+    { "name": "Prestige Crime City Nightmare Graves (2022)" }
+  ],
+  "Gwen": [
+    { "name": "Gwen" },
+    { "name": "Cafe Cuties Gwen" },
+    { "name": "Space Groove Gwen" },
+    { "name": "Faerie Court Gwen" },
+    { "name": "Soul Fighter Gwen" },
+    { "name": "Prestige Soul Fighter Gwen" },
+    { "name": "Prestige Soul Fighter Gwen (2023)" }
+  ],
+  "Hecarim": [
+    { "name": "Hecarim" },
+    { "name": "Blood Knight Hecarim" },
+    { "name": "Reaper Hecarim" },
+    { "name": "Arcade Hecarim" },
+    { "name": "Elderwood Hecarim" },
+    { "name": "Worldbreaker Hecarim" },
+    { "name": "Lancer Zero Hecarim" },
+    { "name": "High Noon Hecarim" },
+    { "name": "Arcade Hecarim" },
+    { "name": "Spirit Blossom Hecarim" },
+    { "name": "Headless Hecarim" }
+  ],
+  "Heimerdinger": [
+    { "name": "Heimerdinger" },
+    { "name": "Alien Invader Heimerdinger" },
+    { "name": "Blast Zone Heimerdinger" },
+    { "name": "Piltover Customs Heimerdinger" },
+    { "name": "Snowmerdinger" },
+    { "name": "Hazmat Heimerdinger" },
+    { "name": "Dragon Trainer Heimerdinger" },
+    { "name": "Pool Party Heimerdinger" },
+    { "name": "Heimerstinger" }
+  ],
+  "Illaoi": [
+    { "name": "Illaoi" },
+    { "name": "Void Bringer Illaoi" },
+    { "name": "Resistance Illaoi" },
+    { "name": "Cosmic Invoker Illaoi" },
+    { "name": "Spirit Blossom Illaoi" }
+  ],
+  "Irelia": [
+    { "name": "Irelia" },
+    { "name": "Nightblade Irelia" },
+    { "name": "Aviator Irelia" },
+    { "name": "Infiltrator Irelia" },
+    { "name": "Frostblade Irelia" },
+    { "name": "Order of the Lotus Irelia" },
+    { "name": "Divine Sword Irelia" },
+    { "name": "PROJECT: Irelia" },
+    { "name": "Sentinel Irelia" },
+    { "name": "High Noon Irelia" },
+    { "name": "Mythmaker Irelia" },
+    { "name": "DRX Irelia" }
+  ],
+  "Ivern": [
+    { "name": "Ivern" },
+    { "name": "Candy King Ivern" },
+    { "name": "Dunkmaster Ivern" },
+    { "name": "Elderwood Ivern" },
+    { "name": "Dream Blossom Ivern" }
+  ],
+  "Janna": [
+    { "name": "Janna" },
+    { "name": "Tempest Janna" },
+    { "name": "Hextech Janna" },
+    { "name": "Frost Queen Janna" },
+    { "name": "Victorious Janna" },
+    { "name": "Forecast Janna" },
+    { "name": "Fnatic Janna" },
+    { "name": "Star Guardian Janna" },
+    { "name": "Sacred Sword Janna" },
+    { "name": "Bewitching Janna" },
+    { "name": "Battle Academia Janna" },
+    { "name": "Crystal Rose Janna" },
+    { "name": "Cyber Halo Janna" },
+    { "name": "Immortal Journey Janna" }
+  ],
+  "JarvanIV": [
+    { "name": "Jarvan IV" },
+    { "name": "Commando Jarvan IV" },
+    { "name": "Dragon Slayer Jarvan IV" },
+    { "name": "Darkforge Jarvan IV" },
+    { "name": "Victorious Jarvan IV" },
+    { "name": "Warring Kingdoms Jarvan IV" },
+    { "name": "Fnatic Jarvan IV" },
+    { "name": "SSG Jarvan IV" },
+    { "name": "Hextech Jarvan IV" },
+    { "name": "Battle Academia Jarvan IV" },
+    { "name": "Worlds 2023 Jarvan IV" },
+    { "name": "Lunar Beast Jarvan IV" },
+    { "name": "Immortal Journey Jarvan IV" }
+  ],
+  "Jax": [
+    { "name": "Jax" },
+    { "name": "The Mighty Jax" },
+    { "name": "Vandal Jax" },
+    { "name": "Angler Jax" },
+    { "name": "PAX Jax" },
+    { "name": "Jaximus" },
+    { "name": "Temple Jax" },
+    { "name": "Nemesis Jax" },
+    { "name": "SKT T1 Jax" },
+    { "name": "God Staff Jax" },
+    { "name": "Mecha Kingdoms Jax" },
+    { "name": "Conqueror Jax" },
+    { "name": "Battle Academia Jax" },
+    { "name": "Prestige Battle Academia Jax" },
+    { "name": "Prestige Battle Academia Jax (2022)" },
+    { "name": "Empyrean Jax" },
+    { "name": "DRX Jax" }
+  ],
+  "Jayce": [
+    { "name": "Jayce" },
+    { "name": "Full Metal Jayce" },
+    { "name": "Debonair Jayce" },
+    { "name": "Forsaken Jayce" },
+    { "name": "Arcade Jayce" },
+    { "name": "Battle Academia Jayce" },
+    { "name": "Resistance Jayce" },
+    { "name": "Spirit Blossom Jayce" }
+  ],
+  "Jhin": [
+    { "name": "Jhin" },
+    { "name": "High Noon Jhin" },
+    { "name": "Blood Moon Jhin" },
+    { "name": "PROJECT: Jhin" },
+    { "name": "SKT T1 Jhin" },
+    { "name": "Dark Cosmic Jhin" },
+    { "name": "Shan Hai Scrolls Jhin" },
+    { "name": "DWG Jhin" },
+    { "name": "Snow Moon Jhin" },
+    { "name": "Inkshadow Jhin" }
+  ],
+  "Jinx": [
+    { "name": "Jinx" },
+    { "name": "Mafia Jinx" },
+    { "name": "Firecracker Jinx" },
+    { "name": "Slayer Jinx" },
+    { "name": "Star Guardian Jinx" },
+    { "name": "Odyssey Jinx" },
+    { "name": "PROJECT: Jinx" },
+    { "name": "Arcane Jinx" },
+    { "name": "Battle Cat Jinx" },
+    { "name": "Heartseeker Jinx" },
+    { "name": "Spirit Blossom Jinx" }
+  ],
+  "Kaisa": [
+    { "name": "Kai'Sa" },
+    { "name": "Bullet Angel Kai'Sa" },
+    { "name": "K/DA Kai'Sa" },
+    { "name": "Prestige K/DA Kai'Sa" },
+    { "name": "Prestige K/DA Kai'Sa (2022)" },
+    { "name": "IG Kai'Sa" },
+    { "name": "K/DA ALL OUT Kai'Sa" },
+    { "name": "Arcade Kai'Sa" },
+    { "name": "Sentinel Kai'Sa" },
+    { "name": "Star Guardian Kai'Sa" },
+    { "name": "Prestige Star Guardian Kai'Sa" },
+    { "name": "Prestige Star Guardian Kai'Sa (2022)" },
+    { "name": "Championship Kai'Sa" },
+    { "name": "Inkshadow Kai'Sa" },
+    { "name": "Worlds 2023 Kai'Sa" }
+  ],
+  "Kalista": [
+    { "name": "Kalista" },
+    { "name": "Blood Moon Kalista" },
+    { "name": "Championship Kalista" },
+    { "name": "SKT T1 Kalista" },
+    { "name": "Marauder Kalista" },
+    { "name": "DRX Kalista" }
+  ],
+  "Karma": [
+    { "name": "Karma" },
+    { "name": "Sun Goddess Karma" },
+    { "name": "Sakura Karma" },
+    { "name": "Traditional Karma" },
+    { "name": "Order of the Lotus Karma" },
+    { "name": "Winter Wonder Karma" },
+    { "name": "Conqueror Karma" },
+    { "name": "Dark Star Karma" },
+    { "name": "Dawnbringer Karma" },
+    { "name": "Odyssey Karma" },
+    { "name": "Ruined Karma" },
+    { "name": "Sentinel Karma" },
+    { "name": "Spirit Blossom Karma" },
+    { "name": "Star Guardian Karma" }
+  ],
+  "Karthus": [
+    { "name": "Karthus" },
+    { "name": "Phantom Karthus" },
+    { "name": "Statue of Karthus" },
+    { "name": "Grim Reaper Karthus" },
+    { "name": "Pentakill Karthus" },
+    { "name": "Fnatic Karthus" },
+    { "name": "Lightsbane Karthus" },
+    { "name": "Infernal Karthus" },
+    { "name": "Pentakill III: Lost Chapter Karthus" },
+    { "name": "Spirit Blossom Karthus" }
+  ],
+  "Kassadin": [
+    { "name": "Kassadin" },
+    { "name": "Festival Kassadin" },
+    { "name": "Deep One Kassadin" },
+    { "name": "Pre-Void Kassadin" },
+    { "name": "Harbinger Kassadin" },
+    { "name": "Cosmic Reaver Kassadin" },
+    { "name": "Count Kassadin" },
+    { "name": "Hextech Kassadin" }
+  ],
+  "Katarina": [
+    { "name": "Katarina" },
+    { "name": "Mercenary Katarina" },
+    { "name": "Red Card Katarina" },
+    { "name": "Bilgewater Katarina" },
+    { "name": "Kitty Kat Katarina" },
+    { "name": "High Command Katarina" },
+    { "name": "Sandstorm Katarina" },
+    { "name": "Slay Belle Katarina" },
+    { "name": "Warring Kingdoms Katarina" },
+    { "name": "PROJECT: Katarina" },
+    { "name": "Death Sworn Katarina" },
+    { "name": "Battle Academia Katarina" },
+    { "name": "Blood Moon Katarina" },
+    { "name": "Battle Queen Katarina" },
+    { "name": "Prestige Battle Queen Katarina" },
+    { "name": "Prestige Battle Queen Katarina (2022)" },
+    { "name": "Faerie Court Katarina" },
+    { "name": "Broken Covenant Katarina" }
+  ],
+  "Kayle": [
+    { "name": "Kayle" },
+    { "name": "Silver Kayle" },
+    { "name": "Viridian Kayle" },
+    { "name": "Unmasked Kayle" },
+    { "name": "Battleborn Kayle" },
+    { "name": "Judgment Kayle" },
+    { "name": "Aether Wing Kayle" },
+    { "name": "Riot Kayle" },
+    { "name": "Iron Inquisitor Kayle" },
+    { "name": "Pentakill Kayle" },
+    { "name": "PsyOps Kayle" },
+    { "name": "Dragon Slayer Kayle" },
+    { "name": "Sun-Eater Kayle" },
+    { "name": "Pentakill III: Lost Chapter Kayle" },
+    { "name": "Prestige Porcelain Protector Ezreal" },
+    { "name": "Prestige Porcelain Protector Ezreal (2022)" }
+  ],
+  "Kayn": [
+    { "name": "Kayn" },
+    { "name": "Soulhunter Kayn" },
+    { "name": "Odyssey Kayn" },
+    { "name": "Nightbringer Kayn" },
+    { "name": "Snow Moon Kayn" },
+    { "name": "Heartsteel Kayn" },
+    { "name": "Prestige Heartsteel Kayn" },
+    { "name": "Prestige Heartsteel Kayn (2024)" }
+  ],
+  "Kennen": [
+    { "name": "Kennen" },
+    { "name": "Deadly Kennen" },
+    { "name": "Swamp Master Kennen" },
+    { "name": "Karate Kennen" },
+    { "name": "Kennen M.D." },
+    { "name": "Arctic Ops Kennen" },
+    { "name": "Blood Moon Kennen" },
+    { "name": "Super Kennen" },
+    { "name": "Infernal Kennen" },
+    { "name": "Arcanist Kennen" },
+    { "name": "Spirit Blossom Kennen" }
+  ],
+  "Khazix": [
+    { "name": "Kha'Zix" },
+    { "name": "Mecha Kha'Zix" },
+    { "name": "Guardian of the Sands Kha'Zix" },
+    { "name": "Death Blossom Kha'Zix" },
+    { "name": "Dark Star Kha'Zix" },
+    { "name": "Championship Kha'Zix" },
+    { "name": "Odyssey Kha'Zix" },
+    { "name": "Sentinel Kha'Zix" },
+    { "name": "Battle Academia Kha'Zix" }
+  ],
+  "Kindred": [
+    { "name": "Kindred" },
+    { "name": "Shadowfire Kindred" },
+    { "name": "Super Galaxy Kindred" },
+    { "name": "Spirit Blossom Kindred" },
+    { "name": "Porcelain Kindred" },
+    { "name": "Prestige Porcelain Kindred" },
+    { "name": "Prestige Porcelain Kindred (2022)" },
+    { "name": "Fright Night Kindred" }
+  ],
+  "Kled": [
+    { "name": "Kled" },
+    { "name": "Sir Kled" },
+    { "name": "Count Kledula" },
+    { "name": "Kled" },
+    { "name": "Skaarl" },
+    { "name": "Battle Boss Kled" },
+    { "name": "Cosmic Paladin Kled" }
+  ],
+  "KogMaw": [
+    { "name": "Kog'Maw" },
+    { "name": "Caterpillar Kog'Maw" },
+    { "name": "Sonoran Kog'Maw" },
+    { "name": "Deep Sea Kog'Maw" },
+    { "name": "Reindeer Kog'Maw" },
+    { "name": "Lion Dance Kog'Maw" },
+    { "name": "Jurassic Kog'Maw" },
+    { "name": "Battlecast Kog'Maw" },
+    { "name": "Monarch Kog'Maw" },
+    { "name": "Pug'Maw" },
+    { "name": "Hextech Kog'Maw" },
+    { "name": "Arclight Kog'Maw" },
+    { "name": "Sugar Rush Kog'Maw" },
+    { "name": "Space Groove Kog'Maw" },
+    { "name": "Bewitching Kog'Maw" }
+  ],
+  "LeBlanc": [
+    { "name": "LeBlanc" },
+    { "name": "Wicked LeBlanc" },
+    { "name": "Prestigious LeBlanc" },
+    { "name": "Mistletoe LeBlanc" },
+    { "name": "Ravenborn LeBlanc" },
+    { "name": "Elderwood LeBlanc" },
+    { "name": "Program LeBlanc" },
+    { "name": "IG LeBlanc" },
+    { "name": "Coven LeBlanc" },
+    { "name": "Championship LeBlanc" },
+    { "name": "Debonair LeBlanc" },
+    { "name": "Prestige Debonair LeBlanc" },
+    { "name": "Prestige Debonair LeBlanc (2022)" }
+  ],
+  "LeeSin": [
+    { "name": "Lee Sin" },
+    { "name": "Traditional Lee Sin" },
+    { "name": "Acolyte Lee Sin" },
+    { "name": "Dragon Fist Lee Sin" },
+    { "name": "Muay Thai Lee Sin" },
+    { "name": "Pool Party Lee Sin" },
+    { "name": "Knockout Lee Sin" },
+    { "name": "God Fist Lee Sin" },
+    { "name": "SKT T1 Lee Sin" },
+    { "name": "Nightbringer Lee Sin" },
+    { "name": "Playmaker Lee Sin" },
+    { "name": "Storm Dragon Lee Sin" },
+    { "name": "FPX Lee Sin" },
+    { "name": "Zenith Games Lee Sin" },
+    { "name": "Prestige Zenith Games Lee Sin" },
+    { "name": "Prestige Zenith Games Lee Sin (2023)" },
+    { "name": "Prestige Zenith Games Lee Sin (2024)" },
+    { "name": "Immortal Journey Lee Sin" },
+    { "name": "Prestige Immortal Journey Lee Sin" },
+    { "name": "Prestige Immortal Journey Lee Sin (2024)" }
+  ],
+  "Leona": [
+    { "name": "Leona" },
+    { "name": "Valkyrie Leona" },
+    { "name": "Defender Leona" },
+    { "name": "Iron Solari Leona" },
+    { "name": "Pool Party Leona" },
+    { "name": "PROJECT: Leona" },
+    { "name": "Solar Eclipse Leona" },
+    { "name": "Lunar Eclipse Leona" },
+    { "name": "Mecha Kingdoms Leona" },
+    { "name": "Battle Academia Leona" },
+    { "name": "High Noon Leona" },
+    { "name": "Debonair Leona" },
+    { "name": "Cyber Halo Leona" },
+    { "name": "DRX Leona" }
+  ],
+  "Lillia": [
+    { "name": "Lillia" },
+    { "name": "Spirit Blossom Lillia" },
+    { "name": "Nightbringer Lillia" },
+    { "name": "Faerie Court Lillia" }
+  ],
+  "Lissandra": [
+    { "name": "Lissandra" },
+    { "name": "Blade Queen Lissandra" },
+    { "name": "Program Lissandra" },
+    { "name": "Coven Lissandra" },
+    { "name": "Space Groove Lissandra" },
+    { "name": "Porcelain Lissandra" }
+  ],
+  "Lucian": [
+    { "name": "Lucian" },
+    { "name": "Striker Lucian" },
+    { "name": "Hired Gun Lucian" },
+    { "name": "PROJECT: Lucian" },
+    { "name": "Arcade Lucian" },
+    { "name": "High Noon Lucian" },
+    { "name": "Heartpiercer Lucian" },
+    { "name": "Pulsefire Lucian" },
+    { "name": "Demacia Vice Lucian" },
+    { "name": "True Damage Lucian" },
+    { "name": "Sentinel Lucian" },
+    { "name": "Victorious Lucian" },
+    { "name": "Street Demons Lucian" }
+  ],
+  "Lulu": [
+    { "name": "Lulu" },
+    { "name": "Bitter Sweet Lulu" },
+    { "name": "Wicked Lulu" },
+    { "name": "Dragon Trainer Lulu" },
+    { "name": "Winter Wonder Lulu" },
+    { "name": "Pool Party Lulu" },
+    { "name": "Cosmic Enchantress Lulu" },
+    { "name": "Space Groove Lulu" },
+    { "name": "Pajama Guardian Lulu" },
+    { "name": "Star Guardian Lulu" },
+    { "name": "Coven Lulu" },
+    { "name": "Faerie Court Lulu" }
+  ],
+  "Lux": [
+    { "name": "Lux" },
+    { "name": "Sorceress Lux" },
+    { "name": "Spellthief Lux" },
+    { "name": "Commando Lux" },
+    { "name": "Imperial Lux" },
+    { "name": "Steel Legion Lux" },
+    { "name": "Star Guardian Lux" },
+    { "name": "Elementalist Lux" },
+    { "name": "Lunar Empress Lux" },
+    { "name": "Battle Academia Lux" },
+    { "name": "Cosmic Lux" },
+    { "name": "Dark Cosmic Lux" },
+    { "name": "Space Groove Lux" },
+    { "name": "Porcelain Lux" },
+    { "name": "Prestige Porcelain Lux" },
+    { "name": "Prestige Porcelain Lux (2022)" },
+    { "name": "Empyrean Lux" },
+    { "name": "Faerie Court Lux" },
+    { "name": "Immortal Journey Lux" }
+  ],
+  "Malphite": [
+    { "name": "Malphite" },
+    { "name": "Shamrock Malphite" },
+    { "name": "Coral Reef Malphite" },
+    { "name": "Marble Malphite" },
+    { "name": "Obsidian Malphite" },
+    { "name": "Glacial Malphite" },
+    { "name": "Mecha Malphite" },
+    { "name": "Ironclad Malphite" },
+    { "name": "Odyssey Malphite" },
+    { "name": "FPX Malphite" },
+    { "name": "Dark Star Malphite" },
+    { "name": "Spirit Blossom Malphite" },
+    { "name": "Prestige Spirit Blossom Malphite" },
+    { "name": "Prestige Spirit Blossom Malphite (2022)" }
+  ],
+  "Malzahar": [
+    { "name": "Malzahar" },
+    { "name": "Vizier Malzahar" },
+    { "name": "Shadow Prince Malzahar" },
+    { "name": "Overlord Malzahar" },
+    { "name": "Snow Day Malzahar" },
+    { "name": "Battle Boss Malzahar" },
+    { "name": "Hextech Malzahar" },
+    { "name": "Worldbreaker Malzahar" },
+    { "name": "Spirit Blossom Malzahar" }
+  ],
+  "Maokai": [
+    { "name": "Maokai" },
+    { "name": "Charred Maokai" },
+    { "name": "Totemic Maokai" },
+    { "name": "Haunted Maokai" },
+    { "name": "Meowkai" },
+    { "name": "Victorious Maokai" },
+    { "name": "Lancer Rogue Maokai" },
+    { "name": "Coven Maokai" },
+    { "name": "Astronaut Maokai" }
+  ],
+  "MasterYi": [
+    { "name": "Master Yi" },
+    { "name": "Assassin Master Yi" },
+    { "name": "Chosen Master Yi" },
+    { "name": "Ionia Master Yi" },
+    { "name": "Samurai Yi" },
+    { "name": "Headhunter Master Yi" },
+    { "name": "PROJECT: Yi" },
+    { "name": "Eternal Sword Master Yi" },
+    { "name": "Cosmic Blade Master Yi" },
+    { "name": "Snow Man Yi" },
+    { "name": "PsyOps Master Yi" },
+    { "name": "Immortal Journey Master Yi" }
+  ],
+  "Milio": [
+    { "name": "Milio" },
+    { "name": "Faerie Court Milio" }
+  ],
+  "MissFortune": [
+    { "name": "Miss Fortune" },
+    { "name": "Waterloo Miss Fortune" },
+    { "name": "Secret Agent Miss Fortune" },
+    { "name": "Cowgirl Miss Fortune" },
+    { "name": "French Maid Miss Fortune" },
+    { "name": "Candy Cane Miss Fortune" },
+    { "name": "Mafia Miss Fortune" },
+    { "name": "Arcade Miss Fortune" },
+    { "name": "Captain Fortune" },
+    { "name": "Pool Party Miss Fortune" },
+    { "name": "Star Guardian Miss Fortune" },
+    { "name": "Gun Goddess Miss Fortune" },
+    { "name": "Pajama Guardian Miss Fortune" },
+    { "name": "Bewitching Miss Fortune" },
+    { "name": "Secret Agent Miss Fortune" },
+    { "name": "Prestige Bewitching Miss Fortune" },
+    { "name": "Prestige Bewitching Miss Fortune (2022)" },
+    { "name": "Broken Covenant Miss Fortune" },
+    { "name": "Prestige Broken Covenant Miss Fortune" },
+    { "name": "Prestige Broken Covenant Miss Fortune (2023)" }
+  ],
+  "Mordekaiser": [
+    { "name": "Mordekaiser" },
+    { "name": "Dragon Knight Mordekaiser" },
+    { "name": "Infernal Mordekaiser" },
+    { "name": "Lord Mordekaiser" },
+    { "name": "Pentakill Mordekaiser" },
+    { "name": "King of Clubs Mordekaiser" },
+    { "name": "Dark Star Mordekaiser" },
+    { "name": "PROJECT: Mordekaiser" },
+    { "name": "Spirit Blossom Mordekaiser" },
+    { "name": "Old God Mordekaiser" },
+    { "name": "Pentakill III: Lost Chapter Mordekaiser" }
+  ],
+  "Morgana": [
+    { "name": "Morgana" },
+    { "name": "Exiled Morgana" },
+    { "name": "Blade Mistress Morgana" },
+    { "name": "Blackthorn Morgana" },
+    { "name": "Ghost Bride Morgana" },
+    { "name": "Victorious Morgana" },
+    { "name": "Iron Inquisitor Morgana" },
+    { "name": "Bewitching Morgana" },
+    { "name": "Lunar Wraith Morgana" },
+    { "name": "Coven Morgana" },
+    { "name": "Dawnbringer Morgana" },
+    { "name": "Majestic Empress Morgana" },
+    { "name": "Star Guardian Morgana" },
+    { "name": "Spirit Blossom Morgana" }
+  ],
+  "Nami": [
+    { "name": "Nami" },
+    { "name": "Koi Nami" },
+    { "name": "River Spirit Nami" },
+    { "name": "Deep Sea Nami" },
+    { "name": "SKT T1 Nami" },
+    { "name": "Program Nami" },
+    { "name": "Cosmic Destiny Nami" },
+    { "name": "Splendid Staff Nami" },
+    { "name": "Bewitching Nami" },
+    { "name": "Prestige Bewitching Nami" },
+    { "name": "Prestige Bewitching Nami (2022)" },
+    { "name": "Ocean Song Nami" },
+    { "name": "Spirit Blossom Nami" }
+  ],
+  "Nasus": [
+    { "name": "Nasus" },
+    { "name": "Galactic Nasus" },
+    { "name": "Pharaoh Nasus" },
+    { "name": "Dreadknight Nasus" },
+    { "name": "Riot K-9 Nasus" },
+    { "name": "Infernal Nasus" },
+    { "name": "Archduke Nasus" },
+    { "name": "Worldbreaker Nasus" },
+    { "name": "Lunar Guardian Nasus" },
+    { "name": "Space Groove Nasus" },
+    { "name": "Debonair Nasus" },
+    { "name": "Fright Night Nasus" }
+  ],
+  "Nautilus": [
+    { "name": "Nautilus" },
+    { "name": "Abyssal Nautilus" },
+    { "name": "Subterranean Nautilus" },
+    { "name": "AstroNautilus" },
+    { "name": "Worldbreaker Nautilus" },
+    { "name": "Conqueror Nautilus" },
+    { "name": "Cosmic Invoker Nautilus" },
+    { "name": "Shan Hai Scrolls Nautilus" },
+    { "name": "Fright Night Nautilus" }
+  ],
+  "Neeko": [
+    { "name": "Neeko" },
+    { "name": "Winter Wonder Neeko" },
+    { "name": "Star Guardian Neeko" },
+    { "name": "Papercraft Neeko" },
+    { "name": "Shan Hai Scrolls Neeko" },
+    { "name": "Prestige Star Guardian Neeko" },
+    { "name": "Prestige Star Guardian Neeko (2022)" }
+  ],
+  "Nidalee": [
+    { "name": "Nidalee" },
+    { "name": "Snow Bunny Nidalee" },
+    { "name": "Leopard Nidalee" },
+    { "name": "French Maid Nidalee" },
+    { "name": "Pharaoh Nidalee" },
+    { "name": "Bewitching Nidalee" },
+    { "name": "Headhunter Nidalee" },
+    { "name": "Challenger Nidalee" },
+    { "name": "Warring Kingdoms Nidalee" },
+    { "name": "Super Galaxy Nidalee" },
+    { "name": "Dawnbringer Nidalee" },
+    { "name": "Arcanist Nidalee" },
+    { "name": "Spirit Blossom Nidalee" }
+  ],
+  "Nilah": [
+    { "name": "Nilah" },
+    { "name": "Star Guardian Nilah" },
+    { "name": "Soul Fighter Nilah" }
+  ],
+  "Nocturne": [
+    { "name": "Nocturne" },
+    { "name": "Frozen Terror Nocturne" },
+    { "name": "Void Nocturne" },
+    { "name": "Ravager Nocturne" },
+    { "name": "Eternum Nocturne" },
+    { "name": "Haunted Nocturne" },
+    { "name": "Cursed Revenant Nocturne" },
+    { "name": "Elderwood Nocturne" },
+    { "name": "Hextech Nocturne" },
+    { "name": "Spirit Blossom Nocturne" }
+  ],
+  "Nunu": [
+    { "name": "Nunu & Willump" },
+    { "name": "Sasquatch Nunu & Willump" },
+    { "name": "Demolisher Nunu & Willump" },
+    { "name": "TPA Nunu & Willump" },
+    { "name": "Grungy Nunu & Willump" },
+    { "name": "Nunu & Willump Bot" },
+    { "name": "Workshop Nunu & Willump" },
+    { "name": "Zombie Nunu & Willump" },
+    { "name": "Papercraft Nunu & Willump" },
+    { "name": "Space Groove Nunu & Willump" },
+    { "name": "Spirit Blossom Nunu & Willump" },
+    { "name": "Winterblessed Nunu & Willump" }
+  ],
+  "Olaf": [
+    { "name": "Olaf" },
+    { "name": "Forsaken Olaf" },
+    { "name": "Glacial Olaf" },
+    { "name": "Brolaf" },
+    { "name": "Pentakill Olaf" },
+    { "name": "Marauder Olaf" },
+    { "name": "Butcher Olaf" },
+    { "name": "Dragonslayer Olaf" },
+    { "name": "Sentinel Olaf" },
+    { "name": "Pool Party Olaf" },
+    { "name": "Pentakill III: Lost Chapter Olaf" }
+  ],
+  "Orianna": [
+    { "name": "Orianna" },
+    { "name": "Gothic Orianna" },
+    { "name": "Sewn Chaos Orianna" },
+    { "name": "Bladecraft Orianna" },
+    { "name": "TPA Orianna" },
+    { "name": "Winter Wonder Orianna" },
+    { "name": "Heartpiercer Orianna" },
+    { "name": "Dark Star Orianna" },
+    { "name": "Pool Party Orianna" },
+    { "name": "Orbeeanna" },
+    { "name": "Star Guardian Orianna" },
+    { "name": "Immortal Journey Orianna" }
+  ],
+  "Ornn": [
+    { "name": "Ornn" },
+    { "name": "Thunder Lord Ornn" },
+    { "name": "Elderwood Ornn" },
+    { "name": "Space Groove Ornn" }
+  ],
+  "Pantheon": [
+    { "name": "Pantheon" },
+    { "name": "Full Metal Pantheon" },
+    { "name": "Perseus Pantheon" },
+    { "name": "Ruthless Pantheon" },
+    { "name": "Glaive Warrior Pantheon" },
+    { "name": "Dragonslayer Pantheon" },
+    { "name": "Myrmidon Pantheon" },
+    { "name": "Baker Pantheon" },
+    { "name": "Pulsefire Pantheon" },
+    { "name": "Ashen Knight Pantheon" },
+    { "name": "Ruined Pantheon" },
+    { "name": "Spirit Blossom Pantheon" }
+  ],
+  "Poppy": [
+    { "name": "Poppy" },
+    { "name": "Noxus Poppy" },
+    { "name": "Lollipoppy" },
+    { "name": "Ragdoll Poppy" },
+    { "name": "Battle Regalia Poppy" },
+    { "name": "Scarlet Hammer Poppy" },
+    { "name": "Poppy" },
+    { "name": "Blacksmith Poppy" },
+    { "name": "Snow Fawn Poppy" },
+    { "name": "Star Guardian Poppy" },
+    { "name": "Astronaut Poppy" },
+    { "name": "Bewitching Poppy" }
+  ],
+  "Pyke": [
+    { "name": "Pyke" },
+    { "name": "Blood Moon Pyke" },
+    { "name": "Sand Wraith Pyke" },
+    { "name": "PROJECT: Pyke" },
+    { "name": "PsyOps Pyke" },
+    { "name": "Sentinel Pyke" },
+    { "name": "Empyrean Pyke" },
+    { "name": "Ashen Graveknight Pyke" }
+  ],
+  "Qiyana": [
+    { "name": "Qiyana" },
+    { "name": "Battle Boss Qiyana" },
+    { "name": "True Damage Qiyana" },
+    { "name": "Prestige True Damage Qiyana" },
+    { "name": "Prestige True Damage Qiyana (2022)" },
+    { "name": "Arcade Qiyana" },
+    { "name": "Battle Queen Qiyana" },
+    { "name": "Lunar Beast Qiyana" },
+    { "name": "Ocean Song Qiyana" }
+  ],
+  "Quinn": [
+    { "name": "Quinn" },
+    { "name": "Phoenix Quinn" },
+    { "name": "Corsair Quinn" },
+    { "name": "Woad Scout Quinn" },
+    { "name": "Heartpiercer Quinn" },
+    { "name": "Star Guardian Quinn" },
+    { "name": "Spirit Blossom Quinn" }
+  ],
+  "Rakan": [
+    { "name": "Rakan" },
+    { "name": "Cosmic Dawn Rakan" },
+    { "name": "Sweetheart Rakan" },
+    { "name": "Star Guardian Rakan" },
+    { "name": "SSG Rakan" },
+    { "name": "Elderwood Rakan" },
+    { "name": "IG Rakan" },
+    { "name": "Arcana Rakan" },
+    { "name": "Broken Covenant Rakan" },
+    { "name": "Immortal Journey Rakan" }
+  ],
+  "Rammus": [
+    { "name": "Rammus" },
+    { "name": "King Rammus" },
+    { "name": "Molten Rammus" },
+    { "name": "Freljord Rammus" },
+    { "name": "Ninja Rammus" },
+    { "name": "Chrome Rammus" },
+    { "name": "Full Metal Rammus" },
+    { "name": "Guardian of the Sands Rammus" },
+    { "name": "Sweeper Rammus" },
+    { "name": "Astronaut Rammus" },
+    { "name": "Hextech Rammus" }
+  ],
+  "RekSai": [
+    { "name": "Rek'Sai" },
+    { "name": "Eternum Rek'Sai" },
+    { "name": "Pool Party Rek'Sai" },
+    { "name": "Elderwood Rek'Sai" },
+    { "name": "Blackfrost Rek'Sai" },
+    { "name": "Prestige Blackfrost Rek'Sai" },
+    { "name": "Prestige Blackfrost Rek'Sai (2022)" }
+  ],
+  "Rell": [
+    { "name": "Rell" },
+    { "name": "Battle Queen Rell" },
+    { "name": "Star Guardian Rell" },
+    { "name": "Broken Covenant Rell" },
+    { "name": "Cafe Cuties Rell" }
+  ],
+  "RenataGlasc": [
+    { "name": "Renata Glasc" },
+    { "name": "Admiral Renata Glasc" },
+    { "name": "La Ilusion Renata Glasc" }
+  ],
+  "Renekton": [
+    { "name": "Renekton" },
+    { "name": "Galactic Renekton" },
+    { "name": "Outback Renekton" },
+    { "name": "Bloodfury Renekton" },
+    { "name": "Rune Wars Renekton" },
+    { "name": "Pool Party Renekton" },
+    { "name": "Prehistoric Renekton" },
+    { "name": "SKT T1 Renekton" },
+    { "name": "Renekton" },
+    { "name": "Toy Renekton" },
+    { "name": "PROJECT: Renekton" },
+    { "name": "Blackfrost Renekton" },
+    { "name": "Hextech Renekton" },
+    { "name": "Dragon Slayer Renekton" },
+    { "name": "Fright Night Renekton" }
+  ],
+  "Rengar": [
+    { "name": "Rengar" },
+    { "name": "Night Hunter Rengar" },
+    { "name": "Headhunter Rengar" },
+    { "name": "SSW Rengar" },
+    { "name": "Mecha Rengar" },
+    { "name": "Guardian of the Sands Rengar" },
+    { "name": "Pretty Kitty Rengar" },
+    { "name": "Sentinel Rengar" },
+    { "name": "Spirit Blossom Rengar" }
+  ],
+  "Riven": [
+    { "name": "Riven" },
+    { "name": "Redeemed Riven" },
+    { "name": "Battle Bunny Riven" },
+    { "name": "Crimson Elite Riven" },
+    { "name": "Dragonblade Riven" },
+    { "name": "Championship Riven" },
+    { "name": "Arcade Riven" },
+    { "name": "Dawnbringer Riven" },
+    { "name": "Pulsefire Riven" },
+    { "name": "Valiant Sword Riven" },
+    { "name": "Spirit Blossom Riven" },
+    { "name": "Sentinel Riven" },
+    { "name": "Broken Covenant Riven" }
+  ],
+  "Rumble": [
+    { "name": "Rumble" },
+    { "name": "Rumble in the Jungle" },
+    { "name": "Bilgerat Rumble" },
+    { "name": "Super Galaxy Rumble" },
+    { "name": "Badlands Baron Rumble" },
+    { "name": "Space Groove Rumble" }
+  ],
+  "Ryze": [
+    { "name": "Ryze" },
+    { "name": "Young Ryze" },
+    { "name": "Tribal Ryze" },
+    { "name": "Uncle Ryze" },
+    { "name": "Dark Crystal Ryze" },
+    { "name": "Professor Ryze" },
+    { "name": "Zombie Ryze" },
+    { "name": "Ryze Whitebeard" },
+    { "name": "Pirate Ryze" },
+    { "name": "Triumphant Ryze" },
+    { "name": "SKT T1 Ryze" },
+    { "name": "Championship Ryze" },
+    { "name": "Guardian of the Sands Ryze" },
+    { "name": "Arcana Ryze" },
+    { "name": "Worlds 2023 Ryze" }
+  ],
+  "Samira": [
+    { "name": "Samira" },
+    { "name": "Western Samira" },
+    { "name": "Space Groove Samira" },
+    { "name": "Spirit Blossom Samira" },
+    { "name": "Prestige Space Groove Samira" },
+    { "name": "Prestige Space Groove Samira (2022)" },
+    { "name": "Soul Fighter Samira" }
+  ],
+  "Sejuani": [
+    { "name": "Sejuani" },
+    { "name": "Sabretusk Sejuani" },
+    { "name": "Darkrider Sejuani" },
+    { "name": "Traditional Sejuani" },
+    { "name": "Bear Cavalry Sejuani" },
+    { "name": "Poro Rider Sejuani" },
+    { "name": "Beast Hunter Sejuani" },
+    { "name": "PROJECT: Sejuani" },
+    { "name": "Firecracker Sejuani" },
+    { "name": "Dawnbringer Sejuani" },
+    { "name": "Spirit Blossom Sejuani" },
+    { "name": "Victorious Sejuani" }
+  ],
+  "Senna": [
+    { "name": "Senna" },
+    { "name": "True Damage Senna" },
+    { "name": "High Noon Senna" },
+    { "name": "PROJECT: Senna" },
+    { "name": "Lunar Beast Senna" },
+    { "name": "Prestige PROJECT: Senna" },
+    { "name": "Prestige PROJECT: Senna (2022)" },
+    { "name": "Sentinel Senna" },
+    { "name": "Star Guardian Senna" },
+    { "name": "Street Demons Senna" }
+  ],
+  "Seraphine": [
+    { "name": "Seraphine" },
+    { "name": "K/DA ALL OUT Seraphine" },
+    { "name": "Ocean Song Seraphine" },
+    { "name": "Star Guardian Seraphine" },
+    { "name": "Graceful Phoenix Seraphine" },
+    { "name": "Faerie Court Seraphine" },
+    { "name": "Heartsteel Seraphine" }
+  ],
+  "Sett": [
+    { "name": "Sett" },
+    { "name": "Mecha Kingdoms Sett" },
+    { "name": "Spirit Blossom Sett" },
+    { "name": "Obsidian Dragon Sett" },
+    { "name": "Pool Party Sett" },
+    { "name": "Prestige Obsidian Dragon Sett" },
+    { "name": "Prestige Obsidian Dragon Sett (2022)" },
+    { "name": "Faerie Court Sett" },
+    { "name": "DRX Sett" },
+    { "name": "Heartsteel Sett" }
+  ],
+  "Shaco": [
+    { "name": "Shaco" },
+    { "name": "Mad Hatter Shaco" },
+    { "name": "Royal Shaco" },
+    { "name": "Nutcracko" },
+    { "name": "Asylum Shaco" },
+    { "name": "Masked Shaco" },
+    { "name": "Dark Star Shaco" },
+    { "name": "Arcanist Shaco" },
+    { "name": "PsyOps Shaco" },
+    { "name": "Crime City Nightmare Shaco" },
+    { "name": "Spirit Blossom Shaco" }
+  ],
+  "Shen": [
+    { "name": "Shen" },
+    { "name": "Yellow Jacket Shen" },
+    { "name": "Frozen Shen" },
+    { "name": "Surgeon Shen" },
+    { "name": "Blood Moon Shen" },
+    { "name": "Warlord Shen" },
+    { "name": "Pulsefire Shen" },
+    { "name": "PsyOps Shen" },
+    { "name": "Spirit Blossom Shen" },
+    { "name": "DRX Shen" }
+  ],
+  "Shyvana": [
+    { "name": "Shyvana" },
+    { "name": "Ironscale Shyvana" },
+    { "name": "Boneclaw Shyvana" },
+    { "name": "Darkflame Shyvana" },
+    { "name": "Ice Drake Shyvana" },
+    { "name": "Championship Shyvana" },
+    { "name": "Super Galaxy Shyvana" },
+    { "name": "Dragon Oracle Shyvana" },
+    { "name": "Spirit Blossom Shyvana" },
+    { "name": "Ocean Song Shyvana" }
+  ],
+  "Singed": [
+    { "name": "Singed" },
+    { "name": "Riot Squad Singed" },
+    { "name": "Hextech Singed" },
+    { "name": "Surfer Singed" },
+    { "name": "Mad Scientist Singed" },
+    { "name": "Augmented Singed" },
+    { "name": "SSW Singed" },
+    { "name": "Black Scourge Singed" },
+    { "name": "Beekeeper Singed" },
+    { "name": "Resistance Singed" },
+    { "name": "Cafe Cuties Singed" }
+  ],
+  "Sion": [
+    { "name": "Sion" },
+    { "name": "Hextech Sion" },
+    { "name": "Barbarian Sion" },
+    { "name": "Lumberjack Sion" },
+    { "name": "Warmonger Sion" },
+    { "name": "Mecha Zero Sion" },
+    { "name": "High Noon Sion" },
+    { "name": "Papercraft Sion" },
+    { "name": "Spirit Blossom Sion" }
+  ],
+  "Sivir": [
+    { "name": "Sivir" },
+    { "name": "Warrior Princess Sivir" },
+    { "name": "Spectacular Sivir" },
+    { "name": "Bandit Sivir" },
+    { "name": "Huntress Sivir" },
+    { "name": "Snowstorm Sivir" },
+    { "name": "Victorious Sivir" },
+    { "name": "Warden Sivir" },
+    { "name": "Delivery Sivir" },
+    { "name": "Blood Moon Sivir" },
+    { "name": "Odyssey Sivir" },
+    { "name": "Cafe Cuties Sivir" },
+    { "name": "Prestige Cafe Cuties Sivir" },
+    { "name": "Prestige Cafe Cuties Sivir (2022)" }
+  ],
+  "Skarner": [
+    { "name": "Skarner" },
+    { "name": "Sandscourge Skarner" },
+    { "name": "Earthrune Skarner" },
+    { "name": "Battlecast Alpha Skarner" },
+    { "name": "Cosmic Sting Skarner" },
+    { "name": "Guardian of the Sands Skarner" }
+  ],
+  "Sona": [
+    { "name": "Sona" },
+    { "name": "Muse Sona" },
+    { "name": "Guqin Sona" },
+    { "name": "Silent Night Sona" },
+    { "name": "Arcade Sona" },
+    { "name": "DJ Sona" },
+    { "name": "Sweetheart Sona" },
+    { "name": "Pentakill Sona" },
+    { "name": "Odyssey Sona" },
+    { "name": "PsyOps Sona" },
+    { "name": "Star Guardian Sona" },
+    { "name": "Pentakill III: Lost Chapter Sona" }
+  ],
+  "Soraka": [
+    { "name": "Soraka" },
+    { "name": "Dryad Soraka" },
+    { "name": "Divine Soraka" },
+    { "name": "Celestine Soraka" },
+    { "name": "Reaper Soraka" },
+    { "name": "Program Soraka" },
+    { "name": "Star Guardian Soraka" },
+    { "name": "Pajama Guardian Soraka" },
+    { "name": "Winter Wonder Soraka" },
+    { "name": "Dawnbringer Soraka" },
+    { "name": "Nightbringer Soraka" },
+    { "name": "Spirit Blossom Soraka" },
+    { "name": "Cafe Cuties Soraka" }
+  ],
+  "Swain": [
+    { "name": "Swain" },
+    { "name": "Northern Front Swain" },
+    { "name": "Bilgewater Swain" },
+    { "name": "Tyrant Swain" },
+    { "name": "Dragon Master Swain" },
+    { "name": "Hextech Swain" },
+    { "name": "Crystal Rose Swain" },
+    { "name": "Debonair Swain" },
+    { "name": "Spirit Blossom Swain" }
+  ],
+  "Sylas": [
+    { "name": "Sylas" },
+    { "name": "Freljord Sylas" },
+    { "name": "Lunar Wraith Sylas" },
+    { "name": "PROJECT: Sylas" },
+    { "name": "Battle Boss Sylas" },
+    { "name": "Prestige Battle Boss Sylas" },
+    { "name": "Prestige Battle Boss Sylas (2022)" },
+    { "name": "Spirit Blossom Sylas" },
+    { "name": "Fright Night Sylas" }
+  ],
+  "Syndra": [
+    { "name": "Syndra" },
+    { "name": "Justicar Syndra" },
+    { "name": "Atlantean Syndra" },
+    { "name": "Queen of Diamonds Syndra" },
+    { "name": "Snow Day Syndra" },
+    { "name": "SKT T1 Syndra" },
+    { "name": "Star Guardian Syndra" },
+    { "name": "Pool Party Syndra" },
+    { "name": "Withered Rose Syndra" },
+    { "name": "Spirit Blossom Syndra" },
+    { "name": "Faerie Court Syndra" },
+    { "name": "Old God Syndra" }
+  ],
+  "TahmKench": [
+    { "name": "Tahm Kench" },
+    { "name": "Master Chef Tahm Kench" },
+    { "name": "Urf Kench" },
+    { "name": "Coin Emperor Tahm Kench" },
+    { "name": "PROJECT: Tahm Kench" },
+    { "name": "Arcana Tahm Kench" },
+    { "name": "High Noon Tahm Kench" },
+    { "name": "Spirit Blossom Tahm Kench" }
+  ],
+  "Taliyah": [
+    { "name": "Taliyah" },
+    { "name": "Freljord Taliyah" },
+    { "name": "SSG Taliyah" },
+    { "name": "Pool Party Taliyah" },
+    { "name": "Star Guardian Taliyah" },
+    { "name": "Prestige Star Guardian Taliyah" },
+    { "name": "Prestige Star Guardian Taliyah (2022)" },
+    { "name": "Faerie Court Taliyah" }
+  ],
+  "Talon": [
+    { "name": "Talon" },
+    { "name": "Renegade Talon" },
+    { "name": "Crimson Elite Talon" },
+    { "name": "Dragonblade Talon" },
+    { "name": "SSW Talon" },
+    { "name": "Blood Moon Talon" },
+    { "name": "Enduring Sword Talon" },
+    { "name": "High Noon Talon" },
+    { "name": "Blackwood Talon" },
+    { "name": "Spirit Blossom Talon" }
+  ],
+  "Taric": [
+    { "name": "Taric" },
+    { "name": "Emerald Taric" },
+    { "name": "Armor of the Fifth Age Taric" },
+    { "name": "Bloodstone Taric" },
+    { "name": "Pool Party Taric" },
+    { "name": "Taric Luminshield" },
+    { "name": "Space Groove Taric" }
+  ],
+  "Teemo": [
+    { "name": "Teemo" },
+    { "name": "Badger Teemo" },
+    { "name": "Recon Teemo" },
+    { "name": "Happy Elf Teemo" },
+    { "name": "Panda Teemo" },
+    { "name": "Astronaut Teemo" },
+    { "name": "Super Teemo" },
+    { "name": "Cottontail Teemo" },
+    { "name": "Omega Squad Teemo" },
+    { "name": "Little Devil Teemo" },
+    { "name": "Spirit Blossom Teemo" },
+    { "name": "Beekeeper Teemo" },
+    { "name": "Prestige Spirit Blossom Teemo" },
+    { "name": "Prestige Spirit Blossom Teemo (2022)" }
+  ],
+  "Thresh": [
+    { "name": "Thresh" },
+    { "name": "Deep Terror Thresh" },
+    { "name": "Championship Thresh" },
+    { "name": "Blood Moon Thresh" },
+    { "name": "SSW Thresh" },
+    { "name": "Dark Star Thresh" },
+    { "name": "Pulsefire Thresh" },
+    { "name": "Spirit Blossom Thresh" },
+    { "name": "FPX Thresh" },
+    { "name": "Unbound Thresh" },
+    { "name": "Prestige Spirit Blossom Thresh" },
+    { "name": "Prestige Spirit Blossom Thresh (2022)" },
+    { "name": "High Noon Thresh" },
+    { "name": "Fright Night Thresh" }
+  ],
+  "Tristana": [
+    { "name": "Tristana" },
+    { "name": "Riot Girl Tristana" },
+    { "name": "Earnest Elf Tristana" },
+    { "name": "Rocket Girl Tristana" },
+    { "name": "Guerilla Tristana" },
+    { "name": "Buccaneer Tristana" },
+    { "name": "Dragon Trainer Tristana" },
+    { "name": "Firefighter Tristana" },
+    { "name": "Omega Squad Tristana" },
+    { "name": "Little Demon Tristana" },
+    { "name": "Bewitching Tristana" },
+    { "name": "Spirit Blossom Tristana" },
+    { "name": "Lunar Beast Tristana" }
+  ],
+  "Trundle": [
+    { "name": "Trundle" },
+    { "name": "Lil' Slugger Trundle" },
+    { "name": "Junkyard Trundle" },
+    { "name": "Traditional Trundle" },
+    { "name": "Constable Trundle" },
+    { "name": "Worldbreaker Trundle" },
+    { "name": "Dragon Trainer Trundle" },
+    { "name": "Spirit Blossom Trundle" }
+  ],
+  "Tryndamere": [
+    { "name": "Tryndamere" },
+    { "name": "Highland Tryndamere" },
+    { "name": "King Tryndamere" },
+    { "name": "Viking Tryndamere" },
+    { "name": "Demonblade Tryndamere" },
+    { "name": "Sultan Tryndamere" },
+    { "name": "Nightmare Tryndamere" },
+    { "name": "Warring Kingdoms Tryndamere" },
+    { "name": "Blood Moon Tryndamere" },
+    { "name": "Chemtech Tryndamere" },
+    { "name": "Fright Night Tryndamere" }
+  ],
+  "TwistedFate": [
+    { "name": "Twisted Fate" },
+    { "name": "PAX Twisted Fate" },
+    { "name": "Jack of Hearts Twisted Fate" },
+    { "name": "The Magnificent Twisted Fate" },
+    { "name": "Musketeer Twisted Fate" },
+    { "name": "Underworld Twisted Fate" },
+    { "name": "Red Card Twisted Fate" },
+    { "name": "High Noon Twisted Fate" },
+    { "name": "Cutpurse Twisted Fate" },
+    { "name": "Blood Moon Twisted Fate" },
+    { "name": "Pulsefire Twisted Fate" },
+    { "name": "Odyssey Twisted Fate" },
+    { "name": "Crime City Nightmare Twisted Fate" },
+    { "name": "Spirit Blossom Twisted Fate" },
+    { "name": "DRX Twisted Fate" }
+  ],
+  "Twitch": [
+    { "name": "Twitch" },
+    { "name": "Kingpin Twitch" },
+    { "name": "Whistler Village Twitch" },
+    { "name": "Gangster Twitch" },
+    { "name": "Vandal Twitch" },
+    { "name": "Pickpocket Twitch" },
+    { "name": "SSW Twitch" },
+    { "name": "Omega Squad Twitch" },
+    { "name": "Ice King Twitch" },
+    { "name": "Shadowfoot Twitch" },
+    { "name": "Spirit Blossom Twitch" },
+    { "name": "DRX Twitch" }
+  ],
+  "Udyr": [
+    { "name": "Udyr" },
+    { "name": "Black Belt Udyr" },
+    { "name": "Primal Udyr" },
+    { "name": "Spirit Guard Udyr" },
+    { "name": "Definitely Not Udyr" },
+    { "name": "Dragon Oracle Udyr" },
+    { "name": "Spirit Blossom Udyr" },
+    { "name": "Fright Night Udyr" }
+  ],
+  "Urgot": [
+    { "name": "Urgot" },
+    { "name": "Butcher Urgot" },
+    { "name": "Giant Enemy Crabgot" },
+    { "name": "Battlecast Urgot" },
+    { "name": "High Noon Urgot" },
+    { "name": "Pajama Guardian Urgot" },
+    { "name": "Star Guardian Urgot" },
+    { "name": "Fright Night Urgot" }
+  ],
+  "Varus": [
+    { "name": "Varus" },
+    { "name": "Arclight Varus" },
+    { "name": "Blighthunter Varus" },
+    { "name": "Arctic Ops Varus" },
+    { "name": "Heartseeker Varus" },
+    { "name": "Dark Star Varus" },
+    { "name": "Conqueror Varus" },
+    { "name": "Swiftbolt Varus" },
+    { "name": "PROJECT: Varus" },
+    { "name": "Cosmic Hunter Varus" },
+    { "name": "Spirit Blossom Varus" },
+    { "name": "Faerie Court Varus" },
+    { "name": "DRX Varus" }
+  ],
+  "Vayne": [
+    { "name": "Vayne" },
+    { "name": "Vindicator Vayne" },
+    { "name": "Aristocrat Vayne" },
+    { "name": "Dragonslayer Vayne" },
+    { "name": "SKT T1 Vayne" },
+    { "name": "Heartseeker Vayne" },
+    { "name": "Arclight Vayne" },
+    { "name": "PROJECT: Vayne" },
+    { "name": "Soulstealer Vayne" },
+    { "name": "Spirit Blossom Vayne" },
+    { "name": "Sentinel Vayne" },
+    { "name": "Battle Bat Vayne" },
+    { "name": "Prestige Battle Bat Vayne" },
+    { "name": "Prestige Battle Bat Vayne (2023)" }
+  ],
+  "Veigar": [
+    { "name": "Veigar" },
+    { "name": "White Mage Veigar" },
+    { "name": "Curling Veigar" },
+    { "name": "Baron Von Veigar" },
+    { "name": "Leprechaun Veigar" },
+    { "name": "Superb Villain Veigar" },
+    { "name": "Bad Santa Veigar" },
+    { "name": "Omega Squad Veigar" },
+    { "name": "Elderwood Veigar" },
+    { "name": "Final Boss Veigar" },
+    { "name": "Astronaut Veigar" },
+    { "name": "Spirit Blossom Veigar" },
+    { "name": "Cafe Cuties Veigar" }
+  ],
+  "Velkoz": [
+    { "name": "Vel'Koz" },
+    { "name": "Battlecast Vel'Koz" },
+    { "name": "Arclight Vel'Koz" },
+    { "name": "Definitely Not Vel'Koz" },
+    { "name": "Infernal Vel'Koz" },
+    { "name": "Cosmic Invoker Vel'Koz" },
+    { "name": "Spirit Blossom Vel'Koz" }
+  ],
+  "Vex": [
+    { "name": "Vex" },
+    { "name": "Dawnbringer Vex" },
+    { "name": "Empyrean Vex" },
+    { "name": "Spirit Blossom Vex" }
+  ],
+  "Vi": [
+    { "name": "Vi" },
+    { "name": "Neon Strike Vi" },
+    { "name": "Officer Vi" },
+    { "name": "Debonair Vi" },
+    { "name": "Demon Vi" },
+    { "name": "PROJECT: Vi" },
+    { "name": "Heartbreaker Vi" },
+    { "name": "Warring Kingdoms Vi" },
+    { "name": "PsyOps Vi" },
+    { "name": "Arcane Vi" },
+    { "name": "Battle Boss Vi" },
+    { "name": "Spirit Blossom Vi" }
+  ],
+  "Viego": [
+    { "name": "Viego" },
+    { "name": "Lunar Beast Viego" },
+    { "name": "Prestige Lunar Beast Viego" },
+    { "name": "Prestige Lunar Beast Viego (2022)" },
+    { "name": "Dissonance of Pentakill Viego" },
+    { "name": "EDG Viego" },
+    { "name": "King Viego" },
+    { "name": "Spirit Blossom Viego" },
+    { "name": "Faerie Court Viego" }
+  ],
+  "Viktor": [
+    { "name": "Viktor" },
+    { "name": "Full Machine Viktor" },
+    { "name": "Prototype Viktor" },
+    { "name": "Creator Viktor" },
+    { "name": "Death Sworn Viktor" },
+    { "name": "PsyOps Viktor" },
+    { "name": "Spirit Blossom Viktor" }
+  ],
+  "Vladimir": [
+    { "name": "Vladimir" },
+    { "name": "Count Vladimir" },
+    { "name": "Marquis Vladimir" },
+    { "name": "Nosferatu Vladimir" },
+    { "name": "Blood Lord Vladimir" },
+    { "name": "Dark Waters Vladimir" },
+    { "name": "Soulstealer Vladimir" },
+    { "name": "Nightbringer Vladimir" },
+    { "name": "Cafe Cuties Vladimir" },
+    { "name": "Spirit Blossom Vladimir" }
+  ],
+  "Volibear": [
+    { "name": "Volibear" },
+    { "name": "Northern Storm Volibear" },
+    { "name": "Thunder Lord Volibear" },
+    { "name": "Runeguard Volibear" },
+    { "name": "Captain Volibear" },
+    { "name": "El Rayo Volibear" },
+    { "name": "The Thousand-Pierced Bear" },
+    { "name": "Duality Dragon Volibear" },
+    { "name": "Spirit Blossom Volibear" }
+  ],
+  "Warwick": [
+    { "name": "Warwick" },
+    { "name": "Grey Warwick" },
+    { "name": "Urf the Manatee Warwick" },
+    { "name": "Big Bad Warwick" },
+    { "name": "Tundra Hunter Warwick" },
+    { "name": "Feral Warwick" },
+    { "name": "Firefang Warwick" },
+    { "name": "Hyena Warwick" },
+    { "name": "Marauder Warwick" },
+    { "name": "PROJECT: Warwick" },
+    { "name": "Lunar Guardian Warwick" },
+    { "name": "K/DA ALL OUT Warwick" },
+    { "name": "Old God Warwick" },
+    { "name": "Winterblessed Warwick" }
+  ],
+  "Wukong": [
+    { "name": "Wukong" },
+    { "name": "Volcanic Wukong" },
+    { "name": "General Wukong" },
+    { "name": "Jade Dragon Wukong" },
+    { "name": "Underworld Wukong" },
+    { "name": "Radiant Wukong" },
+    { "name": "Lancer Stratus Wukong" },
+    { "name": "Battle Academia Wukong" },
+    { "name": "Lunar Beast Wukong" },
+    { "name": "Immortal Journey Wukong" }
+  ],
+  "Xayah": [
+    { "name": "Xayah" },
+    { "name": "Cosmic Dusk Xayah" },
+    { "name": "Sweetheart Xayah" },
+    { "name": "Star Guardian Xayah" },
+    { "name": "SSG Xayah" },
+    { "name": "Elderwood Xayah" },
+    { "name": "Arcana Xayah" },
+    { "name": "Broken Covenant Xayah" },
+    { "name": "Immortal Journey Xayah" }
+  ],
+  "Xerath": [
+    { "name": "Xerath" },
+    { "name": "Runeborn Xerath" },
+    { "name": "Battlecast Xerath" },
+    { "name": "Scorched Earth Xerath" },
+    { "name": "Guardian of the Sands Xerath" },
+    { "name": "Dark Star Xerath" },
+    { "name": "PsyOps Xerath" },
+    { "name": "Spirit Blossom Xerath" }
+  ],
+  "XinZhao": [
+    { "name": "Xin Zhao" },
+    { "name": "Commando Xin Zhao" },
+    { "name": "Imperial Xin Zhao" },
+    { "name": "Viscero Xin Zhao" },
+    { "name": "Winged Hussar Xin Zhao" },
+    { "name": "Warring Kingdoms Xin Zhao" },
+    { "name": "Secret Agent Xin Zhao" },
+    { "name": "Cosmic Defender Xin Zhao" },
+    { "name": "Dragonslayer Xin Zhao" },
+    { "name": "Firecracker Xin Zhao" },
+    { "name": "Spirit Blossom Xin Zhao" },
+    { "name": "Sentinel Xin Zhao" }
+  ],
+  "Yasuo": [
+    { "name": "Yasuo" },
+    { "name": "High Noon Yasuo" },
+    { "name": "PROJECT: Yasuo" },
+    { "name": "Blood Moon Yasuo" },
+    { "name": "Nightbringer Yasuo" },
+    { "name": "Odyssey Yasuo" },
+    { "name": "True Damage Yasuo" },
+    { "name": "Spirit Blossom Yasuo" },
+    { "name": "Battle Boss Yasuo" },
+    { "name": "Dream Dragon Yasuo" },
+    { "name": "Prestige Dream Dragon Yasuo" },
+    { "name": "Prestige Dream Dragon Yasuo (2022)" },
+    { "name": "Inkshadow Yasuo" },
+    { "name": "DRX Yasuo" },
+    { "name": "Heartsteel Yasuo" }
+  ],
+  "Yone": [
+    { "name": "Yone" },
+    { "name": "Spirit Blossom Yone" },
+    { "name": "Dawnbringer Yone" },
+    { "name": "Battle Academia Yone" },
+    { "name": "Ocean Song Yone" },
+    { "name": "DRX Yone" },
+    { "name": "Heartsteel Yone" }
+  ],
+  "Yorick": [
+    { "name": "Yorick" },
+    { "name": "Undertaker Yorick" },
+    { "name": "Pentakill Yorick" },
+    { "name": "Arclight Yorick" },
+    { "name": "Meowrick" },
+    { "name": "Spirit Blossom Yorick" },
+    { "name": "Pentakill III: Lost Chapter Yorick" }
+  ],
+  "Yuumi": [
+    { "name": "Yuumi" },
+    { "name": "Battle Principal Yuumi" },
+    { "name": "Yuubee" },
+    { "name": "Heartseeker Yuumi" },
+    { "name": "Spirit Blossom Yuumi" },
+    { "name": "Cafe Cuties Yuumi" },
+    { "name": "Prestige Cafe Cuties Yuumi" },
+    { "name": "Prestige Cafe Cuties Yuumi (2022)" },
+    { "name": "DRX Yuumi" }
+  ],
+  "Zac": [
+    { "name": "Zac" },
+    { "name": "Special Weapon Zac" },
+    { "name": "Pool Party Zac" },
+    { "name": "SKT T1 Zac" },
+    { "name": "Battle Boss Zac" },
+    { "name": "Empyrean Zac" },
+    { "name": "Spirit Blossom Zac" }
+  ],
+  "Zed": [
+    { "name": "Zed" },
+    { "name": "Shockblade Zed" },
+    { "name": "PROJECT: Zed" },
+    { "name": "SKT T1 Zed" },
+    { "name": "Death Sworn Zed" },
+    { "name": "Championship Zed" },
+    { "name": "PsyOps Zed" },
+    { "name": "Spirit Blossom Zed" },
+    { "name": "DRX Zed" },
+    { "name": "Inkshadow Zed" },
+    { "name": "Prestige Inkshadow Zed" },
+    { "name": "Prestige Inkshadow Zed (2023)" }
+  ],
+  "Zeri": [
+    { "name": "Zeri" },
+    { "name": "Sparkling Zeri" },
+    { "name": "Ocean Song Zeri" },
+    { "name": "Star Guardian Zeri" },
+    { "name": "Immortal Journey Zeri" }
+  ],
+  "Ziggs": [
+    { "name": "Ziggs" },
+    { "name": "Mad Scientist Ziggs" },
+    { "name": "Major Ziggs" },
+    { "name": "Pool Party Ziggs" },
+    { "name": "Master Arcanist Ziggs" },
+    { "name": "Snow Day Ziggs" },
+    { "name": "Battle Boss Ziggs" },
+    { "name": "Odyssey Ziggs" },
+    { "name": "Sugar Rush Ziggs" },
+    { "name": "Hextech Ziggs" },
+    { "name": "DRX Ziggs" }
+  ],
+  "Zilean": [
+    { "name": "Zilean" },
+    { "name": "Old Saint Zilean" },
+    { "name": "Groovy Zilean" },
+    { "name": "Shurima Desert Zilean" },
+    { "name": "Time Machine Zilean" },
+    { "name": "Blood Moon Zilean" },
+    { "name": "Sugar Rush Zilean" },
+    { "name": "Winterblessed Zilean" }
+  ],
+  "Zoe": [
+    { "name": "Zoe" },
+    { "name": "Pool Party Zoe" },
+    { "name": "Star Guardian Zoe" },
+    { "name": "Arcanist Zoe" },
+    { "name": "Cyber Pop Zoe" },
+    { "name": "Spirit Blossom Zoe" },
+    { "name": "Winterblessed Zoe" }
+  ],
+  "Zyra": [
+    { "name": "Zyra" },
+    { "name": "Wildfire Zyra" },
+    { "name": "Haunted Zyra" },
+    { "name": "SKT T1 Zyra" },
+    { "name": "Dragon Sorceress Zyra" },
+    { "name": "Coven Zyra" },
+    { "name": "Prestige Coven Zyra" },
+    { "name": "Prestige Coven Zyra (2022)" },
+    { "name": "Crystal Rose Zyra" },
+    { "name": "Spirit Blossom Zyra" }
   ]
 }
