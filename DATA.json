@@ -617,27 +617,27 @@
   "AurelionSol": [
     {
       "name": "Aurelion Sol",
-      "path": "AurelionSol/Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Aurelion%20Sol.zip"
     },
     {
       "name": "Ashen Lord Aurelion Sol",
-      "path": "AurelionSol/Ashen%20Lord%20Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Ashen%20Lord%20Aurelion%20Sol.zip"
     },
     {
       "name": "Inkshadow Aurelion Sol",
-      "path": "AurelionSol/Inkshadow%20Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Inkshadow%20Aurelion%20Sol.zip"
     },
     {
       "name": "Mecha Aurelion Sol",
-      "path": "AurelionSol/Mecha%20Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Mecha%20Aurelion%20Sol.zip"
     },
     {
       "name": "Porcelain Protector Aurelion Sol",
-      "path": "AurelionSol/Porcelain%20Protector%20Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Porcelain%20Protector%20Aurelion%20Sol.zip"
     },
     {
       "name": "Storm Dragon Aurelion Sol",
-      "path": "AurelionSol/Storm%20Dragon%20Aurelion%20Sol.zip"
+      "path": "Aurelion%20Sol/Storm%20Dragon%20Aurelion%20Sol.zip"
     }
   ],
   "Aurora": [
@@ -725,19 +725,19 @@
   "Belveth": [
     {
       "name": "Bel'Veth",
-      "path": "Belveth/Bel%27Veth.zip"
+      "path": "Bel%27veth/Bel%27Veth.zip"
     },
     {
       "name": "Battle Boss Bel'Veth",
-      "path": "Belveth/Battle%20Boss%20Bel%27Veth.zip"
+      "path": "Bel%27veth/Battle%20Boss%20Bel%27Veth.zip"
     },
     {
       "name": "Cosmic Matriarch Bel'Veth",
-      "path": "Belveth/Cosmic%20Matriarch%20Bel%27Veth.zip"
+      "path": "Bel%27veth/Cosmic%20Matriarch%20Bel%27Veth.zip"
     },
     {
       "name": "Primordian Bel'Veth",
-      "path": "Belveth/Primordian%20Bel%27Veth.zip"
+      "path": "Bel%27veth/Primordian%20Bel%27Veth.zip"
     }
   ],
   "Blitzcrank": [
@@ -1073,47 +1073,47 @@
   "Chogath": [
     {
       "name": "Cho'Gath",
-      "path": "Chogath/Cho%27Gath.zip"
+      "path": "Cho%27Gath/Cho%27Gath.zip"
     },
     {
       "name": "Battlecast Prime Cho'Gath",
-      "path": "Chogath/Battlecast%20Prime%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Battlecast%20Prime%20Cho%27Gath.zip"
     },
     {
       "name": "Broken Covenant Cho'Gath",
-      "path": "Chogath/Broken%20Covenant%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Broken%20Covenant%20Cho%27Gath.zip"
     },
     {
       "name": "Dark Star Cho'Gath",
-      "path": "Chogath/Dark%20Star%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Dark%20Star%20Cho%27Gath.zip"
     },
     {
       "name": "Gentleman Cho'Gath",
-      "path": "Chogath/Gentleman%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Gentleman%20Cho%27Gath.zip"
     },
     {
       "name": "Jurassic Cho'Gath",
-      "path": "Chogath/Jurassic%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Jurassic%20Cho%27Gath.zip"
     },
     {
       "name": "Loch Ness Cho'Gath",
-      "path": "Chogath/Loch%20Ness%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Loch%20Ness%20Cho%27Gath.zip"
     },
     {
       "name": "Nightmare Cho'Gath",
-      "path": "Chogath/Nightmare%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Nightmare%20Cho%27Gath.zip"
     },
     {
       "name": "Prehistoric Cho'Gath",
-      "path": "Chogath/Prehistoric%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Prehistoric%20Cho%27Gath.zip"
     },
     {
       "name": "Shan Hai Scrolls Cho'Gath",
-      "path": "Chogath/Shan%20Hai%20Scrolls%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Shan%20Hai%20Scrolls%20Cho%27Gath.zip"
     },
     {
       "name": "Toy Terror Cho'Gath",
-      "path": "Chogath/Toy%20Terror%20Cho%27Gath.zip"
+      "path": "Cho%27Gath/Toy%20Terror%20Cho%27Gath.zip"
     }
   ],
   "Corki": [
@@ -1289,51 +1289,51 @@
   "DrMundo": [
     {
       "name": "Dr. Mundo",
-      "path": "DrMundo/Dr.%20Mundo.zip"
+      "path": "Dr.%20Mundo/Dr.%20Mundo.zip"
     },
     {
       "name": "Corporate Mundo",
-      "path": "DrMundo/Corporate%20Mundo.zip"
+      "path": "Dr.%20Mundo/Corporate%20Mundo.zip"
     },
     {
       "name": "El Macho Mundo",
-      "path": "DrMundo/El%20Macho%20Mundo.zip"
+      "path": "Dr.%20Mundo/El%20Macho%20Mundo.zip"
     },
     {
       "name": "Executioner Mundo",
-      "path": "DrMundo/Executioner%20Mundo.zip"
+      "path": "Dr.%20Mundo/Executioner%20Mundo.zip"
     },
     {
       "name": "Frozen Prince Mundo",
-      "path": "DrMundo/Frozen%20Prince%20Mundo.zip"
+      "path": "Dr.%20Mundo/Frozen%20Prince%20Mundo.zip"
     },
     {
       "name": "Mr. Mundoverse",
-      "path": "DrMundo/Mr.%20Mundoverse.zip"
+      "path": "Dr.%20Mundo/Mr.%20Mundoverse.zip"
     },
     {
       "name": "Mundo Mundo",
-      "path": "DrMundo/Mundo%20Mundo.zip"
+      "path": "Dr.%20Mundo/Mundo%20Mundo.zip"
     },
     {
       "name": "Pool Party Mundo",
-      "path": "DrMundo/Pool%20Party%20Mundo.zip"
+      "path": "Dr.%20Mundo/Pool%20Party%20Mundo.zip"
     },
     {
       "name": "Rageborn Mundo",
-      "path": "DrMundo/Rageborn%20Mundo.zip"
+      "path": "Dr.%20Mundo/Rageborn%20Mundo.zip"
     },
     {
       "name": "Street Demons Dr. Mundo",
-      "path": "DrMundo/Street%20Demons%20Dr.%20Mundo.zip"
+      "path": "Dr.%20Mundo/Street%20Demons%20Dr.%20Mundo.zip"
     },
     {
       "name": "TPA Mundo",
-      "path": "DrMundo/TPA%20Mundo.zip"
+      "path": "Dr.%20Mundo/TPA%20Mundo.zip"
     },
     {
       "name": "Toxic Dr. Mundo",
-      "path": "DrMundo/Toxic%20Dr.%20Mundo.zip"
+      "path": "Dr.%20Mundo/Toxic%20Dr.%20Mundo.zip"
     }
   ],
   "Draven": [
@@ -2471,63 +2471,63 @@
   "JarvanIV": [
     {
       "name": "Jarvan IV",
-      "path": "JarvanIV/Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Jarvan%20IV.zip"
     },
     {
       "name": "Commando Jarvan IV",
-      "path": "JarvanIV/Commando%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Commando%20Jarvan%20IV.zip"
     },
     {
       "name": "Dark Star Jarvan IV",
-      "path": "JarvanIV/Dark%20Star%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Dark%20Star%20Jarvan%20IV.zip"
     },
     {
       "name": "Darkforge Jarvan IV",
-      "path": "JarvanIV/Darkforge%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Darkforge%20Jarvan%20IV.zip"
     },
     {
       "name": "Dragonslayer Jarvan IV",
-      "path": "JarvanIV/Dragonslayer%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Dragonslayer%20Jarvan%20IV.zip"
     },
     {
       "name": "Fnatic Jarvan IV",
-      "path": "JarvanIV/Fnatic%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Fnatic%20Jarvan%20IV.zip"
     },
     {
       "name": "Hextech Jarvan IV",
-      "path": "JarvanIV/Hextech%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Hextech%20Jarvan%20IV.zip"
     },
     {
       "name": "Lunar Beast Jarvan IV",
-      "path": "JarvanIV/Lunar%20Beast%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Lunar%20Beast%20Jarvan%20IV.zip"
     },
     {
       "name": "Mythmaker Jarvan IV",
-      "path": "JarvanIV/Mythmaker%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Mythmaker%20Jarvan%20IV.zip"
     },
     {
       "name": "Nightbringer Jarvan IV",
-      "path": "JarvanIV/Nightbringer%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Nightbringer%20Jarvan%20IV.zip"
     },
     {
       "name": "Pool Party Jarvan IV",
-      "path": "JarvanIV/Pool%20Party%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Pool%20Party%20Jarvan%20IV.zip"
     },
     {
       "name": "SSG Jarvan IV",
-      "path": "JarvanIV/SSG%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/SSG%20Jarvan%20IV.zip"
     },
     {
       "name": "Victorious Jarvan IV",
-      "path": "JarvanIV/Victorious%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Victorious%20Jarvan%20IV.zip"
     },
     {
       "name": "Warring Kingdoms Jarvan IV",
-      "path": "JarvanIV/Warring%20Kingdoms%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Warring%20Kingdoms%20Jarvan%20IV.zip"
     },
     {
       "name": "Worlds 2021 Jarvan IV",
-      "path": "JarvanIV/Worlds%202021%20Jarvan%20IV.zip"
+      "path": "Jarvan%20IV/Worlds%202021%20Jarvan%20IV.zip"
     }
   ],
   "Jax": [
@@ -2765,19 +2765,19 @@
   "KSante": [
     {
       "name": "K'Sante",
-      "path": "KSante/K%27Sante.zip"
+      "path": "K%27Sante/K%27Sante.zip"
     },
     {
       "name": "Empyrean K'Sante",
-      "path": "KSante/Empyrean%20K%27Sante.zip"
+      "path": "K%27Sante/Empyrean%20K%27Sante.zip"
     },
     {
       "name": "HEARTSTEEL K'Sante",
-      "path": "KSante/HEARTSTEEL%20K%27Sante.zip"
+      "path": "K%27Sante/HEARTSTEEL%20K%27Sante.zip"
     },
     {
       "name": "Prestige Empyrean K'Sante",
-      "path": "KSante/Prestige%20Empyrean%20K%27Sante.zip"
+      "path": "K%27Sante/Prestige%20Empyrean%20K%27Sante.zip"
     }
   ],
   "Kaisa": [
@@ -3257,39 +3257,39 @@
   "Khazix": [
     {
       "name": "Kha'Zix",
-      "path": "Khazix/Kha%27Zix.zip"
+      "path": "Kha%27Zix/Kha%27Zix.zip"
     },
     {
       "name": "Crystalis Indomitus Kha'Zix",
-      "path": "Khazix/Crystalis%20Indomitus%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Crystalis%20Indomitus%20Kha%27Zix.zip"
     },
     {
       "name": "Dark Star Kha'Zix",
-      "path": "Khazix/Dark%20Star%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Dark%20Star%20Kha%27Zix.zip"
     },
     {
       "name": "Death Blossom Kha'Zix",
-      "path": "Khazix/Death%20Blossom%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Death%20Blossom%20Kha%27Zix.zip"
     },
     {
       "name": "Guardian of the Sands Kha'Zix",
-      "path": "Khazix/Guardian%20of%20the%20Sands%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Guardian%20of%20the%20Sands%20Kha%27Zix.zip"
     },
     {
       "name": "Lunar Guardian Kha'Zix",
-      "path": "Khazix/Lunar%20Guardian%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Lunar%20Guardian%20Kha%27Zix.zip"
     },
     {
       "name": "Mecha Kha'Zix",
-      "path": "Khazix/Mecha%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Mecha%20Kha%27Zix.zip"
     },
     {
       "name": "Odyssey Kha'Zix",
-      "path": "Khazix/Odyssey%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Odyssey%20Kha%27Zix.zip"
     },
     {
       "name": "Worlds 2018 Kha'Zix",
-      "path": "Khazix/Worlds%202018%20Kha%27Zix.zip"
+      "path": "Kha%27Zix/Worlds%202018%20Kha%27Zix.zip"
     }
   ],
   "Kindred": [
@@ -3355,67 +3355,67 @@
   "KogMaw": [
     {
       "name": "Kog'Maw",
-      "path": "KogMaw/Kog%27Maw.zip"
+      "path": "Kog%27Maw/Kog%27Maw.zip"
     },
     {
       "name": "Arcanist Kog'Maw",
-      "path": "KogMaw/Arcanist%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Arcanist%20Kog%27Maw.zip"
     },
     {
       "name": "Battlecast Kog'Maw",
-      "path": "KogMaw/Battlecast%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Battlecast%20Kog%27Maw.zip"
     },
     {
       "name": "Bee'Maw",
-      "path": "KogMaw/Bee%27Maw.zip"
+      "path": "Kog%27Maw/Bee%27Maw.zip"
     },
     {
       "name": "Caterpillar Kog'Maw",
-      "path": "KogMaw/Caterpillar%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Caterpillar%20Kog%27Maw.zip"
     },
     {
       "name": "Deep Sea Kog'Maw",
-      "path": "KogMaw/Deep%20Sea%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Deep%20Sea%20Kog%27Maw.zip"
     },
     {
       "name": "Hextech Kog'Maw",
-      "path": "KogMaw/Hextech%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Hextech%20Kog%27Maw.zip"
     },
     {
       "name": "Jurassic Kog'Maw",
-      "path": "KogMaw/Jurassic%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Jurassic%20Kog%27Maw.zip"
     },
     {
       "name": "Lion Dance Kog'Maw",
-      "path": "KogMaw/Lion%20Dance%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Lion%20Dance%20Kog%27Maw.zip"
     },
     {
       "name": "Monarch Kog'Maw",
-      "path": "KogMaw/Monarch%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Monarch%20Kog%27Maw.zip"
     },
     {
       "name": "Pug'Maw",
-      "path": "KogMaw/Pug%27Maw.zip"
+      "path": "Kog%27Maw/Pug%27Maw.zip"
     },
     {
       "name": "Reindeer Kog'Maw",
-      "path": "KogMaw/Reindeer%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Reindeer%20Kog%27Maw.zip"
     },
     {
       "name": "Shan Hai Scrolls Kog'Maw",
-      "path": "KogMaw/Shan%20Hai%20Scrolls%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Shan%20Hai%20Scrolls%20Kog%27Maw.zip"
     },
     {
       "name": "Sonoran Kog'Maw",
-      "path": "KogMaw/Sonoran%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Sonoran%20Kog%27Maw.zip"
     },
     {
       "name": "Victorious Kog'Maw",
-      "path": "KogMaw/Victorious%20Kog%27Maw.zip"
+      "path": "Kog%27Maw/Victorious%20Kog%27Maw.zip"
     },
     {
       "name": "Zap'Maw",
-      "path": "KogMaw/Zap%27Maw.zip"
+      "path": "Kog%27Maw/Zap%27Maw.zip"
     }
   ],
   "Leblanc": [
@@ -3479,83 +3479,83 @@
   "LeeSin": [
     {
       "name": "Lee Sin",
-      "path": "LeeSin/Lee%20Sin.zip"
+      "path": "Lee%20Sin/Lee%20Sin.zip"
     },
     {
       "name": "Acolyte Lee Sin",
-      "path": "LeeSin/Acolyte%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Acolyte%20Lee%20Sin.zip"
     },
     {
       "name": "Divine Heavenscale Lee Sin",
-      "path": "LeeSin/Divine%20Heavenscale%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Divine%20Heavenscale%20Lee%20Sin.zip"
     },
     {
       "name": "Dragon Fist Lee Sin",
-      "path": "LeeSin/Dragon%20Fist%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Dragon%20Fist%20Lee%20Sin.zip"
     },
     {
       "name": "FPX Lee Sin",
-      "path": "LeeSin/FPX%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/FPX%20Lee%20Sin.zip"
     },
     {
       "name": "God Fist Lee Sin",
-      "path": "LeeSin/God%20Fist%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/God%20Fist%20Lee%20Sin.zip"
     },
     {
       "name": "Heavenscale Lee Sin",
-      "path": "LeeSin/Heavenscale%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Heavenscale%20Lee%20Sin.zip"
     },
     {
       "name": "Inkshadow Lee Sin",
-      "path": "LeeSin/Inkshadow%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Inkshadow%20Lee%20Sin.zip"
     },
     {
       "name": "Knockout Lee Sin",
-      "path": "LeeSin/Knockout%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Knockout%20Lee%20Sin.zip"
     },
     {
       "name": "Muay Thai Lee Sin",
-      "path": "LeeSin/Muay%20Thai%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Muay%20Thai%20Lee%20Sin.zip"
     },
     {
       "name": "Nightbringer Lee Sin",
-      "path": "LeeSin/Nightbringer%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Nightbringer%20Lee%20Sin.zip"
     },
     {
       "name": "Playmaker Lee Sin",
-      "path": "LeeSin/Playmaker%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Playmaker%20Lee%20Sin.zip"
     },
     {
       "name": "Pool Party Lee Sin",
-      "path": "LeeSin/Pool%20Party%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Pool%20Party%20Lee%20Sin.zip"
     },
     {
       "name": "Prestige Nightbringer Lee Sin (2022)",
-      "path": "LeeSin/Prestige%20Nightbringer%20Lee%20Sin%20%282022%29.zip"
+      "path": "Lee%20Sin/Prestige%20Nightbringer%20Lee%20Sin%20%282022%29.zip"
     },
     {
       "name": "Prestige Nightbringer Lee Sin",
-      "path": "LeeSin/Prestige%20Nightbringer%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Prestige%20Nightbringer%20Lee%20Sin.zip"
     },
     {
       "name": "SKT T1 Lee Sin",
-      "path": "LeeSin/SKT%20T1%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/SKT%20T1%20Lee%20Sin.zip"
     },
     {
       "name": "Storm Dragon Lee Sin",
-      "path": "LeeSin/Storm%20Dragon%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Storm%20Dragon%20Lee%20Sin.zip"
     },
     {
       "name": "T1 Lee Sin",
-      "path": "LeeSin/T1%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/T1%20Lee%20Sin.zip"
     },
     {
       "name": "Traditional Lee Sin",
-      "path": "LeeSin/Traditional%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Traditional%20Lee%20Sin.zip"
     },
     {
       "name": "Zenith Games Lee Sin",
-      "path": "LeeSin/Zenith%20Games%20Lee%20Sin.zip"
+      "path": "Lee%20Sin/Zenith%20Games%20Lee%20Sin.zip"
     }
   ],
   "Leona": [
@@ -4063,75 +4063,75 @@
   "MasterYi": [
     {
       "name": "Master Yi",
-      "path": "MasterYi/Master%20Yi.zip"
+      "path": "Master%20Yi/Master%20Yi.zip"
     },
     {
       "name": "Assassin Master Yi",
-      "path": "MasterYi/Assassin%20Master%20Yi.zip"
+      "path": "Master%20Yi/Assassin%20Master%20Yi.zip"
     },
     {
       "name": "Blood Moon Master Yi",
-      "path": "MasterYi/Blood%20Moon%20Master%20Yi.zip"
+      "path": "Master%20Yi/Blood%20Moon%20Master%20Yi.zip"
     },
     {
       "name": "Chosen Master Yi",
-      "path": "MasterYi/Chosen%20Master%20Yi.zip"
+      "path": "Master%20Yi/Chosen%20Master%20Yi.zip"
     },
     {
       "name": "Cosmic Blade Master Yi",
-      "path": "MasterYi/Cosmic%20Blade%20Master%20Yi.zip"
+      "path": "Master%20Yi/Cosmic%20Blade%20Master%20Yi.zip"
     },
     {
       "name": "Debonair Master Yi",
-      "path": "MasterYi/Debonair%20Master%20Yi.zip"
+      "path": "Master%20Yi/Debonair%20Master%20Yi.zip"
     },
     {
       "name": "Eternal Sword Yi",
-      "path": "MasterYi/Eternal%20Sword%20Yi.zip"
+      "path": "Master%20Yi/Eternal%20Sword%20Yi.zip"
     },
     {
       "name": "Headhunter Master Yi",
-      "path": "MasterYi/Headhunter%20Master%20Yi.zip"
+      "path": "Master%20Yi/Headhunter%20Master%20Yi.zip"
     },
     {
       "name": "Heavenscale Master Yi",
-      "path": "MasterYi/Heavenscale%20Master%20Yi.zip"
+      "path": "Master%20Yi/Heavenscale%20Master%20Yi.zip"
     },
     {
       "name": "Inkshadow Master Yi",
-      "path": "MasterYi/Inkshadow%20Master%20Yi.zip"
+      "path": "Master%20Yi/Inkshadow%20Master%20Yi.zip"
     },
     {
       "name": "Ionia Master Yi",
-      "path": "MasterYi/Ionia%20Master%20Yi.zip"
+      "path": "Master%20Yi/Ionia%20Master%20Yi.zip"
     },
     {
       "name": "PROJECT Yi",
-      "path": "MasterYi/PROJECT%20Yi.zip"
+      "path": "Master%20Yi/PROJECT%20Yi.zip"
     },
     {
       "name": "Prestige Spirit Blossom Master Yi",
-      "path": "MasterYi/Prestige%20Spirit%20Blossom%20Master%20Yi.zip"
+      "path": "Master%20Yi/Prestige%20Spirit%20Blossom%20Master%20Yi.zip"
     },
     {
       "name": "PsyOps Master Yi",
-      "path": "MasterYi/PsyOps%20Master%20Yi.zip"
+      "path": "Master%20Yi/PsyOps%20Master%20Yi.zip"
     },
     {
       "name": "Samurai Yi",
-      "path": "MasterYi/Samurai%20Yi.zip"
+      "path": "Master%20Yi/Samurai%20Yi.zip"
     },
     {
       "name": "Snow Man Yi",
-      "path": "MasterYi/Snow%20Man%20Yi.zip"
+      "path": "Master%20Yi/Snow%20Man%20Yi.zip"
     },
     {
       "name": "Spirit Blossom Master Yi",
-      "path": "MasterYi/Spirit%20Blossom%20Master%20Yi.zip"
+      "path": "Master%20Yi/Spirit%20Blossom%20Master%20Yi.zip"
     },
     {
       "name": "Victorious Master Yi",
-      "path": "MasterYi/Victorious%20Master%20Yi.zip"
+      "path": "Master%20Yi/Victorious%20Master%20Yi.zip"
     }
   ],
   "Mel": [
@@ -4161,95 +4161,95 @@
   "MissFortune": [
     {
       "name": "Miss Fortune",
-      "path": "MissFortune/Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Miss%20Fortune.zip"
     },
     {
       "name": "Admiral Battle Bunny Miss Fortune",
-      "path": "MissFortune/Admiral%20Battle%20Bunny%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Admiral%20Battle%20Bunny%20Miss%20Fortune.zip"
     },
     {
       "name": "Arcade Miss Fortune",
-      "path": "MissFortune/Arcade%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Arcade%20Miss%20Fortune.zip"
     },
     {
       "name": "Battle Bunny Miss Fortune",
-      "path": "MissFortune/Battle%20Bunny%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Battle%20Bunny%20Miss%20Fortune.zip"
     },
     {
       "name": "Battle Queen Miss Fortune",
-      "path": "MissFortune/Battle%20Queen%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Battle%20Queen%20Miss%20Fortune.zip"
     },
     {
       "name": "Bewitching Miss Fortune",
-      "path": "MissFortune/Bewitching%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Bewitching%20Miss%20Fortune.zip"
     },
     {
       "name": "Broken Covenant Miss Fortune",
-      "path": "MissFortune/Broken%20Covenant%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Broken%20Covenant%20Miss%20Fortune.zip"
     },
     {
       "name": "Candy Cane Miss Fortune",
-      "path": "MissFortune/Candy%20Cane%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Candy%20Cane%20Miss%20Fortune.zip"
     },
     {
       "name": "Captain Fortune",
-      "path": "MissFortune/Captain%20Fortune.zip"
+      "path": "Miss%20Fortune/Captain%20Fortune.zip"
     },
     {
       "name": "Cowgirl Miss Fortune",
-      "path": "MissFortune/Cowgirl%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Cowgirl%20Miss%20Fortune.zip"
     },
     {
       "name": "Crime City Miss Fortune",
-      "path": "MissFortune/Crime%20City%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Crime%20City%20Miss%20Fortune.zip"
     },
     {
       "name": "Gun Goddess Miss Fortune",
-      "path": "MissFortune/Gun%20Goddess%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Gun%20Goddess%20Miss%20Fortune.zip"
     },
     {
       "name": "Pajama Guardian Miss Fortune",
-      "path": "MissFortune/Pajama%20Guardian%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Pajama%20Guardian%20Miss%20Fortune.zip"
     },
     {
       "name": "Pool Party Miss Fortune",
-      "path": "MissFortune/Pool%20Party%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Pool%20Party%20Miss%20Fortune.zip"
     },
     {
       "name": "Porcelain Miss Fortune",
-      "path": "MissFortune/Porcelain%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Porcelain%20Miss%20Fortune.zip"
     },
     {
       "name": "Prestige Bewitching Miss Fortune (2022)",
-      "path": "MissFortune/Prestige%20Bewitching%20Miss%20Fortune%20%282022%29.zip"
+      "path": "Miss%20Fortune/Prestige%20Bewitching%20Miss%20Fortune%20%282022%29.zip"
     },
     {
       "name": "Prestige Bewitching Miss Fortune",
-      "path": "MissFortune/Prestige%20Bewitching%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Prestige%20Bewitching%20Miss%20Fortune.zip"
     },
     {
       "name": "Prestige Broken Covenant Miss Fortune",
-      "path": "MissFortune/Prestige%20Broken%20Covenant%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Prestige%20Broken%20Covenant%20Miss%20Fortune.zip"
     },
     {
       "name": "Road Warrior Miss Fortune",
-      "path": "MissFortune/Road%20Warrior%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Road%20Warrior%20Miss%20Fortune.zip"
     },
     {
       "name": "Ruined Miss Fortune",
-      "path": "MissFortune/Ruined%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Ruined%20Miss%20Fortune.zip"
     },
     {
       "name": "Secret Agent Miss Fortune",
-      "path": "MissFortune/Secret%20Agent%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Secret%20Agent%20Miss%20Fortune.zip"
     },
     {
       "name": "Star Guardian Miss Fortune",
-      "path": "MissFortune/Star%20Guardian%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Star%20Guardian%20Miss%20Fortune.zip"
     },
     {
       "name": "Waterloo Miss Fortune",
-      "path": "MissFortune/Waterloo%20Miss%20Fortune.zip"
+      "path": "Miss%20Fortune/Waterloo%20Miss%20Fortune.zip"
     }
   ],
   "Mordekaiser": [
@@ -4723,55 +4723,55 @@
   "Nunu": [
     {
       "name": "Nunu & Willump",
-      "path": "Nunu/Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Cosmic Paladins Nunu & Willump",
-      "path": "Nunu/Cosmic%20Paladins%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Cosmic%20Paladins%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Demolisher Nunu & Willump",
-      "path": "Nunu/Demolisher%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Demolisher%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Fright Night Nunu & Willump",
-      "path": "Nunu/Fright%20Night%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Fright%20Night%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Grungy Nunu & Willump",
-      "path": "Nunu/Grungy%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Grungy%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Nunu & Beelump",
-      "path": "Nunu/Nunu%20%26%20Beelump.zip"
+      "path": "Nunu%20%26%20Willump/Nunu%20%26%20Beelump.zip"
     },
     {
       "name": "Nunu & Willump Bot",
-      "path": "Nunu/Nunu%20%26%20Willump%20Bot.zip"
+      "path": "Nunu%20%26%20Willump/Nunu%20%26%20Willump%20Bot.zip"
     },
     {
       "name": "Papercraft Nunu & Willump",
-      "path": "Nunu/Papercraft%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Papercraft%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Sasquatch Nunu & Willump",
-      "path": "Nunu/Sasquatch%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Sasquatch%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Space Groove Nunu & Willump",
-      "path": "Nunu/Space%20Groove%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Space%20Groove%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "TPA Nunu & Willump",
-      "path": "Nunu/TPA%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/TPA%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Workshop Nunu & Willump",
-      "path": "Nunu/Workshop%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Workshop%20Nunu%20%26%20Willump.zip"
     },
     {
       "name": "Zombie Nunu & Willump",
-      "path": "Nunu/Zombie%20Nunu%20%26%20Willump.zip"
+      "path": "Nunu%20%26%20Willump/Zombie%20Nunu%20%26%20Willump.zip"
     }
   ],
   "Olaf": [
@@ -5241,27 +5241,27 @@
   "RekSai": [
     {
       "name": "Rek'Sai",
-      "path": "RekSai/Rek%27Sai.zip"
+      "path": "Rek%27SaiRek%27Sai.zip"
     },
     {
       "name": "Blackfrost Rek'Sai",
-      "path": "RekSai/Blackfrost%20Rek%27Sai.zip"
+      "path": "Rek%27SaiBlackfrost%20Rek%27Sai.zip"
     },
     {
       "name": "Elderwood Rek'Sai",
-      "path": "RekSai/Elderwood%20Rek%27Sai.zip"
+      "path": "Rek%27SaiElderwood%20Rek%27Sai.zip"
     },
     {
       "name": "Eternum Rek'Sai",
-      "path": "RekSai/Eternum%20Rek%27Sai.zip"
+      "path": "Rek%27SaiEternum%20Rek%27Sai.zip"
     },
     {
       "name": "Pool Party Rek'Sai",
-      "path": "RekSai/Pool%20Party%20Rek%27Sai.zip"
+      "path": "Rek%27SaiPool%20Party%20Rek%27Sai.zip"
     },
     {
       "name": "Primordian Rek'Sai",
-      "path": "RekSai/Primordian%20Rek%27Sai.zip"
+      "path": "Rek%27SaiPrimordian%20Rek%27Sai.zip"
     }
   ],
   "Rell": [
@@ -5289,27 +5289,27 @@
   "Renata": [
     {
       "name": "Renata Glasc",
-      "path": "Renata/Renata%20Glasc.zip"
+      "path": "Renata%20Glasc/Renata%20Glasc.zip"
     },
     {
       "name": "Admiral Glasc",
-      "path": "Renata/Admiral%20Glasc.zip"
+      "path": "Renata%20Glasc/Admiral%20Glasc.zip"
     },
     {
       "name": "Fright Night Renata Glasc",
-      "path": "Renata/Fright%20Night%20Renata%20Glasc.zip"
+      "path": "Renata%20Glasc/Fright%20Night%20Renata%20Glasc.zip"
     },
     {
       "name": "La Ilusión Renata Glasc",
-      "path": "Renata/La%20Ilusi%C3%B3n%20Renata%20Glasc.zip"
+      "path": "Renata%20Glasc/La%20Ilusi%C3%B3n%20Renata%20Glasc.zip"
     },
     {
       "name": "Masque of the Black Rose Renata Glasc",
-      "path": "Renata/Masque%20of%20the%20Black%20Rose%20Renata%20Glasc.zip"
+      "path": "Renata%20Glasc/Masque%20of%20the%20Black%20Rose%20Renata%20Glasc.zip"
     },
     {
       "name": "Prestige La Ilusión Renata Glasc",
-      "path": "Renata/Prestige%20La%20Ilusi%C3%B3n%20Renata%20Glasc.zip"
+      "path": "Renata%20Glasc/Prestige%20La%20Ilusi%C3%B3n%20Renata%20Glasc.zip"
     }
   ],
   "Renekton": [
@@ -6437,31 +6437,31 @@
   "TahmKench": [
     {
       "name": "Tahm Kench",
-      "path": "TahmKench/Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/Tahm%20Kench.zip"
     },
     {
       "name": "Arcana Tahm Kench",
-      "path": "TahmKench/Arcana%20Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/Arcana%20Tahm%20Kench.zip"
     },
     {
       "name": "Coin Emperor Tahm Kench",
-      "path": "TahmKench/Coin%20Emperor%20Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/Coin%20Emperor%20Tahm%20Kench.zip"
     },
     {
       "name": "High Noon Tahm Kench",
-      "path": "TahmKench/High%20Noon%20Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/High%20Noon%20Tahm%20Kench.zip"
     },
     {
       "name": "Master Chef Tahm Kench",
-      "path": "TahmKench/Master%20Chef%20Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/Master%20Chef%20Tahm%20Kench.zip"
     },
     {
       "name": "Shan Hai Scrolls Tahm Kench",
-      "path": "TahmKench/Shan%20Hai%20Scrolls%20Tahm%20Kench.zip"
+      "path": "Tahm%20Kench/Shan%20Hai%20Scrolls%20Tahm%20Kench.zip"
     },
     {
       "name": "Urf Kench",
-      "path": "TahmKench/Urf%20Kench.zip"
+      "path": "Tahm%20Kench/Urf%20Kench.zip"
     }
   ],
   "Taliyah": [
@@ -6871,71 +6871,71 @@
   "TwistedFate": [
     {
       "name": "Twisted Fate",
-      "path": "TwistedFate/Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Twisted%20Fate.zip"
     },
     {
       "name": "Blood Moon Twisted Fate",
-      "path": "TwistedFate/Blood%20Moon%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Blood%20Moon%20Twisted%20Fate.zip"
     },
     {
       "name": "Crime City Nightmare Twisted Fate",
-      "path": "TwistedFate/Crime%20City%20Nightmare%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Crime%20City%20Nightmare%20Twisted%20Fate.zip"
     },
     {
       "name": "Cutpurse Twisted Fate",
-      "path": "TwistedFate/Cutpurse%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Cutpurse%20Twisted%20Fate.zip"
     },
     {
       "name": "DWG Twisted Fate",
-      "path": "TwistedFate/DWG%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/DWG%20Twisted%20Fate.zip"
     },
     {
       "name": "High Noon Twisted Fate",
-      "path": "TwistedFate/High%20Noon%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/High%20Noon%20Twisted%20Fate.zip"
     },
     {
       "name": "Jack of Hearts Twisted Fate",
-      "path": "TwistedFate/Jack%20of%20Hearts%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Jack%20of%20Hearts%20Twisted%20Fate.zip"
     },
     {
       "name": "Musketeer Twisted Fate",
-      "path": "TwistedFate/Musketeer%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Musketeer%20Twisted%20Fate.zip"
     },
     {
       "name": "Odyssey Twisted Fate",
-      "path": "TwistedFate/Odyssey%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Odyssey%20Twisted%20Fate.zip"
     },
     {
       "name": "PAX Twisted Fate",
-      "path": "TwistedFate/PAX%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/PAX%20Twisted%20Fate.zip"
     },
     {
       "name": "Pulsefire Twisted Fate",
-      "path": "TwistedFate/Pulsefire%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Pulsefire%20Twisted%20Fate.zip"
     },
     {
       "name": "Red Card Twisted Fate",
-      "path": "TwistedFate/Red%20Card%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Red%20Card%20Twisted%20Fate.zip"
     },
     {
       "name": "Space Groove Twisted Fate",
-      "path": "TwistedFate/Space%20Groove%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Space%20Groove%20Twisted%20Fate.zip"
     },
     {
       "name": "Tango Twisted Fate",
-      "path": "TwistedFate/Tango%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Tango%20Twisted%20Fate.zip"
     },
     {
       "name": "The Magnificent Twisted Fate",
-      "path": "TwistedFate/The%20Magnificent%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/The%20Magnificent%20Twisted%20Fate.zip"
     },
     {
       "name": "Underworld Twisted Fate",
-      "path": "TwistedFate/Underworld%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Underworld%20Twisted%20Fate.zip"
     },
     {
       "name": "Victorious Twisted Fate",
-      "path": "TwistedFate/Victorious%20Twisted%20Fate.zip"
+      "path": "Twisted%20Fate/Victorious%20Twisted%20Fate.zip"
     }
   ],
   "Twitch": [
@@ -7273,31 +7273,31 @@
   "Velkoz": [
     {
       "name": "Vel'Koz",
-      "path": "Velkoz/Vel%27Koz.zip"
+      "path": "Vel%27Koz/Vel%27Koz.zip"
     },
     {
       "name": "Arclight Vel'Koz",
-      "path": "Velkoz/Arclight%20Vel%27Koz.zip"
+      "path": "Vel%27Koz/Arclight%20Vel%27Koz.zip"
     },
     {
       "name": "Battlecast Vel'Koz",
-      "path": "Velkoz/Battlecast%20Vel%27Koz.zip"
+      "path": "Vel%27Koz/Battlecast%20Vel%27Koz.zip"
     },
     {
       "name": "Bee'Koz",
-      "path": "Velkoz/Bee%27Koz.zip"
+      "path": "Vel%27Koz/Bee%27Koz.zip"
     },
     {
       "name": "Blackfrost Vel'Koz",
-      "path": "Velkoz/Blackfrost%20Vel%27Koz.zip"
+      "path": "Vel%27Koz/Blackfrost%20Vel%27Koz.zip"
     },
     {
       "name": "Definitely Not Vel'Koz",
-      "path": "Velkoz/Definitely%20Not%20Vel%27Koz.zip"
+      "path": "Vel%27Koz/Definitely%20Not%20Vel%27Koz.zip"
     },
     {
       "name": "Infernal Vel'Koz",
-      "path": "Velkoz/Infernal%20Vel%27Koz.zip"
+      "path": "Vel%27Koz/Infernal%20Vel%27Koz.zip"
     }
   ],
   "Vex": [
@@ -7735,47 +7735,47 @@
   "XinZhao": [
     {
       "name": "Xin Zhao",
-      "path": "XinZhao/Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Xin%20Zhao.zip"
     },
     {
       "name": "Commando Xin Zhao",
-      "path": "XinZhao/Commando%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Commando%20Xin%20Zhao.zip"
     },
     {
       "name": "Cosmic Defender Xin Zhao",
-      "path": "XinZhao/Cosmic%20Defender%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Cosmic%20Defender%20Xin%20Zhao.zip"
     },
     {
       "name": "Dragonslayer Xin Zhao",
-      "path": "XinZhao/Dragonslayer%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Dragonslayer%20Xin%20Zhao.zip"
     },
     {
       "name": "Firecracker Xin Zhao",
-      "path": "XinZhao/Firecracker%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Firecracker%20Xin%20Zhao.zip"
     },
     {
       "name": "Imperial Xin Zhao",
-      "path": "XinZhao/Imperial%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Imperial%20Xin%20Zhao.zip"
     },
     {
       "name": "Marauder Xin Zhao",
-      "path": "XinZhao/Marauder%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Marauder%20Xin%20Zhao.zip"
     },
     {
       "name": "Secret Agent Xin Zhao",
-      "path": "XinZhao/Secret%20Agent%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Secret%20Agent%20Xin%20Zhao.zip"
     },
     {
       "name": "Viscero Xin Zhao",
-      "path": "XinZhao/Viscero%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Viscero%20Xin%20Zhao.zip"
     },
     {
       "name": "Warring Kingdoms Xin Zhao",
-      "path": "XinZhao/Warring%20Kingdoms%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Warring%20Kingdoms%20Xin%20Zhao.zip"
     },
     {
       "name": "Winged Hussar Xin Zhao",
-      "path": "XinZhao/Winged%20Hussar%20Xin%20Zhao.zip"
+      "path": "Xin%20Zhao/Winged%20Hussar%20Xin%20Zhao.zip"
     }
   ],
   "Yasuo": [
