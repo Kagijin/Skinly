@@ -1,6 +1,6 @@
 # Skinly - League of Legends Skin Changer
 
-[![license](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+[![license](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.md)
 [![platform](https://img.shields.io/badge/platform-Windows-brightgreen.svg)]()
 [![electron](https://img.shields.io/badge/electron-Versão_do_Electron-purple.svg)]() [![react](https://img.shields.io/badge/react-Versão_do_React-blue.svg)]() [![chat](https://img.shields.io/badge/chat-Junte%2Dse%20ao%20Discord-7289DA.svg)](https://discord.gg/BQRt3xAxAT)
 
