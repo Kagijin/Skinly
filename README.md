@@ -1,66 +1,50 @@
-# Skinly Skins Repository
+# Skinly - League of Legends Skin Changer
 
-Bem-vindo ao repositório oficial da **Skinly** — coleção de skins personalizadas para uso pessoal, modificáveis e compartilháveis, com foco na comunidade e respeito aos autores originais.
+[![license](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+[![platform](https://img.shields.io/badge/platform-Windows-brightgreen.svg)]()
+[![electron](https://img.shields.io/badge/electron-Versão_do_Electron-purple.svg)]() [![react](https://img.shields.io/badge/react-Versão_do_React-blue.svg)]() [![chat](https://img.shields.io/badge/chat-Junte%2Dse%20ao%20Discord-7289DA.svg)](https://discord.gg/BQRt3xAxAT)
 
----
+## ⚡ Visão Geral
 
-## Sobre o Projeto
+Skinly é uma aplicação desktop moderna e fácil de usar para trocar skins customizadas no League of Legends. Desenvolvido para simplificar a personalização do seu jogo, o Skinly oferece uma experiência intuitiva e direta para gerenciar suas skins.
 
-Este repositório contém arquivos de skins para jogos que você pode baixar, usar e modificar para fins pessoais, não comerciais. A iniciativa visa facilitar o acesso a skins de qualidade, respeitando os direitos dos criadores originais e promovendo um ambiente colaborativo.
+**É 100% GRATUITO!**
 
----
+## ✨ Recursos
 
-## Licença
+* **Navegar & Baixar Skins** - Explore e baixe uma vasta coleção de skins customizadas.
+* **Pesquisa Inteligente & Filtros** - Encontre skins rapidamente com opções de filtragem.
+* **Instalação Automática** - Instale skins com apenas um clique, sem complicações.
+* **Suporte Multi-idioma** - Disponível em Português (Brasil) e Inglês (e mais no futuro).
+* **Sistema de Favoritos** - Salve suas skins favoritas para acesso rápido.
+* **Atualização Automática** - Mantenha o Skinly sempre atualizado com as últimas funcionalidades e **correções de bugs rápidas**!
+* **Detecção de Jogo** - Detecta automaticamente sua instalação do League of Legends.
 
-Este projeto é licenciado sob a **Skinly Custom License (SCL) - Versão 1.0, Julho 2025**.
+## 🚀 Instalação
 
-### Resumo da licença
+### Download
 
-* Você pode usar, compartilhar e modificar os arquivos de skin para uso pessoal, não comercial.
-* Deve sempre dar crédito apropriado à Skinly e aos contribuintes originais.
-* Modificações devem ser distribuídas sob a mesma licença.
-* Não é permitida a utilização comercial nem a indicação de apoio da Skinly sem autorização.
+1.  Vá para a página de [Releases](https://github.com/SeuUsuarioGithub/Skinly/releases) (substitua pelo link correto do seu projeto).
+2.  Baixe o instalador mais recente `Skinly-Setup-x.x.x.exe`.
+3.  Execute o instalador e siga o assistente de configuração.
 
-Para detalhes completos, consulte o arquivo [LICENSE](./LICENSE).
+## ⚠️ Isenção de Responsabilidade
 
----
+Este projeto não é afiliado à Riot Games. League of Legends e Riot Games são marcas registradas da Riot Games, Inc.
 
-## Como usar
+Use por sua conta e risco. Skins são apenas client-side e não fornecem nenhuma vantagem competitiva.
 
-1. Clone ou baixe o repositório:
+## 📧 Contato
 
-   ```bash
-   git clone https://github.com/seu-usuario/skinly-skins.git
-   ```
+* **Servidor Discord:** [Junte-se à nossa comunidade](https://discord.gg/BQRt3xAxAT)
+* **Repositório GitHub:** [Skinly - League of Legends Skin Changer](https://github.com/SeuUsuarioGithub/Skinly) (Substitua pelo link do seu repositório)
 
-2. Navegue até a pasta com as skins desejadas.
+## ❤️ Suporte & Doações
 
-3. Siga as instruções específicas do jogo para aplicar as skins.
+Se você achar o Skinly útil e quiser apoiar seu desenvolvimento, doações são muito apreciadas e ajudam a manter o projeto vivo e em constante aprimoramento!
 
----
-
-## Como contribuir
-
-Contribuições são bem-vindas! Para enviar novas skins ou correções:
-
-* Certifique-se de que as skins estão em conformidade com esta licença.
-* Inclua créditos claros aos autores originais.
-* Abra um pull request com descrição detalhada das modificações.
+Para doar, por favor, entre em contato conosco através do nosso servidor no Discord. Lá, você poderá falar diretamente com a equipe e combinaremos a melhor forma de você nos apoiar (por exemplo, via PIX). Seu apoio é fundamental!
 
 ---
 
-## Contato
-
-Para dúvidas, sugestões ou licenciamento comercial, entre em contato:
-
-* Email: [business@skinly.org](mailto:business@skinly.org)
-
----
-
-## Aviso Legal
-
-Este projeto é distribuído "no estado em que se encontra", sem garantias de qualquer tipo. Os skins são modificações não oficiais e não têm afiliação com os proprietários originais dos jogos.
-
----
-
-Se quiser, posso ajudar a montar um README mais detalhado ou formatado para GitHub com badges, exemplos e etc! Quer?
+Feito com ❤️ por [Kagijin]
