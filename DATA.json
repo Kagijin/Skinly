@@ -130,7 +130,6 @@
     {
       "name": "Star Guardian Ahri",
       "path": "Ahri/Star%20Guardian%20Ahri.zip"
-    }
     },
     {
       "name": "After Hours Spirit Blossom Springs Ahri",
@@ -531,6 +530,10 @@
     {
       "name": "Spirit Blossom Aphelios",
       "path": "Aphelios/Spirit%20Blossom%20Aphelios.zip"
+    },
+    {
+      "name": "Prestige Spirit Blossom Springs Aphelios",
+      "path": "Aphelios/Prestige%20Spirit%20Blossom%20Springs%20Aphelios.zip"
     }
   ],
   "Ashe": [
@@ -5791,6 +5794,10 @@
     {
       "name": "Spirit Blossom Sett",
       "path": "Sett/Spirit%20Blossom%20Sett.zip"
+    },
+    {
+      "name": "Spirit Blossom Springs Sett",
+      "path": "Sett/Spirit%20Blossom%20Springs%20Sett.zip"
     }
   ],
   "Shaco": [
@@ -6225,6 +6232,10 @@
     {
       "name": "Victorious Sona",
       "path": "Sona/Victorious%20Sona.zip"
+    },
+    {
+      "name": "Spirit Blossom Springs Sona",
+      "path": "Sona/Spirit%20Blossom%20Springs%20Sona.zip"
     }
   ],
   "Soraka": [
@@ -6639,6 +6650,10 @@
     {
       "name": "Super Teemo",
       "path": "Teemo/Super%20Teemo.zip"
+    },
+    {
+      "name": "Spirit Blossom Springs Teemo",
+      "path": "Teemo/Spirit%20Blossom%20Springs%20Teemo.zip"
     }
   ],
   "Thresh": [
@@ -7535,6 +7550,10 @@
     {
       "name": "Thunder Lord Volibear",
       "path": "Volibear/Thunder%20Lord%20Volibear.zip"
+    },
+    {
+      "name": "Spirit Blossom Springs Volibear",
+      "path": "Volibear/Spirit%20Blossom%20Springs%20Volibear.zip"
     }
   ],
   "Warwick": [
